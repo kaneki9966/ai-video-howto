@@ -1,0 +1,325 @@
+[Music]
+this video is sponsored by Squarespace
+what's going on guys Vincent here from
+the crib no joke dad welcome to our
+video quick tip and this quick tip video
+my to show you guys how I create this
+cool little glitchy Tex transition with
+the NAP effects using expressions now in
+this video we are gonna be focusing on
+the cool screen touch that you see right
+here so we are going to be showing you
+how to recreate this kind of glitchy
+distortion chromatic aberration color
+effect we're not gonna be focusing on
+that because I've covered it so many
+times in other tutorials and you can
+basically create it using a lot of third
+party plugins or displacement Maps or
+even my free digital edge script so I
+will touch up on it a little bit at the
+end of the video tutorial then this
+tutorial be focusing on the actual text
+itself from one text to another using
+this kind of blocky transition right
+here this kind of randomization blocky
+look right here in After Effects so go
+ahead and get started right here so
+today we're gonna be using an expression
+by my buddy Kyle Martinez he creates
+some really awesome stuff and tools for
+After Effects including his Cyclops and
+a lot of other useful information so
+follow him on Twitter he posted is a
+nice little article here showing you how
+we kind of create this glitter effect
+right here using expressions and this is
+what I wouldn't be using today in this
+tutorial here he has a nice little
+breakdown of the expression block by a
+block to kind of see what it does so if
+you want more information feel free to
+read its article post it down below in
+the video description but it will kind
+of briefly cover it as well in this
+tutorial here so if you scroll down to
+the bottom you can actually go ahead and
+copy the whole entire code right here
+copy in and we go back into After
+Effects here and we're going to go ahead
+and paste it into my power kit extension
+right here it's basically just a little
+notepad kind of power user tool for
+After Effects free available at clear
+video net so I'm gonna go into my
+tutorial comp here and I just paste it
+in here just to kind of make it a little
+bit larger for you as I see here hope
+it's a little bit easier to see so
+basically we need to create a text layer
+for this to work so create a new text
+layer I'm gonna call it glitch text
+right here and let's go ahead and for
+this to work we need to create two
+slider controls right so let's go to
+effect expression controls and krei
+a slider control and we'll duplicate it
+and make two of them same thing the
+first one we're gonna name it post your
+eyes time and the second one we're gonna
+name character offset percentage and
+make sure you spell it exactly like this
+because the expression relies on having
+the sliders named posterized time and
+character offset percentage so if you
+want to change the slider name you're
+going to change the expression as well
+so let's look a look here the first line
+right here is posterized time and it's
+referencing the slider right here and
+posterized time is basically going to
+post your eyes the expression and the
+results kind of like the poster eyes
+effect in After Effects so it's going to
+change the frame rate kind of the whole
+thing so keep that in mind for
+referencing this first slider right here
+and Kyle recommends 12 but I can like to
+set it to around like 6 or 10 or so so
+I'm gonna set it to 10 for now and
+doesn't really do anything right now
+you'll see in a second the next one
+right here the next line right here is
+probability and that's referencing this
+slider control value right here divided
+by 100 to get that kind of percentage
+like you know point nine point eight
+whatever ratio right there and this
+characters line is creating an array of
+all the possible randomization
+characters that we're going to be using
+now whenever I use these Unicode blocks
+right here these never work for me isn't
+working my system I'm not sure why it's
+just me or it's just you know my
+computer if you actually Google like
+Unicode blocks you'll get a list of
+unicode block characters and the other
+ones that work for me it's like this
+full block kind of character right here
+so I'm going to copy that one the other
+ones might work for you I'm going to go
+ahead and delete all these right here do
+a quotes and I'll just paste that one
+block in here and I don't really like
+this /one so I'm going to delete it and
+change it to an underline so you can
+customize this to whatever you want to
+use you can use like one or two blocks
+or a whole bunch of different random
+characters right here but these are kind
+of like the randomization characters
+that we're going to be using
+and so the whole idea is that we're
+going to be splitting so we're take the
+text lines right here and we're gonna
+split our text layer into different
+lines so luckily for us we only have one
+line of text but this would work if you
+had multiple lines of text so it's going
+to split our text layer based on the
+lines using character turn right here
+and now I'm texting line it's just the
+length of the lines or how many lines we
+have it's gonna loop through each line
+right here and it's going to get the
+original line and make a new line and
+then we're gonna pretty much convert
+that line using this get new line
+function that we have right here and
+then the the new text line is gonna be
+this new line so this is the magic
+function the custom function right here
+but it's going to get that line empty
+line right here it's going to pretty
+much rent so it's going to go through
+each character and randomize and
+determine we're gonna get a random
+number and if it's below the probability
+then we're going to add a random
+character if not then we're going just
+to add the original character right here
+so it's basically going through every
+character and just pretty much
+randomizing it so some characters will
+be randomized some characters will notch
+depending on the randomization and our
+character offset percentage right here
+and finally we have another function get
+random characters so it's gonna select a
+random character from our array up here
+and then finally it's gonna join all the
+lines together return it as a string and
+that's going to be our text layer so
+basically we're gonna copy this into the
+text source code hold then alt or option
+on the stopwatch right here and just
+paste this code into there and so we can
+go in and kind of just close this up now
+and so now if we change the character
+offset percentage to like 50 that means
+50 percent of the characters are
+probably going to be randomized I said
+it's a zero none of these would be
+randomized if we said it to a hundred
+percent then all of these would be
+randomized right here and you can kind
+of see what it does it just kind of
+randomizes it
+and we set this number to a really high
+number like you know 30 it right ms is
+really really fast if you said it's a
+light one it's going to randomize pretty
+slow so just kind of the effect they
+were going for here and I think that 10
+is kind of like a good amount right here
+and so we'll start off at zero right so
+our text is just gelling and somewhere
+along the line right around here I want
+to go ahead and increase the slider from
+0 to 100 and so it randomizes just like
+this but we can't just transition with
+like this we have all these characters
+right here and it just kind of stays
+like that so you want to end it right so
+I'm going to go ahead and drag this over
+and clip the text layer right by the
+same time we want to kind of shrink so
+I'm going to go ahead and an animate and
+add a opacity and go ahead and set this
+to zero right and so I'm going to go
+down to the range selector right here go
+to advanced and change the smoothness
+from 100 to zero and I'm going to change
+the offset right here so offset to 100
+means that it's going to be the text is
+gonna be on so I'm gonna go to this I'm
+gonna go hit you you and the keyboard
+show the keyframes here go to this first
+part right here so to keep from for off
+up to 100 at the very end of the clip I
+want it to be set to zero and so what we
+have now is our glitch randomizing away
+at the very end but also shrinking just
+like that and this will give us
+transition to the next text layer so I'm
+gonna go ahead and duplicate this hit
+ctrl command D to duplicate we're gonna
+hit you on the keyboard you on the
+keyboard and we're going to bring this
+second text layer forward right around
+here I'm going to change this second
+text to expression right so we have
+glitch tax expression and we'll move
+these keyframes forward and we're pretty
+much going to flip them right so at
+first I want this to be zero and it's
+going to fade in to this to 100 and then
+we're going to go to the character
+offset percentage right here and set
+this from 100 and set this to zero so
+we're essentially flipping it right so
+one text layer is you know becoming more
+randomized and the second text layer is
+gonna be randomized but it's in
+transition to being more normal to the
+final form so what you have it's like
+this and this is all occurring within
+one second or so and as you can see we
+have this nice little Marana mines
+characters with these nice blocks and
+underscores and whatnot and see if you
+have something like this and you know by
+itself it doesn't really sell the effect
+here we need it we need to go and Center
+these up so by itself it doesn't really
+sell the effect right if I go ahead and
+maybe add a grid and this grid right
+here is created using a free preset
+called UI grids by dark poles I'll link
+to that preset will be linked down below
+in the video description and then once
+we have the kind of UI grid right here
+which is a free preset you can actually
+go ahead and add sort of like a glitch
+effect right here and the one that I'm
+using for the original demonstration is
+universe glitch by red giant it is not a
+free plugin it's a third-party plugin
+that you have to buy which is what I
+don't want to feature it too much but it
+is a really cool plugin to use and the
+universe suite is also pretty cool to
+have so just something to keep in mind
+and kind of adds that kind of digital
+screen looking right there that you see
+I added a tint effect
+d saturated a little cryptic effect for
+some color correction and a universe RGB
+separation to can add that chromatic
+aberration right there on top of that I
+have a quick little globe from optical
+glow also from red giant and just by
+adding a few little tweaks like that you
+can really sell the whole digital glitch
+look and again like I said you don't
+need to use these third-party plugins or
+pay for their pretty plugins to create
+this you can actually create this
+digital effect really easily by watching
+my video tutorials in the past I'm using
+my free tool called like dojo glitch or
+other free tools on online on the web
+using displacement maps and you know
+splitting the RGB many different ways
+and adding the default glow effects so
+you guys create this effect pretty
+easily using other free alternatives I'm
+not just using third-party plugins but
+this is kind of how you transition from
+one text to another really quickly using
+an expression Baca Martinez awesome
+stuff kind of randomizes everything and
+goes through line by line randomize
+every character brings it all together
+and you have something like this pretty
+nifty little expression by Kyle awesome
+stuff right here from him um said that
+props to him so before I go I want to
+give a quick thanks to our sponsors over
+a Squarespace for sponsoring today's
+video Squarespace it's the only web
+platform to create amazing website buds
+for store online business or portfolio
+they have amazing themes to choose from
+fully customizable so you can make it
+the way you want to look like without
+having any coding knowledge required
+they have awesome 24 hours support and
+best of all use the promo code dojo I
+check out you got free save 10% off your
+order and supported edges check it out
+over at squarespace.com slash dojo
+Squarespace and I'm gonna place a create
+amazing website
+that's pretty much of its tutorial guys
+again mad props accom Martinez for this
+awesome expressions hope you guys too
+learned a lot in the tutorial again all
+the mints will be posted in the
+description down below if you guys like
+these have the videos going through this
+video a thumbs up for the YouTube
+algorithm subscribe for more videos like
+this and I'll see you guys next time bye
+guys

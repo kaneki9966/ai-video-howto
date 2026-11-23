@@ -1,0 +1,139 @@
+hi this is the pixel Smith and I'm here
+today with a really good tutorial on
+using the wiggle selector type for text
+animation so we're gonna mean several
+different things in using After Effects
+there's a wiggle expression which you
+can use to pretty much vary any property
+there's also when you're working with
+dedicated shape layers wiggle transforms
+from the modify deliver shape layers but
+for text there's actually its own wiggle
+selector and it's designed specifically
+when you want to have text kind of move
+randomly so as you can see I've got a
+text layer here it is where the words
+wiggle text on it and in the wiggle text
+layer in the timeline I'm going to
+animate and I'm gonna animate all
+transform properties what this it does
+is gives me a animator called animator 1
+it gives me a range selector normally
+range selectors are used to select a
+range of text to control and then it
+lists all the transform properties an
+anchor point position scale etc now if I
+were to animate this right now all that
+would happen is it be able to animate
+maybe the position of the scale of the
+rotation going from either the beginning
+of the text to the end or into the
+beginning so basically the range
+selector is pretty much linear what I
+want to do is basically spread the text
+around I want to scale it a little bit I
+want to adjust its position to dis
+rotation and then I want to animate that
+so it basically a symbol so I can read
+the text again so across the animator
+I'll click the Add button and I'm gonna
+add a selector and they slept I'm gonna
+add it's called a wiggly selector so in
+the wiggly selector I'm gonna leave it
+right here I'm gonna then change the
+some of the properties I'll just
+basically change the position a little
+bit arrays that I'll change both numbers
+horizontal and vertical so I can spread
+it around
+and positive negative some really matter
+that they'll both spell out the text I'm
+just basically go I do it so it's the
+edge of my of my composition I'm gonna
+change the rotation a little bit just to
+get some rotations when we'll own the
+letters like that and I'm basically
+gonna lower the opacity now because of
+the wiggly selector it's actually
+adjusting slightly differently each way
+so what happens right now is this the
+values are actually wiggling they're
+changing this is what the weakness
+center actually does and each individual
+property for each individual letter is
+wiggling independently I'll stop the
+preview I'm only previewing about the
+three seconds of my timeline because
+everything I did that by changing the
+position of the work area Bartis grab
+the end of it and is pulled in a little
+bit so what I want to do is a be able to
+animate this so that the text starts off
+all wiggling around and moving around
+and randomized but then at the end it is
+symbol so I can view it now this is
+actually done not by adding key frames
+to the wiggly slicer itself it's done by
+adding key frames to that first Reince
+lettered made I'll go to the range
+selector I want about a second of
+Wiggles so I'll go to one second on my
+timeline I'm gonna add a keyframe for
+the start range selector at 0% and then
+I want basically a two-second animation
+so I'll jump to three seconds on my
+timeline and I'm going to change start
+so it's a hundred percent so basically
+the range selector moves over the text
+from beginning to end and the result is
+the text ops liquid so if I placed in
+the beginning again it's one second a
+full wiggling and the text starts just
+symbol down I'm gonna move out my way
+it's a little bit about the five-second
+so you can see a little better
+and that didn't I didn't change the
+start key frame 200% uh something that I
+said and that's why it kept moving at
+the end so I just used the J and K
+keyboard shortcuts to jump from keyframe
+to keyframe J jumps backwards Cajuns
+forwards and I'm gonna raise that start
+to a hundred percent so now the range
+selectors are both the end of the text
+which means no text is between them
+which means none of the text is affected
+by the wiggle or for that matter any
+other property here and that's the
+result will text with completely live
+text I haven't had to convert it to a
+shape layer
+I haven't had to add a bunch of extra
+keyframes google text with basically two
+keyframes fun no problem at all now the
+reason the rain sector controls the
+Wiggly such as content is because the
+wiggly slider is set to intersect as its
+mode basically the only time the wiggly
+sector will be in effect is when it and
+another selector in this case the range
+selector are intersecting over the text
+so as I animate the range selector
+moving away from the text the loose
+letter is also being disabled as well in
+this case under the wiggly selector
+you've got options for max amount min
+amount this allows you to control how
+much it varies by in general it is a
+percentage of whatever the properties
+you've changed are so they're basically
+in this case allowed to go up and down
+to wiggle by 400% an 800% you can change
+the speed of wiggles but any blows per
+second so you can have a lot of fun
+playing with these properties to get
+different and unique and fun
+results from your wiggle so again this
+is the weekly selector type which is a
+property for every text layer in After
+Effects

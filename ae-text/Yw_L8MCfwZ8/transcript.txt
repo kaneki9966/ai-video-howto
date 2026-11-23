@@ -1,0 +1,468 @@
+Animating text like this can be
+challenging, but this tutorial will help
+you how to do that.
+&gt;&gt; Hey everyone, my name is Abhishek and in
+today's video we are going to create
+this kinetic typography animation in
+After Effects without using any
+third-party plugin. Using this
+technique, you can create lyrical music
+videos. For example, I made this one
+using After Effects only. So, let's see
+how to make this.
+All right, so I'm in After Effects and
+we'll begin by creating a new
+composition. Let's call this one
+animation. Width and height for this one
+we are going to set this to like really
+big. So, I'm going to set this to 5,000
+by 5,000.
+And
+for the frame rate, we can pick 30 FPS
+and duration is up to you. You can pick
+whatever you want. Just click on okay.
+Now, here we have our big composition.
+So, first we will add our background.
+So, right click new, let's add a solid.
+And for this one, we can make it little
+bit off white.
+Somewhere around here. Let's click on
+okay. Now, let's create one more solid
+and on top of this one, we are going to
+apply the grid effect. So, let's search
+for grid. And let's just drag it on to
+this. First, I'm going to change its
+color to let's say black. And set the
+border to 1.5. For this, we can change
+this to width slider and just increase
+the width slider so that we can control
+the size of this grid. And I'm going to
+set this to let's say 100. So, that we
+have this very nice beautiful grid
+background.
+So, once you are done with this, we are
+ready to add our text. So, for that,
+just select the text tool and just click
+and type whatever you want. Now, it's up
+to you if you are creating a lyrical
+video, then you can type individual word
+of the song animating. And let's just
+select everything. I'm going to change
+its color to black. For the font, I'm
+using this Montserrat semi-bold font,
+but it's up to you. You can use whatever
+you want. Let's increase the size to
+let's say 200.
+And I think this is too big, so we can
+set this to 100 for now. And let's just
+play around with its position. So, I'm
+going to align it somewhere around here.
+We have a very big canvas, so we can
+animate individual letters at each place
+and then we can move around our camera
+throughout region. So, here we have our
+text and let's just make sure that its
+anchor point is in the center. So, you
+can hold on the control key, double
+click on this pan anchor tool. Now, it's
+in the center. Let's quickly animate it
+by adding a key frame for the scale.
+Let's add a key frame. And let's move
+this little bit ahead.
+In the beginning, set this to zero. So,
+now we have added the scaling animation,
+but if you want to add little bit of
+bouncy-ness to this, so for that, we can
+use this expression. So, I'll put this
+in the comments below, so you can just
+copy it from here. And after that, you
+can hold on the alt key, click on this
+stopwatch, then just paste it. Now, if
+you want, you can play around with the
+frequency and decay value. But for this
+example, I found these values working
+fine for me. Now, we can easily zoom in
+and I want these key frames to be like
+really close so that the animation is
+really fast like that. We can select the
+first key frame. Let's press F9 to easy
+ease it. And I'm going to change this to
+speed graph. Let's select the first
+point and just make it look like this.
+There you go. Now, we have this very
+quick
+bouncing text reveal. Now, the next step
+is to sync all of these text depending
+upon your voice over. So, if you have
+any voice, then you can just simply
+select this and let's press control D.
+Now, just simply change the text.
+Now, you can place it at a different
+point. Let's make sure that its anchor
+point again in the center. Now, let's
+select this, press U. I'm going to go to
+this end point and let's just increase
+its size. Now, you can
+press R and let's just rotate it. We can
+place it at whatever angle you want.
+Let's change its font to let's say bold.
+If you want, you can change its color as
+well. Let's make it green.
+Now, let's play around with its timing.
+So, again, if you have any voice over,
+then you can play with it. So, if I
+press play, then as soon as the next
+word comes in, we want our layer to
+start over there. So, animating text.
+And after that, we can press control D
+once again. Let's move it little bit
+ahead.
+Let's type the next letter. Let's type
+like. Change its color to black.
+Let's play around with its position.
+Now, if you again, if you want to play
+make it smaller, then you have to go to
+this key frame.
+Let's make this smaller. Let's press R
+and this time we can rotate it to the
+other side.
+Let's just place it over here.
+There you go. Now, we have animating
+text like then again, you can duplicate
+and just keep on adding bunch of
+different text over here. So, after
+that, once you are done with one
+sentence, then you can switch over to
+any different locations. So, for
+example, once we have added three or
+four text over here, then we can switch
+little bit to this side. So, after that,
+we can just duplicate these. Let's press
+control D.
+And just move them little bit ahead. So,
+first these will appear and then we can
+select them
+and just move them to different sides.
+So, let's them over here. So, we have
+this next text. Again, we can change
+this to whatever you want. Let's type in
+this tutorial, we are So, now we are
+adding the next sentence. And in the
+same way, you can add bunch of different
+text over here. Then again, duplicate
+them and just add bunch of different
+over here and at this place as well. So,
+you basically have to rearrange your
+text in different locations inside this
+whole area. So, I'm going to quickly
+show you the final example. So, now I
+have added bunch of different text
+layers and if I press play, you can see
+we have different text sections
+appearing at different locations inside
+this comp. All of these are synced
+according to the voice over. And using
+this, we can easily animate our camera
+to different locations so that we will
+focus on different text. So, once you
+are done with this, we are ready to
+convert the whole thing into 3D. So, for
+that, let's select all the layers. So,
+press control A to select everything.
+Then just simply click on this icon. So,
+it will make every layer 3D including
+the background. Now, we don't want the
+background to be exactly at this point.
+So, let's press P for position and I'm
+going to move them little bit in the Z
+space. So, for this for example, I'm
+going to set this to let's say 0.5.
+And this one, we can set this to let's
+say 0.2.
+So, these layers will be slightly apart
+in the Z space so that they won't
+interfere among
+each other. Now, after that, we can
+create one more composition. Let's call
+this one main. And inside this width and
+height, I'm going to set this to 1920 by
+1080, which is going to be my final
+output. So, if you want a vertical comp,
+then you can set this to 1080 by 1920.
+Rest of the things will remain same.
+Just click on okay. Now, let's quickly
+import our comp, which is this one and
+you can see it's quite big. So, we can
+make this 3D as well, but along with 3D,
+we also want to make sure that this
+option is checked, collapse
+transformation.
+Now, we can create our camera. So, let's
+go to layer, new, let's add a camera.
+And for this one, we want uh
+fish eye sort of effect. So, for that,
+we can select this 15 mm preset.
+Just click on okay. Now, we have created
+our camera. Now, let's quickly align it
+so that it matches with our scene. So,
+let's select this and in order to
+animate it, we can press P. Let's add a
+key frame for position. Now, let's open
+it up. We can add key frame for point of
+interest, orientation and all of these
+values, whatever you want to animate.
+Now, in order to use this camera, we can
+use the camera move tool. So, for that,
+you can simply press C on your keyboard
+or you can click on these icons. So, for
+example, if I press C, now this icon
+will if I click, you can see I can
+easily orbit around my object. Now, if I
+press C again, now this is the move
+tool. Now, I can easily move in my comp.
+Let's quickly move it so that we have
+our first text. Let's move it little bit
+ahead and you can see it is appearing at
+this point.
+There you go. Now, if you want, you can
+add the title action safe so that you
+can easily position all of your layers
+in the middle. Now, if I press C again,
+you can see it will change this to zoom.
+So, now I can easily zoom in.
+Now, let's select this and
+let's delete these key frames and let's
+add key frames at this point only.
+Now, in the beginning, we can easily
+change these values. So, I want the
+first frame to be somewhere around here.
+Let's press C again. Let's place it in
+the middle. Now, as the first text has
+appeared, let's move little bit ahead
+and as soon as the second text appear,
+we can move it in the middle of our
+comp. You can also move around it. So,
+let's press C again. Now, we can change
+the orientation. Let's press C.
+Now, we can zoom in as well.
+There you go. Now, let's move little bit
+ahead.
+We have the next text. Let's press C.
+Or you can select this move tool. Let's
+move it to the next text.
+And if you want, you can press the one
+or two or three key on your keyboard as
+well. This will easily help you to move
+or switch between these tools.
+And let's just simply zoom out or maybe
+zoom in.
+Let's add a really nice angle like that.
+Now, let's move little bit ahead and we
+have the next text down below. So, we
+can move it to this. And I think this is
+still it has to come out, so we can move
+these key frames ahead.
+Maybe let's zoom out and let's press
+two so that we can orbit around this. I
+don't want the edges to be visible, so
+we can
+just move it nicely. Let's move little
+bit ahead.
+After it, we have our next text
+appearing on the side. So, you can see
+once we are finished with these four
+text, then we have text appearing on the
+side. So, for that, we can easily move
+around. So, first let's orbit it so that
+we can see.
+And maybe it's too close, so we can zoom
+out. Press three to select this.
+And let's just move around our scene.
+So, here we have our next text.
+Let's move around this.
+There you go. Maybe let's press
+and zoom in.
+There you go. So, after this it will
+quickly jump to this text a little bit
+faster. There you go.
+Now, as we have the next text appearing,
+we can move it to this side and let's
+just rotate it as well.
+There you go. Let's move a little bit
+ahead.
+Now, we have our next text coming in.
+Just place it over here. And after this,
+let's go back to our main comp. And
+after this, our text will appear a
+little bit
+above this. So, again, we can
+move to the new place, which is this
+one. Let's play around with its timing.
+So, it starts appearing somewhere around
+here.
+We want it to be already at this point.
+There you go.
+As the next text appears, we want it to
+move to this side. Just play around with
+it and add random [snorts]
+zooms and these orbits around these
+texts.
+And in the same way, you can like keep
+on going and keep on animating it, so
+that our camera moves to all of these
+texts individually. So, now I have
+animated my camera and you can see it If
+I press play, you can see it is moving
+to all of these locations. But the
+animation is not looking nice because we
+have to add easing to these keyframes.
+So, after that, we can select
+everything. Let's press F9. Now, let's
+go to the graph editor. Inside the graph
+editor, make sure you're using the speed
+graph, not the value graph. After that,
+make sure all of these keyframes are
+selected and let's just quickly zoom in
+and we want all of them to have the
+similar sort of easing. So, just move it
+all the way to the right. Let's select
+this handle and move it all the way to
+this
+left, so that we have this very steep
+motion in the middle. Now, if I press
+play, you can see our camera will have
+this very quick motion.
+And it will look very nice once we add a
+little bit of more compositing effects
+on top of this. Now, after this, you can
+also add a little bit of depth of field,
+which will really enhance the look of
+your final scene. So, for that, let's
+select the camera. Let's press AA. After
+that, let's enable the depth of field.
+Now, under this, we have the aperture
+option. Now, if I move a little bit
+ahead, aperture basically means how much
+like blurred you want in your scene. So,
+for example, if I lower it down, now you
+can see all of these edges are sharp.
+But if I increase it up quite a bit, you
+can see it will blur out the edges more.
+But I'm going to set this to, let's say,
+300 for now.
+Now, we can play around with the focus
+distance. So, all you have to do is if I
+increase this, you can see now this
+region is in focus.
+But we want it to be a little bit
+closer,
+so that this text is in focus. Now,
+everything outside this region will be
+blurred. And we can animate this as well
+because our camera is moving and we want
+to focus on different
+objects. So, let's add a keyframe for
+focus distance. Now, let's press U. And
+let's go to our first text, which is
+this one. Now, it's blurred, so we can
+play around with the focus distance.
+So, if I lower it down,
+somewhere around here. Now, it's in
+focus. Now, let's move to the next text,
+which is this one. Again, this is out of
+focus, so we can
+probably increase this up. There you go.
+Now, it's in focus.
+Now, let's move to the next keyframe.
+And let's just play around with it. So,
+in the same way, you can go to each
+character and then just play around with
+the focal distance till they are in
+focus, like this. So, now I have
+animated the focus distance as well.
+Now, all of these texts will be in focus
+as we are moving. And in order to
+enhance this more, we can add motion
+blur to this as well. So, for that,
+let's go inside this. And now, let's
+select all of these layers and make sure
+that this motion blur option is checked.
+And the motion blur for the comp is
+checked as well. Now, let's go back to
+the main comp. And inside this, make
+sure that this option is checked. So,
+now if I press play, you can see we have
+added this very nice motion blur to this
+comp. And this is before and this is
+after. So, make sure that this is also
+checked in order to
+enable the motion blur. Now, if you
+want, you can leave your animation over
+here as well because we are done with
+this part. But if you want to take it a
+little bit to the next level, then you
+can add one more layer. So, let's add an
+adjustment layer and we can add a very
+nice fish eye effect to this. So, let's
+search for warp.
+And let's drag it onto this adjustment
+layer. And inside this, change this to
+fish eye. Now, you can play around with
+the bend amount. I'm going to set this
+to 50 because this looks good, but if
+you want, you can like increase it to
+have,
+you know, this little bit more dramatic
+effect. For this one, let's set this to
+50.
+And now, if I press play,
+you can see we have added this very nice
+warp and fish eye effect to the whole
+animation. So, using this exact
+technique, I made this lyrical video as
+well. So, now we are done with the
+animation. And as a bonus tip, if you
+want to make this more pop out, then you
+can add RGB effect to this as well. So,
+I have made this script, RGB Splitter.
+Using this, you can just simply select
+the layers and just click on split it
+and you can see it will add this very
+nice RGB effect to this whole animation,
+like this. So, you can use this in music
+videos as well. Now, if you want the
+script, then I will put the link in the
+description. But if you don't want to
+get the script, then you can search for
+you on YouTube and you will find bunch
+of different tutorials in which they
+have shown how to create this. But if
+you're using this script, then you will
+get access to a bunch of different
+settings. So, for example, I can easily
+play around with the distortion.
+And if I increase it, you can see it We
+are getting some really nice distortion
+at the edges.
+I think we can lower down the noise
+effect.
+Let's lower it down in the green channel
+as well.
+So, in this way, you can create these
+kind of kinetic typography in After
+Effects and you can stylize them using
+the fish eye effect or the RGB effect as
+well. Now, if you want the project
+files, then those are available on
+Patreon. So, if you're supporting me
+over there, then you can download it
+from there. And if you're not, then you
+might consider it because you will get
+access to the tutorial project files and
+exclusive templates that are available
+only on Patreon. So, make sure to check
+them out. Link for that is in the
+description. And with that being said,
+my name is Abhishek and I'll see you in
+the next one.
+&gt;&gt; [music]

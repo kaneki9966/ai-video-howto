@@ -1,0 +1,574 @@
+hey everybody i'm nathaniel dodson from
+tutvid.com welcome right into this adobe
+after effects tutorial where today we're
+going to take a look at
+this sort of handwritten text effect
+in after effects it's pretty simple it's
+pretty easy and if you enjoy the video
+we'll make sure you go ahead and
+subscribe to the channel so you don't
+miss any videos in
+the future let's jump into after effects
+right now okay well here we are in adobe
+after effects i have a composition
+created here which is 2560 by 1440 but
+honestly this effect works on any size
+composition uh you just kind of mess
+around with the size and make it however
+you want it to be
+i've got a little textured background
+that i threw in here as well but the
+effect really begins with the text tool
+so i'm going to select that and i am
+going to type out savage
+because that seems to be a trendy word
+these days and i'm going to open up my
+character panel over here
+i am going to go with a font called
+black sword
+which i believe is a free font it's kind
+of a really sharp
+nice looking handwritten uh style
+font as you can see i'm going to bump
+the size here let's try bumping it up to
+about 500.
+um again this might be too big for the
+size composition you're using or not i'm
+gonna hold down my commander control key
+and just drag it and you'll see it's
+gonna snap to like the middle
+of the document just like that very cool
+and i am going to
+select the fill color here and i can
+change it to anything honestly i could
+probably just leave it the way it is
+because we're going to be filling it
+with a different
+method obviously we're going to be
+creating sort of the handwritten method
+that makes it look like we're drawing
+this
+word by hand or writing this word i
+should say so right now i've got two
+layers down here we've got our text
+layer and our background layer and we
+want to create
+a third layer now this is very important
+we're going to be using the pen tool for
+this
+but we absolutely want to make sure we
+deselect our
+shape layer or text layer here excuse me
+because the pen tool will just simply
+draw a mask instead of the shape layer
+that we want so i'm going to deselect
+here
+i'm going to grab my pen tool and i'm
+going to make sure that i do not have a
+fill so just click the word fill and
+choose set that to none and also
+click the word stroke and make sure
+that's set to none as well we're going
+to add a stroke later for now i'm going
+to zoom in on the word
+savage and we want to trace a path in
+the same way that we want our letters to
+be written
+so i want the s to be written like this
+so i'm going to go ahead and trace that
+path
+i'll start right here i'll click and
+pull out my tangent handles i'll drag
+this around you can see down here by the
+way
+shape layer has been created for us
+great i'm going to go and i'm going to
+pull this
+up and around and then i'm going to pull
+it right through the s here
+and of course just ironically it assigns
+this purplish blue color which nearly
+blends in with my text
+so maybe i'll go with does peach yeah
+peach sticks out this doesn't quite look
+as good as i wanted let's go with the
+green
+maybe we'll go with green although
+that's not as visible we're going to
+spend half this tutorial
+just looking for a color that's
+contrasting you know what we're going to
+change the color of our text
+so i'm going to select the text here and
+we're going to go with a very dark blue
+something like that all right let's
+select our shape layer again and select
+it
+click that point so we can continue
+drawing here with the pen tool and what
+i'm going to do i'm going to pull this
+right around here like that
+hold down my alt option key and i can
+just tweak and adjust
+to get the exact path that i need
+something like that hold down alt or
+option and drag this tangent handle
+and just you know make it the way you
+want it to be get the path that you want
+and obviously the more you use the pen
+tool the more accustomed to the stuff
+you're going to be
+and we're going to pull that right
+through hold down the alt or option key
+and what we're going to do here
+there's a few ways you can go you can
+create a whole series of paths one
+letter at a time and you can animate
+them one at a time
+that's probably the best way to go but
+it's a little bit more time consuming so
+i'm going to do this as one giant path
+and you can choose to do it however you
+want the technique that i'm going to
+employ is the same exact thing
+you just need to work out the timing and
+maybe keyframe things and adjust things
+a little bit more
+but you'll get a better result if you do
+one letter at a time for the sake of
+saving time
+we're just going to loop this up and
+around as one giant path and what i'm
+going to do now
+i want the a to be written starting up
+here and looping around
+and then shooting right up here to the v
+and the v getting written just like that
+so i'm going to enter the a right here
+and then we're going to loop up and
+over the a just like that and then down
+the front of the a
+and then i'll probably hold down alt or
+option here and i'm going to bring
+my path right up like that and then
+we're going to come down the back side
+of the a
+just the stem of that and then shoot
+right up here across the face of the v
+hold down alt option bring that tangent
+handle around close the v
+right down the front side of the v and
+then hold down alt option drag this
+tangent handle back
+and we will just complete the shape out
+the top right side of the v
+so there we have the s and the first two
+letters after it and we're just
+creating the path in the same direction
+which we want this to
+be drawn so i'm going to enter the the
+second a right up here just as we did
+before i'm going to pull this path
+right around like so i'm going to just
+drop that in i'm going to drag this
+tangent handle around
+and there we go something like that i'm
+going to pull the tangent handle back
+down this way
+you kind of want the tangent handle to
+be going in the direction which you're
+going to be placing your path it just
+kind of helps
+keep things smooth now here we're kind
+of faced with a dilemma because
+we really want the g to be drawn or
+written from this point right you kind
+of want the g
+to come around this way i mean if you're
+drawing it with a pen i guess you're
+going up and over and back around
+that might look a little funky but hey
+you know what let's give it a let's give
+it a shot let's see what happens here
+so we're going to drag our path this way
+and by the way don't worry see how the
+path is kind of off kilter here
+we can go back and we'll adjust this
+path later once we start animating our
+stroke along it
+to get the perfect effect where we need
+it to be i am going to hold down my alt
+option key here let's pull this just
+through the very very tip of the g
+just so we have it and i'm going to hold
+down alt option there's a tangent handle
+there
+and what i'm going to do i'm going to
+rotate this around so i can see it i'm
+going to grab that tangent handle and
+push it back the other way
+because now we have to come back the
+other way with the letter g
+and we're not quite getting the angle
+that we want or the curve that we want
+so i'm going to pull that tangent handle
+steeply
+up kind of like that there we go
+and this giant tangent handle we can
+just loop this around because we're
+coming up the
+inside part of the g there pull this
+tangent handle down are you sick of
+hearing me say tangent handle yet
+because i'm sick of saying it
+let's drag this right down like so
+and then we'll pull this right up and
+around and i can probably almost pull it
+directly to the e because we're getting
+a big curve here
+so something kind of like that should
+work for us
+we can always adjust this tangent handle
+holding down alt option and just pulling
+it through
+as we need it i'm going to hold down alt
+or option here i'm going to drag this
+tangent handle just slightly up because
+we kind of need to do this dipsy do
+into this part of the e there we go loop
+right around
+come down the back side of the e and
+then write out
+the stem just like that and then you can
+continue the path a little bit further
+if you want
+so we now have a continuous singular
+path drawn along our letters
+exactly how we want the letters to be
+drawn when we animate this
+let's go ahead now we're going to turn
+on the stroke so i'll say give me a
+solid stroke here
+uh this is maybe a little crazy i'm
+going to select the stroke color and
+we're going to go with let's go with
+f4 0 0 2 4. it's kind of this like
+pinkish red i get more red than pink i
+guess
+i'm going to hit ok and what i'm going
+to do i'm going to open up my shape
+layer here and we have contents i'm
+going to open that up and we have the
+shape that we've just drawn shape one
+i'm going to open that up
+there's no fill notice the eyeball for
+the fill is shut off because it feels
+gone
+but the stroke their eyeball is on
+there's our stroke i'm going to open
+that up
+and i'm interested here in the line cap
+and line join
+so check this out right where it begins
+and right where it ends it's just a
+harsh flat cut off
+i don't know that's going to look that
+great when it's drawing itself out so
+i'm going to change it from the butt cap
+to the round cap you can see it's going
+to be
+this nice rounded edge just a little
+smoother a little less
+harsh and the same thing here where we
+have these points like these angular
+corners
+i'm going to change the line join from
+the miter to the round joint it's just
+going to kind of round all that stuff
+off for us
+make it look a little softer smoother a
+little bit more um i don't know just a
+little nicer
+i'm also going to try to reduce the
+width of the stroke to like 35 let's
+just see what that looks like
+you can see how we can see some of the
+letters underneath sticking out so 35 is
+not going to be big enough we need this
+to be big enough to cover the letters
+so let's try pushing it up to 45 and
+some of it might be we might need to go
+in and adjust the path here or there and
+we can do that like i said we can always
+go in and adjust things
+let's push it maybe 65 was about what we
+needed let me go to 60
+and let's let's roll with 60 here and
+we'll adjust things as needed if we need
+to adjust some things
+here's where the magic really happens
+what we're going to do is i'm going to
+collapse the stroke here
+up here next to the word contents we
+have this little add pop out menu
+i'm going to click that and we want to
+choose trim paths
+this is the magic that makes this thing
+work i'm going to bring my playhead back
+here on my timeline back to just a zero
+so we're back here at the starting
+position i'm going to open up trim paths
+and basically we can choose to change
+the start and the end point
+see how start or end in fact i'm just
+gonna move end back to zero
+i'm gonna click the stopwatch here to
+toggle animation for the start point
+and then i'll come out to like i don't
+know maybe three seconds we'll have this
+draw it out over the course of three
+seconds
+and i'll extend this to 100 so now if i
+play through this real quick
+you can see we're getting this effect
+where this is just being drawn
+over the course of all these frames
+it'll take three seconds and it'll write
+out the entire word
+the problem obviously is it kind of
+looks bad because
+it's you know you've got all this line
+stuff out here and it just looks a mess
+it doesn't look like our original text
+right
+well before we do anything actually i'm
+just going to select both these
+keyframes
+i'm going to right click i'm going to
+add an easy ease just sort of easing to
+this
+easy ease easing that's a mouthful for
+you i'm going to collapse trim paths and
+i'm going to collapse my contents here
+and what i'll do i'm going to drag my
+text up above this shape layer
+so the shape layer is what's animating
+the stroke well it's now animating it
+underneath the text and what i want to
+do is see this little toggle switches
+slash modes button
+if you see all this you want to click
+this button to bring you over here so we
+have access to this thing called track
+matte see trk
+matte there you go track matte and the
+track matte of the shape layer i want to
+click on that
+and say alpha matte to the savage text
+layer
+that is going to be our mask so i'm
+going to alpha map to that you can see
+immediately
+all the extra red stuff disappears and
+sure enough here as we animate through
+this
+we will see our letters appearing to be
+written
+on our document just like that so now
+part of the problem with that is you can
+see in an area
+where is it like right here right you
+can see that just stripe of red
+and what's happening is where this
+letter a would be uncovering some of
+that red
+outline that red stroke the stroke is so
+fat that some of it's sticking through
+to the mask
+so the solution would be to take this
+path and just shift it over to the left
+a little bit so we can do that we can
+select our
+or we can choose our selection tool i
+should say and i'm probably going to
+open up my
+shape layer here i'm going to open up
+contents i'm going to select the path we
+want to work on the path
+i'm going to zoom in a little bit here
+i'm going to make sure i have my
+selection tool
+and we can just move this so i can just
+shift this over and see that you can
+watch it just slide
+right out of the way and we can really
+go over our entire
+our entire animation see how we got this
+little bit that shows up too early it's
+because this anchor point is just pushed
+down a little bit too much
+so we can just pull that right over and
+you can go through your animation and
+clean
+everything up that needs to be cleaned
+up so we can just double check here and
+make sure this is looking the way i want
+it to look with the a
+see how there's kind of a weird see how
+it's kind of funky looking there
+there's maybe not a huge amount we can
+do we could maybe pull this point over a
+little bit
+but then we're going to lose some of
+what we're getting with the letter a
+on the back side of that stem so i'm
+just going to slide through here
+see again these kind of weird lines i
+like to try to do away with them but
+sometimes there's only so much you can
+do with what you've got
+this is where doing multiple strokes and
+animating everything in conjunction
+that's really kind of the way to go see
+here as well we got the the a
+sliding through not the way we want it
+to be so we just pull that line right
+back or that anchor point i should say
+we pull that right back
+and over here right that's really bad i
+really don't like the way that looks
+if you really need to push a line over
+you can grab the pen tool
+and what we can do is add an anchor
+point like right there and you can just
+use your move tool and we can just slide
+this
+right over and we can just play through
+it a little bit and make sure that we're
+we're kind of making it how we want it
+to be right i mean there's only so much
+we can do at this point
+because the lines are so close to each
+other but maybe if we just get rid of
+that hangnail looking bit
+something like that even if the stroke
+looks a little thin at least that looks
+organic more than anything
+and then here we got something weird
+going on here so we can just i'm going
+to scooch back down my timeline a little
+bit
+what's going on there what is this i'm
+going to move this around a little bit
+okay i see i see what's happening there
+so we need to just
+slide that over i need to i think i need
+to pull this
+out a little bit because see that all
+that really needs to be filled in
+but i want to be careful on the back
+side there that we're not losing the
+letter
+so this might be an area where i grab
+the pen tool and say you know what
+prime time to just grab and add a point
+add a point right about there
+and then we'll add another point here
+and we'll pull this back this way
+now what's going to happen i'm afraid is
+the line's going to appear thin but
+it'll just thicken kind of on the
+backstroke
+that actually looks fine that doesn't
+look too bad and you know just stuff
+like this this little thing that's
+that's showing just pull that back a
+little bit there we go that goes away
+something like this is going to be very
+difficult because the edge of the stroke
+needs to be somewhere
+but again it's just another another
+example of where
+doing a or creating a path for every
+letter might really be the way to go
+you can adjust that little point there
+and then this too this this
+little bit that's sticking out this is
+just because we have
+the the thickness of the letter is only
+so much and our stroke needs to be a bit
+wider
+so that's something where what we could
+do is place a point right around there
+and we could slide the whole thing one
+way or the other
+so maybe it would look better if we slid
+it over this way
+something like that and we dealt with
+the g looking like that
+and then it's going to come up and join
+right through there but you can see when
+it comes through here it just
+it just destroys and then as it loops up
+over the e
+it'll come right back through you can
+see something's going on right there
+that's probably just a matter of us
+closing it up by dragging the path that
+way
+and then there it goes over and out just
+like so so now if i zoom out a little
+bit i'll pre-render this and we'll see
+exactly what we've created nice smooth
+flow around
+and much less in terms of noticeable
+errors
+there's maybe something i noticed right
+through here yeah that little bit on the
+g is really distracting i think
+but other than that i think everything
+looks pretty decent yeah it's just that
+one little thing
+but you know you create a nice little
+title for yourself using this technique
+and a nice scripty font as a mask it
+works really really well
+and there you have it a nice simple
+effect just like that you can use it for
+whatever you like
+if you do create it to be super cool if
+you'd upload it to instagram and tag me
+in
+the video that you put up there can you
+tag somebody in a video or just in the
+caption for it either way it'd be great
+if you had uploaded to instagram my
+instagram handle is at tutvid you can
+check me out over there
+and i'd love to see the stuff that you
+create if you do in fact create this
+effect
+we did here in this tutorial if discord
+is more your thing you can check out our
+discord server discord dot may slash
+tutvid
+that is open for business as well guys
+for taking a look at drawing with the
+pen tool and masking and just the few
+things that it takes to create this kind
+of simple but
+very cool effect here in adobe after
+effects that's it
+get it got it good nathaniel dodson
+tutvid.com
+i'll catch you in the next one and
+before you go make sure you subscribe to
+my channel for more great tutorials
+every day also buy my course it helps us
+do what we do
+and this channel is supported by viewers
+just like you
+you can also just click the thumbnail
+and watch another video from this
+channel
+see you next time guys

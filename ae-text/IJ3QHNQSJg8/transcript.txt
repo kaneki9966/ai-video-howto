@@ -1,0 +1,411 @@
+in this after effects tutorial we're
+going to learn about text
+animators make some nice neat
+templated text effects and if you stick
+around
+at the end of the video i got a little
+present for you
+all right so let's get into it
+[Music]
+all right so right off the bat here is
+something that i learned way too late in
+my motion design career
+you can change this source text
+to anything you want if you just open up
+this little text drop-down
+you can make key frames on the source
+text so if you just make a new keyframe
+here
+and you can change this to whatever you
+want so source
+to horse and then make a new keyframe
+and you can
+change it again of course and you can
+change this
+font to something different
+you can change the styling and
+the color change it to strokes
+and change the size the tracking the
+kerning
+stroke width anything like this
+and it will just change on each new
+keyframe this can only be hold keyframes
+of course um this cannot ease between
+these keyframes i don't know how
+after effects would figure that out but
+this can be really useful
+for simple animations where you just
+need to change
+your source text on one layer
+now to create a basic slide in animation
+like this something really simple
+we're going to want to use text
+animators so that we can save them
+and reuse them on other parts of our
+animation
+so what i'm going to do is hide this
+little text layer and start a new one
+here
+so i have something fresh what i want to
+do is i want to click
+where it says text here and click
+animate and then i have
+all of these options that come up and
+now you can add
+animators of really anything regular
+position
+scale rotation opacity you can animate
+colors strokes tracking and
+other things like blur and character
+offsets we're going to get into a lot of
+this stuff
+so let's just go ahead and add on a
+position
+and an opacity we want to slide in
+and fade in so what i'm going to do is
+i'm going to make
+a keyframe on the position and the
+opacity at let's say
+one second this will be our ending point
+we're going to slide into here and
+fade in and then we'll just go back
+and let's say drag it down to maybe
+around 35
+and then opacity at zero and then we'll
+go ahead and ease the second keyframes
+with f9
+easy ease and we have a simple slide
+in that can be copy and pasted on
+to other text layers that is a simple
+introduction to the text animators let's
+take it a step further shall we
+now this is what i like to call the sexy
+slide-in
+you have each line letter or word
+fade and slide in by itself and then
+slide back out and this is all
+on one block it can work as a paragraph
+or lines or whatever
+and we just have a few keyframes set so
+let's
+go about making this i'm going to create
+a new
+block of text let me just copy this
+though
+so i don't have to retype it out i'm
+just going to
+draw a block of character text it
+doesn't have to be a block you could
+just be whatever let me clean that up
+there we go
+okay so here's what i want to do i want
+to drop down
+my text open it up and i want to add on
+some animators i want to animate the
+position
+and i want to animate the opacity
+let me drag this up so we can see it a
+little bit better
+now to create this text animation we
+need to basically have
+two states it needs to have a position
+one
+where it starts down and then a position
+two where it animates up
+so we're gonna call this we're gonna
+rename this animator one
+into position one this is just for our
+own clarity
+and then we're gonna duplicate this with
+controller command d
+and now we have position two and if you
+drop this down you can see we have
+our position and opacity animators if we
+wanted to add something else to it like
+a rotation or something
+we would just need to add those
+animators in as well but we're just
+doing
+position and opacity so now we need to
+do is we need to change the position and
+opacity amounts
+in the first position so let's pull this
+down a little bit because it's going to
+start down so maybe we'll go down to 35
+and bring the opacity down to zero
+you're not going to notice a change on
+the opacity right now
+and then on position two we want to
+counteract that so we're going to make
+this
+negative 35 and then it's going to move
+back up
+and then we want to change that opacity
+to 100 it's already at 100
+so basically what we're saying to this
+is it's gonna start at 35
+and then come back up to 35 and it's
+going to go from
+zero opacity to 100. but now we need to
+animate this so on the position 2 let's
+drop down the range selector and we want
+to
+animate the offset here so now if we
+grab this offset
+and you move it around you can start to
+see that it's animating
+these properties so let's bring it back
+down all the way to
+negative 100 make a keyframe and then
+push it forward until
+all of the text is on screen so it would
+be
+at zero here now if we play it back
+it's going to look something like this
+it's kind of getting there but it's
+it's pretty choppy and a little weird so
+let's open up this advanced property
+this advanced drop down and let's see
+we're working with
+well i think i for now i don't want this
+to animate in characters i want this to
+animate
+in lines so let's have it be in lines
+and it's a little bit nicer now and i
+think we need to add some easing to this
+so let's go ahead and change a few
+things to deal with the easing
+well i think we need to make it so that
+this shape
+is not a square this shape is going to
+ramp down
+i'm going to explain that in a minute if
+we change the shape to ramp down
+now we're seeing that it's not animating
+fully all the way we need to change the
+offset
+to get to 100 now and if we change that
+now we're getting the full animation
+coming on and now we need to change some
+of the easing so if we change the ease
+high a little bit to crank this up a
+little bit maybe around 80 or 90.
+we're gonna have a little bit nicer of
+an animation when it slides
+up if we didn't do the ease high we did
+the ease low
+it's going to be the wrong way you can
+play with this and see how it looks it's
+the wrong direction it could be right
+for some text animation but it's not
+this one so let's put this back up
+and there we go here is our slide-in
+that looks good these are the right
+properties that we want
+we can now change this to be characters
+and we'll have something like this looks
+good
+but i'm going to leave it at either
+words or lines
+so now let's quickly go over what some
+of this stuff in here means
+and i learned this from kyle hamrick's
+really good text animator video so i
+suggest you check those out if you want
+to learn more
+i'm totally stealing this so what i'm
+going to do is i'm going to set down
+a new text and just put down a bunch of
+periods now if you do this put down a
+bunch of periods
+and you try animating the position and
+you just send
+a little bit of animation through them
+so you just change the position
+and you change the offset a little bit
+this is the easiest way to
+see how these different properties are
+affecting it so right now we have
+square selected and basically all it's
+doing is it's sending a
+square through your text animator shape
+if i change this to ramp up you can see
+that it's basically just sending a
+upwards facing ramp through this if i
+change it to ramp
+down it's sending a downwards facing
+ramp through these
+in my opinion it's backwards this looks
+like an upwards facing ramp
+but i don't make the rules with this and
+so on a triangle
+sends a triangle through it
+round makes a round shape that gets sent
+through
+and you can see how the different easing
+will affect these things
+so i really advise that you just play
+around with something like this
+to get acquainted with these different
+things in here
+now for a flicker in i took basically
+the same slide in
+that we just learned so let me pop this
+open here
+so i took the same old animation
+[Music]
+the position one and position two just
+to show that you can build things off of
+each other
+and now let's go ahead and just add a
+new animation
+on top so i'm gonna add in a new opacity
+it's not
+under either of these animations from
+before
+a brand new opacity let's go ahead and
+add that
+and i'll keep this one at the bottom and
+now what i want to do
+is i want to pop down the range selector
+here
+i'm going to drag this window up so you
+can see it better
+and all i'm really going to do is i'm
+going to animate this offset
+from 0 to 100 so
+we're sorry negative 100 to zero so it's
+going to come in like this
+animate in but we're going to add a
+little
+twist to this so we're going to turn on
+randomize order so it's going to
+randomize this order
+that the letters animate in and then
+we're going to put a little expression
+on the random seed like this by alt
+clicking on random seed and we'll type
+in time
+times any number say 100
+to give it this little flicker this the
+number the higher the number that you
+choose
+the faster it will flicker now we have a
+little flicker
+when it animates in and then i'll just
+copy these
+keyframes in reverse when we need it
+to animate out
+now we have a cool flicker there are
+tons of little
+weird uh properties in here too that you
+can just have
+tons of fun with as well so for example
+if i turn this off
+turn on my fresh layer i'm going to open
+this up
+and let's say i just want to wiggle a
+bunch of things around
+let me throw on a position animator
+and a rotation here we go
+now with this animator i can add what's
+called a
+selector and if i add a wiggly selector
+to it
+now i'm wiggling the position and
+rotation before
+right off the bat nothing's happening
+because i didn't put in
+any values to the position and rotation
+so if i put in
+some amounts so i'm going to put in some
+vertical
+amounts for the position and i'll put in
+some rotation amounts
+now i'm wiggling these letters around
+and we can go ahead and open up
+the more options and we can actually
+change around
+the anchor points of the letters to
+choose
+where they're getting wiggled from now
+what's really useful about text
+animators and wiggling stuff
+is that most big font
+families support things like unicode
+and what that means is you can grab
+arrows and pointers sometimes smiley
+faces and emojis
+and you can just use these in your text
+and now just easily make weird
+kind of useful shapes like this i do
+this all the time to animate
+arrows and stuff that would normally be
+really a real big pain to animate by
+hand in after effects
+so just really easily i made this weird
+kind of
+rotating arrow line that would
+uh otherwise be really hard to do and so
+this is a very basic
+example but if you're if you get clever
+with it
+this can this can be really useful now
+since you made it the end of the video
+have a little gift for you in the
+description there is a link where you
+can download a bundle of text animators
+i have made for you to use however you
+would like so all you have to do is go
+ahead and drop them
+into your presets folder i like to drop
+them into the text
+um folder you can go ahead and rename
+them you're not going to offend me
+all right i just did this for
+organization and then
+to apply them you can just search in the
+effects and presets
+or use fx console and then
+when you make a new text layer and just
+go ahead and type in
+whatever nyx flicker and then you will
+have a nice
+flicker effect now if you want to make
+your own
+text preset all you have to do is make
+the text animation
+and then just grab all the animators
+that you want to save
+and you just highlight them all here and
+then you click animation
+save animation preset you need to save
+them to your presets
+folder if you get an error like you can
+you don't have permission to save them
+there
+then you just save them somewhere else
+and then drag them in and you get
+permission
+when you're doing this you need to make
+sure that you don't grab things
+like for example the source text or
+other properties that you don't
+want applied to that animation preset
+each time because if i was to save the
+source text along with these then it
+would apply
+the text flicker every time you applied
+that animation
+reset so go ahead and enjoy
+these text animators use them however
+you'd like you did not need to give
+credit or anything
+although if you'd like to tag me on
+instagram or something
+i would love to see what you do with
+them thank you for watching
+thank you for watching my youtube video
+if you liked it you're probably gonna
+like these
+but check them out all right i'll wait

@@ -1,0 +1,356 @@
+animating text like this can be
+challenging but this tutorial will help
+you how to do that today we are going to
+create this typography animation in
+After Effects without using any third
+party plugin so let's see how to make
+this all right start in After Effects
+and let's begin by creating a new
+composition I'm going to call this one
+main width and height will be 19 2 by
+1080 frame 30s and you can pick whatever
+you want just click on okay first let's
+create our background right click new
+let's add a solid and I'm going to like
+make it little bit off white something
+like that just click on okay so here we
+have our background now I'm going to
+lock this so that we don't accidentally
+move it perfect so we are ready to add
+our text for that you can select the
+text tool just click and type your first
+letter let's type animating and for this
+one I'm using this moner black font but
+it's completely up to you you can pick
+whatever you want let's make it like
+little bit dark something around here so
+here we have the text now I'm going to
+like align it to the center using the
+Align panel if you're not able to see it
+then you can go to Windows and from here
+you can enable it perfect now let's
+select this and I'm going to like move
+it anle point to the center so you can
+hold on the control key double click on
+this now here we have this we can
+probably like scale this up however we
+want something like that yeah it looks
+good now we're going to animate it so
+for that we can like add a key frame for
+position like this but first let's
+select the shape tool because we are
+going to like create a mask or a shape
+around this so let's just just simply
+draw a mask that is like completely
+covering this perfect now we can have a
+key frame because this is going to be
+our final position now in the beginning
+we can like move it to this side or to
+the top let's just move it to the top
+something like that so here you can see
+we have this animation now I'm going to
+change its track mat so for that you can
+like just pick Whip and just click on
+this now if I not able to see the track
+M then you can click over here also if
+you're using the older versions then you
+won't have the spec Whip or the SW down
+with layer names instead you will have
+like Alpha mat Alpha inverted Luma mat
+in case you can just simply place the
+shape layer on top of it and after that
+just change it to Alpha mat you can see
+that it will be only visible when it is
+inside the shape now we can select the
+key frames PR F9 let's go to the graph
+editor now if your graph looks different
+make sure you're using the speed graph
+not the value graph I'm going to like
+change it like this so here we have our
+text now it's completely up to you can
+play around with its position
+technically this kind of Animation look
+better with the voice over or something
+like that so you can just match it
+whatever words you are have in the audio
+clip so for that you can like make it
+faster if the word is like very fast or
+you can like make it slower if the word
+is like coming out like this again it's
+completely up to you so here we have
+this and now we going to like add our
+second text so I'm going to select both
+of these layers plus contr d to
+duplicate these now I'm going to type my
+second text which is text and let's just
+select this press U now I'm going to
+like select all of these so let's select
+this and let's select this and I'm going
+to like move them down
+below like this and here you can see we
+are not able to see it because it track
+mat is still pointing to this but we can
+change it to this layer perfect now we
+can like place it to wherever we
+want so I'm going to place it to this
+side like that and in the beginning we
+can like just simply copy this key frame
+and paste it over here and after that we
+can like move it to this side and make
+sure that the easing is same for this
+one as well so now if I press play you
+can see we have both of these text now
+you can like add some delay again you
+can like sync them with your audio or
+whatever you have so I think this looks
+good perfect now we are ready to add our
+next text for that we are going to
+create some 3D text so I'm going to like
+make all of these layers 3D and let's go
+to layer let's add a null object and I'm
+going to like make it 3D as well now we
+are going to like place it somewhere in
+the back so for that we can like go to
+the top view you can see these are our
+text layers and this is our null and I'm
+going to like place it somewhere around
+here so that we can like animate it
+easily let's just set this to active
+camera now we are ready to parent all of
+these layers to this so just select
+everything and parent it to this if
+you're not able to see the parent then
+you can right click go to columns and
+just enable it now we can select this
+and we're going to add key frame for
+position let's add key frame for scale
+let's add key frame for rotation and we
+can add rotation for these two we won't
+be using Z rotation but if you want you
+can like have Z rotation as well let's
+select this press U now we are ready to
+like move it to this side so let's just
+move these key frames over here and at
+this point we can like just rotate it
+along the Y AIS something like that now
+here we are ready to add our next Tex so
+for that we can just simply select this
+and let's press contrl d and I'm going
+to like move this to the very top and
+I'm going to like remove this mat and
+also I'm going to select this press you
+and let's remove the key frames as well
+I'm going to like rotate it let's press
+R and let's just rotate it by
+90° like that now we can go to the top
+view something like that and we can like
+move it to this side so let's just place
+it to this point and also let's just
+move it to this side so that it will be
+like
+completely side next to this let's go
+back to our active camera now we can
+change the text so let's type like now
+there is one more thing that you can do
+so you can see that right now it is like
+typing from the center but we can change
+it to type it from the left side by
+simply going to paragraph in case you
+not able to see the paragraph then you
+can go to Windows and from here you can
+enable it I'm going to like set this to
+left justify whatever you call it so now
+I can like simply place it to this
+side like that let's go to the top view
+and here you can see we are able to like
+move it so I'm going to like move it
+just to this side perfect now we can go
+back to our active camera now you can
+type your text and let's type like so
+here we have this now I'm going to like
+select this pan anchor tool using this
+you can move the Anchor Point I'm going
+to like move it to the top let's just
+select the selection tool let's just
+move it to this side and we can like
+have simple scaling animation to this so
+let's press s let's add a key frame and
+let's just move it to this side and in
+the beginning I'm going to like set this
+to zero at this point we can like have
+it like really big or something like
+that perfect we can also change its
+color let's go to character and let's
+pick little bit this sort of color
+perfect now we can play around with it
+so let's just play around with the
+timing of it
+so here we have it now we can like
+rotate it
+more like that and just play around with
+this position so we have key frame for
+everything now if you want you can play
+around with the X rotation as well we
+can like make it to this side or let's
+just keep it like this and let's select
+the key frames press F9 and we're going
+to change this graft I'm going to like
+always change the graph to something
+like this so move this end point closer
+and move this endpoint closer so this
+null object graph will be like something
+like this for all the key frames now if
+I press play you can see we have our
+first two text and again we can select
+these press F9 let's go to the graph
+editor and I'm going to like change it
+like
+this and just play around with their
+timings and let's make it a little bit
+faster like that now we can probably
+make it like more of this
+side perfect now we are ready to add a
+second text so before we proceed if you
+enjoy my work and you want to support me
+then you can check out my patreon page
+over there you will get access to the
+tutorial project files and exclusive
+templates that are available only on
+patreon so make sure to check it out
+link for that is in the description now
+let's continue now let's select this
+press contrl D and I'm going to type my
+next text which is this let's double
+click and let's make
+it darker like that again we can place
+it down below so just simply move it
+down and and for this one we can like
+make it really
+big something like that perfect so we
+can like start it over here so we will
+have this this this and as soon we are
+moving over here we can like have key
+frames for all of these and I have this
+Keys over here we can like move it to
+this side now let's add key frame for
+these positions as well like that now at
+some point over this we can like have
+little bit of X rotation and and just
+scale it down a little bit and just move
+it
+to little bit up perfect now again we
+can like go to the graph and we're going
+to like change it to the exact same
+graph which we have over here so like
+this press F9 let's just change it to
+like this now we can have these and I'm
+going to like move it like that so if I
+press play you can see we have this now
+in the same way you can like keep on
+adding other text as well now let's
+select this press contrl D now I'm going
+to type our next text
+which is can B and let's just place it
+down
+below something like
+this uh as this is appearing we can
+again like move our null object so let's
+just scale it down and let's just move
+it to this side you can probably like
+make it over here and it's completely up
+to you you can
+like keep on rotating it like this and
+let's copy this key frame and just paste
+it over here so that these will be
+like just like that now again we can go
+to the graph and let's just change it
+once again to look like this now
+sometimes we will have to like do this
+manually now if I press play here we
+have a text animation perfect again you
+can play around with its timing
+depending upon whatever voice over you
+have or if you're just creating it just
+play it
+around like this now let's add the other
+text onto this side so for that we can
+select this press crl D let's press R
+and I'm going to like set this to zero
+perfect now we can like move it to this
+side so let's just move the Anchor Point
+using the Anchor Point we can like move
+it over here let's select the move
+Anchor Point tool because we want it to
+scale from this side so let's just place
+it over here perfect now we can change
+our text like this again we will have to
+like move it more over there because the
+text is little bit lengthy so just place
+it over here let's move the Anchor Point
+to this corner like this perfect now we
+can like move it to this point so as it
+is
+moving at this point we
+can make it like a little bit smaller
+and we can like rotate
+it just place it to this
+side something like that that now again
+we can go to the graph and we can like
+change it to the same exact thing now I
+have changed the graph let's preview it
+out so here we have our next text as
+well again you can play around with
+their timing let's just move its Anchor
+Point like little bit down below so I
+don't want it to come from this Edge we
+can like place it over here let just
+move it little bit up as
+well like that again you can like play
+around with whatever type of look you
+want let's just just place it somewhere
+around here yeah I think this angle
+looks
+good like that now in the same way you
+can like keep on adding text so if I
+duplicate this let's we can type
+whatever we want let's type but let's
+just place it down and I'm going to like
+quickly change its
+color and let's press s let's just scale
+it down quite a
+bit like that let's move it to the top
+little bit now again we can play around
+with these and let's just rotate
+it like that let's move it to the top
+like keep it to this
+angle and let's just put it like that
+like this again we will have to like go
+back let's add a scaling key frame as
+well let's just make it little bit
+bigger now if you want you can like zoom
+into a particular character as well so
+for example we can like make it closer
+to the
+butt like
+this now we can go to the graph and
+let's just change the graph to look
+exactly like
+this so now if I press play you can see
+we have these characters and at last we
+have this dramatic sort of movement and
+after this you can continue adding this
+text and just keep on rotating this null
+object till you have some something that
+you like so this is how you can create
+these kind of 3D kinetic typography
+animation and the project files for this
+tutorial is available on patreon so if
+you're supporting me over there then you
+can download it from there and if you're
+not then you might consider it because
+you will get access to the tutorial
+project files and exclusive templates
+that are available only on patreon so
+with that being said my name is abishek
+and I'll see you in the next one
+my

@@ -1,0 +1,87 @@
+hi it's Anthony I just wanted to shed a
+little light on the range selector for
+text and After Effects if you have a
+piece of text like so and you scroll you
+twirl down you'll see text and transform
+and under text you'll have these path
+options and more options and this little
+animate button this animate button is
+how you can animate individual
+properties for individual letters or for
+whole words or for whole lines for that
+matter in with this text tool so if you
+wanted to let's say animates scale
+suddenly you get the range selector
+voila
+and that range selector allows you to
+select a range of letters within the
+text that are being affected by these
+this individual property and I had
+mentioned four whole words before if you
+go up to more options you can see you
+can affect the character or you can
+affect the word or the line or all we're
+just gonna stick to affecting individual
+characters for right now and not get
+into all these details because that's a
+those are different subjects and I
+really want to stick to clarifying this
+range selector if you twirl down the
+range selector you'll see the start of
+the range selector there's a borderline
+and that's that's here if you can't see
+it very well you can also change the
+color of your layer and that will help
+you see this this border line now on the
+other side there's also a border line
+over here and so what's inside these two
+border lines is the the range is the
+selected range that will be affected by
+this property so if you start blowing up
+the scale what's inside these two lines
+is what's going to be affected now
+this offset will actually take both of
+those lines and move it you know side to
+side so that it can you know it looks
+like it passes through the letter and
+then you can you can squeeze it so that
+it you know you only get maybe get one
+letter and so on and so forth and you
+and obviously those things are also
+animatable so you can you know make
+different effects happen by affecting
+those options now this one range
+effector can have range selector can
+have multiple properties in terms of you
+know scale like we have or also position
+so that you can change the position of
+the letters that oops ax the position of
+the letters that are inside the range
+and you can also animate those
+properties so can start by being up and
+end by being down etc so if you have you
+know the text up a little bit what's
+inside that range is going to not only
+make the text get bigger but also make
+the text fly up a little higher and as
+you can see you have just about you know
+all your normal transform properties
+there so you can you know certainly do a
+lot of things you can also have multiple
+range selectors that can select and
+modify multiple spans you know multiple
+areas like so I have this range selector
+that is now affecting you know these two
+letters I could have another range
+selector that is at the same time
+modifying a whole nother range of
+letters or the whole word or the whole
+paragraph so just bear that in mind when
+you're experimenting with this they
+you've got multiple options here you've
+got more options here
+and you can make a lot of really
+interesting things happen alright I hope
+that helps clarify what the range
+selector is and does and thanks a lot
+for watching talk to you later bye

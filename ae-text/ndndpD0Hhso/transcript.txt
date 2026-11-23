@@ -1,0 +1,254 @@
+hey everyone my name is abhishek and in
+this video we are going to create this
+3d beveled depth look in after effects
+it is very easy to create and you can
+use this technique for any shape or text
+all this inside of after effects so
+before i begin if you guys are new here
+then please consider subscribing and
+make sure to press that bell icon so
+that you never miss another amazing
+video like this so without wasting any
+further ado let's jump into after
+effects and get started
+alright so right now i'm in after
+effects and we will begin by creating a
+new composition so let's go to
+composition new comp and let's call this
+main
+width and height 1920 by 1080 frame rate
+30 fps and duration you can go with
+whatever you want just click on ok so
+now we have this blank composition and
+let's create a new solid so you can just
+simply right click go to new solid
+and let's just click on ok
+now first we are going to apply a
+gradient effect on this so just search
+for gradient ramp just drag the effect
+onto this
+and after that let's change the colors
+so first i'm going to change this to
+something like this
+and the end color let's set this to blue
+and after that i'm going to select these
+end points
+and let's just move them somewhere
+around here
+something like this so this is
+completely up to you however you want
+you can choose whatever colors you want
+so i think this is looking good so now
+let's create our shape and you can go to
+the shape tool and you can click and
+hold from here you can select any of
+these shape tools but for this example
+i'm going to use this polygon tool and
+after that you can just simply click
+anywhere and just simply drag
+and you will notice that we are able to
+create a shape and right now it's a
+triangle so let me just quickly create
+this just like this
+and you will notice that our fill is off
+so you can just simply click on it and
+just make sure that fill is set to none
+just click on ok and you can just add
+little bit stroke to this something like
+this so now we have our shape and let me
+just quickly align this to the center of
+this comp so if you are not able to see
+this align panel then you can go to
+windows and from here you can enable it
+now we have our shape and the best thing
+about using this polystar is that you
+can simply go inside it and from here
+you can see we have this option called
+points so you can just increase the
+number of points and you can get
+different type of shapes
+so if you want to have a square just
+type 4 and if you want to have a circle
+just increase this quite a bit
+something like this so now we have a
+circle so let me just quickly align this
+again just like this you can also move
+its anchor point in the center so just
+select the layer hold down the ctrl key
+and double click on this icon and it
+will make the anchor point in the center
+so now let's start applying some effects
+onto this so that it will give it a
+desired look so let's select the layer
+you can right click and from here go to
+layer style and first effect we are
+going to apply is inner shadow
+just click on it and right away you can
+see we have this really nice inner
+shadow over here
+so let me just quickly
+close this and over here we are going to
+focus on inner shadow only so first i'm
+going to change the
+distance so let's set this to something
+like
+and we can increase the size as well so
+let's just increase this quite a bit
+something like this
+then you can play around with these
+values to see what looks good
+so i think this is looking fine you can
+also change the angle so
+you can play around with the value
+so let's just set this to something like
+50 or 60 degree yeah i think this is
+good
+let me just increase the distance
+and you can play around with these
+values however you want
+now you will notice that we are able to
+see this
+white color so we can get rid of it by
+simply selecting the layer and then
+setting its mode to multiply
+just like this so now you can see we
+have this really nice depth look
+and let's add some highlights on
+on the sides of this so that it will
+give it a more realistic look
+so in the same way just select the layer
+right click then go to
+layer style and from here we are going
+to enable bevel and emboss
+and let's open it settings and from here
+we are going to play around with couple
+of these settings so first is size let's
+increase this so if you
+do it if you overdo it then you can see
+that it will give this fake look so we
+are just going to set this to something
+like 7 so that it will give you a really
+nice highlighted edge
+and let's play around with the angle so
+this is completely up to you let's set
+this to 120 only
+the altitude will give you
+this dark area so if you increase it you
+can see that we have this dark area but
+if you lower it down
+then it will get rid of the dark area
+and now you can see that only the
+highlight part is left
+just like this and
+over the highlight color we can just
+select the color which we are having so
+that our highlight is in the blue tone
+something like this
+you can increase or decrease its opacity
+however you want it's completely up to
+you
+so that's it we are pretty much done
+with all these settings
+and if you want you can just simply go
+in the inner shadow and from here you
+can just add some noise to this
+so just don't overdo this let's set this
+to something like one or two
+just like this so that it will have a
+very nice little shadow
+so we are pretty much done with this so
+you can see that we have this really
+nice look and if you want you can just
+select the layer
+and you can just increase its stroke
+however you want
+the best thing that it's a shape layer
+so you can animate it however you want
+just like this
+and there's one more thing that you can
+do is you can select this layer then
+press t and let's lower down its opacity
+so let's set this to something like 70
+just like this so i think this is
+looking much better
+so this is how you can create this kind
+of look
+and now if you want to apply the same
+look onto a text all you have to do is
+just simply select the text tool then
+you can type whatever you want
+so let's type hello and i'm going to
+quickly select this and it's increase
+its size and let's align it in the
+center of this comp
+just like this now we can probably
+disable this
+layer now in order to apply the look we
+have to first convert this into a shape
+layer so you can select this right click
+create then click create shape from text
+now we have the shape layer of this text
+now let's select the shape layer and
+over here we can go under the layer
+styles then just simply select these two
+and then press ctrl c and copy it just
+select the text layer then press ctrl v
+and you will see that we have applied
+the effect
+now again we can select this and change
+the mode to multiply
+and there you go now we have our text
+and we are going to probably tweak
+couple of the parameters so first is the
+inner shadow let's
+decrease the distance and
+the size as well
+so something like this yeah now you can
+see that we have this really nice depth
+look
+in the same way you can play around with
+the angle
+from where you want the light to come
+and just play around with these values
+you can
+increase the edge highlight
+just like this you can change the color
+as well if you want
+so this is how you can get these kind of
+looks and it's completely up to you you
+can animate this however you want since
+it's a shape layer so you can apply
+animation to this so this is how you can
+create these kind of looks in after
+effects if you want you can also animate
+this so let me just quickly add an
+emission to the scale
+something like this we can also animate
+its stroke so just search for stroke
+width and let's add a keyframe press u
+and in the beginning let's set the
+stroke to zero again select the
+keyframes press f9
+then let's quickly change the graph to
+look something like this
+so now if i play back here you can see
+we have this really amazing animation
+probably move the keyframes closer
+so there you go now we have this really
+amazing animation
+in the same way we can animate this text
+as well
+so now if i play back here you can see
+we have this really amazing animation
+so the project file for this tutorial
+are available on patreon so if you're
+supporting me over there then you can
+download it from there and if you are
+not then you might consider it because
+you will get access to the project files
+as well as to many other templates as
+well so that's it for this tutorial my
+name is abhishek and i'll see you in the
+next one
+[Music]
+you

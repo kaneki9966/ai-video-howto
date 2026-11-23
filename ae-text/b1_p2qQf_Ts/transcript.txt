@@ -1,0 +1,1044 @@
+[Music]
+[Applause]
+[Music]
+what's up Joey here at school of motion
+and welcome to the 26 of 30 days of
+After Effects today we have a pretty
+cool video we're going to talk about
+text animators in After Effects text
+animators are this feature of after
+effects that was added and it came with
+all these presets it's amazingly
+powerful and really useful but the
+problem is it's kind of confusing and
+things really aren't labeled in a way
+that makes it easy to use so I'm going
+to help you figure out how it all works
+and I'm going to show you some easy
+techniques to start building your own
+library of text animations and give you
+some insight as to why it's important
+for you to learn this feature of After
+Effects so let's hop into after effects
+and get
+started so let's talk about text
+animators um now most people that I've
+actually seen use the text animators in
+After Effects just sort of use the
+built-in presets that come with After
+Effects because there's really not a ton
+of great resources out there I found to
+to learn how to use these things and uh
+you know it's also sometimes it's just
+easier to just manually animate type and
+make it do exactly what you want but
+when you're doing a project that has a
+ton of type in it and it's one of those
+jobs that you know I mentioned from time
+to time not everything is going to go on
+your reel not everything is going to be
+the most amazing thing you've ever
+created and and sometimes you just got
+to get stuff done and text animators can
+let you do fairly sophisticated type
+animation but in a way where it's super
+easy to to change it and so that's what
+we're going to talk about today so let's
+let's just Dive Right In uh and I'll
+show you how I made all these little
+animations here so let's make a new comp
+and we'll call this one bounce I'm just
+going to add a type layer in there
+we'll just type in the word bounce and
+uh and we'll get started so uh the way
+text animators work it's it's actually
+in a weird way it's similar to the way
+uh mograph Works inside of Cinema 4D so
+if you're familiar with that then this
+may make a little bit more more sense to
+you um but if not don't worry I'm going
+to try and break this down and make it a
+little bit easier to understand so the
+way you add a text animator is is you
+you have a text layer right and you open
+up the text options right there and uh
+and you can see over here there's a
+little button that says animate with a
+little arrow and if you click that Arrow
+you get all these neat things you can
+animate so to make this bouncy animation
+let me open up the original one I made
+here here's the bouncy animation all
+right so here's how I made this let me
+close all these too so I don't confuse
+myself here we go all right so
+the way one way you can use these these
+text
+animators is to basically
+create positions and sort of states for
+your type and then animate between them
+to create you know bouncy animation or
+um you know have things scale up and
+scale down or rotate into position or
+stuff like that so what what I do
+sometimes when I use these is I'll first
+I'll create um I'll click on this button
+and I'm going to I want these letters to
+sort of fly up from the bottom and sort
+of overshoot and come back and bounce
+and and land so what I'm going to do is
+I'm going to be animating the position
+so when you say animate position here's
+what happens this animator one gets
+added so the first thing I'm going to do
+is rename that so it's something that
+means a little bit more so this is
+actually going to be the initial
+position and the way this works is
+you've got two parts to this text
+animator you've got the ual property
+that's being changed which is the
+position and you'll see if I move this
+it's going to move every single letter
+okay uh and then you've also got the
+range selector and this is the key to
+text animators okay when I change this
+position like this okay if I move it to
+the Bottom now I've got this range
+selector and right now the range is set
+from 0 to 100 meaning the entire string
+of letters is being affected but you can
+animate this right right if I animate
+the end then it's going to sort of one
+at a time have each of these letters be
+influenced right and so that's sort of
+the simplest version of using a text
+animator you can just set a key frame
+here come over here set another key
+frame and RAM preview it and there's
+your your type animation right and and
+the thing is that the default settings
+for these are pretty ugly um you know
+every letter goes one at a time there's
+no overlap to them there's no easing and
+it just just doesn't really feel good
+and it's kind of it's a lot of steps you
+know like to try and make this feel good
+this is I think the trouble with text
+animators and the reason they aren't
+more widely used is that they're just
+not that user friendly right now um and
+maybe maybe in a future version of After
+Effects that'll be changed but you know
+it's just not that intuitive so anyway
+so what I'm going to do is I'm actually
+going to uh I'm going to stack a few of
+these text animators I'm not just going
+to use one and try try to get it to do
+everything I'm going to use multiple
+text animators so what I did was I used
+one text animator which is actually not
+animated at all all it's doing is it's
+setting the initial position of my type
+down here okay so then what I'm going to
+do is I'm just going to duplicate this
+right so you just click on it command D
+duplicates it and now I'm going to say
+position
+01 all right so now position
+01 is actually going to be negative 663
+okay and actually it's going to be even
+a little bit less than that because what
+I want to happen is I want I want the
+type to overshoot and then come back
+down so this is going to be the first
+position this type sort of ends up in
+okay and now if I use this range
+selector and I animate from 0 to 100
+right you can see that now because the
+type is starting down here and the
+purpose of this text animator is to move
+it back up when I animate the
+end right from left to write the letters
+kind of fly back into into the screen so
+that's great um another thing you can do
+is you can leave this at 100% And you
+can animate the
+offset okay so this is what I'm going to
+do and you just got to be careful
+because if you go too far it'll start to
+come back around okay so let's put some
+key frames on here we're going to start
+negative 100 we'll go forward to 1
+second and we'll set this to zero
+all right now let's play this all right
+so we've got the the letters doing what
+we want them to do that's the first move
+but they what I really don't like is
+that they they it's like one letter at a
+time and there's no overlap which which
+sucks frankly and then there's no easing
+either they just kind of stick they're
+flying in and they just stick and it's
+just really kind of just doesn't feel
+good so this is where some of these
+Advanced range selector settings can
+come in so there's two settings you got
+to mess with uh one is and there there's
+actually a lot of settings you can mess
+with but you know text animators are
+actually a pretty deep topic and we're
+not going to get be able to get to
+everything in this video but I just want
+you to get kind of the the basics out of
+the way so if you look at the shape okay
+the shape right now is defined as a
+square and what that shape is referring
+to is it's sort of the shape of the uh
+influence of the range selector as you
+change this offset amount right and and
+it's square right now meaning that it
+goes from one letter and then to the
+next letter and then to the next letter
+but you can change this shape and
+there's a whole bunch of different ones
+right and there's ramp up and ramp down
+and and so let's just kind of go through
+them a little bit so ramp up right you
+can see that it's sort of making things
+go backwards so that's that's not what
+we want so let's go down to ramp down
+and now as we move through you can see
+now the letters are overlapping a little
+bit it's not the B and then the O and
+then the U they're all sort of happening
+um together right there's some overlap
+which is great
+um and because we've changed it to ramp
+down now the animation isn't finishing
+so we need the offset to actually go all
+the way to 100 so let's set that to 100
+cool so that's better but there's still
+no easing it's still really stiff right
+but at least there's some overlap so now
+the next thing we can do is we can
+actually add easing so there's two
+settings here there's ease high and ease
+low uh and it's really weird that
+they're called ease high and ease low
+like why aren't they called ease in and
+ease out but watch what happens if I
+crank up the ease High to
+100 boom now they ease in beautiful and
+actually this is what I want what
+basically ease high is is ease in and
+ease low is ease out meaning the initial
+position here there's no easing
+happening there if I crank this up then
+there will be and they'll ease out of
+this position and then ease into this
+position but I don't want that I just
+want them to let me set this ECT to zero
+I want them to shoot out of the initial
+position and then I want them to ease
+into the final position so ease high is
+making them ease into that all right so
+now there you go we've got the first
+part of our move fantastic next thing
+I'm going to do is I'm going to just
+duplicate this and call this position
+two and you can see I've you know the
+our um our type is being messed up now
+so what I'm going to do is first reset
+this position set that to zero okay
+because this position is a relative
+position it's not an abolute position so
+I want it to move down relative to its
+current position so I'm just going to
+decrease the Y position a little
+bit all right and then I'm going to go
+into the range selector and I'm going to
+take these key frames and I'm just going
+to knock them over like two frames
+because I want this move to happen
+slightly after this move right and so
+what that's going to do is it's going to
+let the letters come down you can see
+it's happening very slightly right now
+so let's actually let's let's let's amp
+this up a little bit more so you can see
+the effect better all right and let me
+scoot these key frames over even a
+little bit further there we go and now
+you can see that the letters come up and
+then they kind of come down a little bit
+so they're
+overshooting pretty cool uh and now I
+want to go into the advanced properties
+here and I do I want them to ease out of
+their you know when they overshoot I
+want them to ease out and then when they
+land I want them to ease in so I want
+both of these eases to be set to 100%
+okay and you can see that now that's
+created some problems and uh so what's
+happening is if you have both the ease
+High and the ease low set to 100% uh
+then sometimes the the easing can sort
+of get funky so I'm going to set both of
+them to 50 and now we get a nice little
+settling um cool and and so you know the
+the more delay I have between this set
+of key frames and this set of key frames
+the longer it sort of hangs up there
+right and if I have them closer together
+it's like a much quicker little
+transition okay so you can sort of play
+with the timing between it
+um and that's I mean that's the basics
+of how you can stack type effectors to
+or text effectors to get this right and
+so then let's say you wanted it to just
+overshoot down the other way a little
+bit well you could you can just
+duplicate this right and then come to
+the position and just make this like a
+negative 45 or something
+um so now it's going back the other way
+and then you offset these key
+frames right and now and and you can see
+we got to kind of play with the timing a
+little
+bit may have to kick these out a little
+bit more right so now it goes too far
+and it comes back down and it and it
+shoots up a little bit um and you know
+what I found is that if you if you start
+going too crazy with these if you uh if
+you start stacking a whole bunch of them
+you can see that the timing can start to
+um it can start to create kind of it can
+sort of minimize the animation that
+you're trying to create so um you know
+you may have to push these these key
+frames a little bit further
+apart to really see everything there we
+go bounce and then I can just grab all
+these key frames and move them closer
+together right and there's your
+balance right and so just by playing
+with the timing you can you can really
+get the exact result you
+want cool
+all right and then the beauty of this
+right you've done all this work and it's
+it's a little weird but once you get it
+working the way you want then you can
+just type
+in you know if you have like some weird
+long last name it doesn't matter like
+you can type in absolutely anything and
+you can get this cool result and you can
+type in entire sentences you know
+and and now and then you know this is a
+longer word so I want it to take a
+little bit longer okay just move the key
+frames a little bit um so this is the
+beauty of taking the time to set up
+something like this is now if you have a
+you know you're doing like a corporate
+piece and you have a hundred titles you
+don't have to you know and this is what
+you want it to look like you don't have
+to like split this into layers and do
+some kind of crazy pre-m and animate
+each one it's like you just you know you
+just copy and paste this type layer type
+something El a sudden all right so let's
+look at uh some other stuff you can do
+with type layers so that's the bounce um
+let's look at this one this is kind of a
+an interesting one this glitch right uh
+glitches are very hot right now glitches
+are so hot actually red giant just came
+out with a new uh glitch plugin as part
+of their Universe package um which is
+really awesome and it does this stuff uh
+very easily for you so check that out if
+you're into glitches um so let's talk
+about how I did this so let's first make
+our type layer right let's call it
+glitch and uh so this I started by just
+doing um I started this kind of in the
+same way so when you make a type layer
+The Anchor Point of each letter is at
+the bottom by default and so if I wanted
+to like scale up some of these letters
+but have them scale from the middle I
+need to change the Anchor Point of the
+letter so the first thing I'm going to
+do is I'm going to animate The Anchor
+Point and I'm just going to rename
+animator one to Anchor Point fix and I'm
+just going to move the Anchor Point so
+that it's in the middle and then I can
+just move move my type layer up like
+this so it's in the middle and there we
+go and so now every text animator I put
+after this is going to use that new
+anchor point so again you can stack
+these things to to get the result you
+want so now the next thing I want to do
+is animate the scale of some of these
+letters and so if I you know what one
+thing that's pretty cool about the text
+animators is that it works on a per
+character basis so if I hit scale it's
+going to scale up each letter which
+gives you this interesting result that
+it's it's actually wouldn't be that easy
+to do any other way um but what if I
+only want some letters big and I want it
+to be kind of random right there's um
+you know the the default range selector
+is not going to give you that control
+it's only going to let you do things
+kind of sequentially right um so what
+you can do though is you can you can add
+a different type of range selector
+called and so if you click add once
+you've added something that you can
+animate right you can click on these
+individual text animator groups and
+there's a little arrow to the right of
+them and you can add more stuff to them
+so if I want to add another property I
+can do that I can also add a different
+selector and remember the selector is
+the key to the text animator you set the
+property that you want to be changed but
+then what you're animating is the
+selection of letters or you can even
+have it be a selection of words you can
+you can change that too there's a
+there's a setting down here that you can
+base this on characters or words or
+lines um the a lot of settings here um
+but you're animating the selector and so
+if I grab a wiggly selector this is sort
+of a random selector and you can see
+right away it's sort of randomizing
+what's going on here and it's and it's
+animated by default right um and so it
+kind of creates this funny silly rubbery
+looking thing which is kind of
+interesting um and what's interesting is
+you we got two selectors on here now a
+range selector and a wiggly selector and
+they can work together in different ways
+right so right now the range selector
+this is how you should think about it
+the range selector the start is zero the
+end is 100 that means the entire fraking
+thing is selected okay and there's zero
+offset if I move the offset this way you
+can actually see the beginning and the
+end this it shows you these two lines it
+shows you what's selected okay so that's
+what's being selected now in the wiggly
+selector
+the mode right now is set to
+intersection okay what that means is
+it's only going to affect things that
+are already selected so if I set this
+range selector you know to have an
+offset of 60 or it make this even easier
+let's say 0 to 50% so only the first
+half of the word is selected the next
+selector the mode is set to intersect
+this selector will only affect the first
+50% of the word now if you set this to
+add right then it actually what it's
+going to do is it's going to add a
+wiggly selection to this that's already
+selected and the stuff that's not select
+it is just going to get a normal
+selection so that's why you can see
+these letters look bigger than these
+letters so you can actually sort of use
+you know transfer modes I guess with
+these selectors so what so this is cool
+because what you can do first thing I
+want to do is I want to turn the Wiggles
+per second to zero I don't want these
+animated okay what I do want want is I
+want to lock the dimensions so if I say
+on now when it scales these things up
+it's only going to scale them up the
+same on X and Y so you won't get these
+weird stretched out letters unless you
+want
+that um there you go and so then what
+you can do is you can animate you can
+you can you know say how big do you want
+these things to to get right um so I
+want uh you know I want them to get
+pretty
+big and so the way this is working right
+I've set the scale to 200 and let's just
+set it to 250 the scale is set to 250
+the wiggly selector is sort of creating
+random selection values and the way that
+text animators work is if a letter is
+100% selected it will be assigned a
+scale of 250 if it's 50% selected it
+will be assigned a value uh less than
+250 right it would be assigned
+125 and because the wiggly selector has
+a max amount of 100% and a minimum
+amount of negative 100% what that means
+is that you know you could actually end
+up with a letter that has a negative
+selected value it's negative 50%
+selected which means that it can
+actually have a negative scale so if you
+don't want that you set the minimum
+amount to zero so that way either the
+letters are their normal size or they're
+bigger than that okay so now I'm going
+to set that to negative 100 because I
+think it would be cool if some of the
+some of these letters became um smaller
+all right so I'm going to I'm going to
+set the uh the range selector to 100% so
+every one of these is selected okay and
+what I want to do is uh I want to have
+sort of the letters randomly sort of
+twitch so the way I did that was I just
+changed the random seed right if you
+just change this number it's going to
+give you different results and what's
+interesting is it actually kind of does
+it in a way that's that's kind of Cor
+ated I guess so like as I animate this
+random seed the values change smoothly
+so what I want to do is I'm going to
+just pick I'm just going to pick okay I
+think that looks pretty that's cool
+right there so I'm going to put a key
+frame there and I'm going to set that to
+be a hold key frame so command option
+click the key frame go to the next frame
+and then just change this and change it
+to something that looks different right
+then go to the next key frame change it
+to something that looks totally
+different right and then I'm going to go
+for two key frames change it to
+something else and and there you go and
+so then uh the next thing I want to key
+frame I want it to basically twitch a
+few times like this and then I want I
+want them to sort of settle so now what
+I can do is I can actually
+animate this right I could animate the
+initial range selector and I could
+change the start to go all the way up to
+to 100 and the effect of that is if the
+start is 100 and the end is 100 that
+means nothing is selected and because
+the wiggly selector set to intersect
+it's not going to affect anything right
+so on this maybe on this Frame here I'll
+put a key frame then I'll go forward
+like three frames and set that to 100
+I'll easy ease those and let's just do a
+quick Ram preview right cool so now
+you've got this little Twitchy glitchy
+thing right and let's um let me just
+nudge this forward few frames so it
+starts on black cool so that's kind of
+neat but I want you know I kind of want
+a little bit more
+movement to this I want a little bit
+more of an effect so what I'm going to
+do is I'm going to let me rename this so
+this is the um the wiggly
+scale and I want to do the same thing
+with the position of these letters too
+so let me just duplicate Wiggly scale
+for a minute let's say
+Wiggly
+position okay and let's open up this and
+what I want to do is instead of having
+the scale be animated so let me let me
+you can actually click on scale and just
+hit delete and now that property doesn't
+get affected anymore and then I can go
+over to this add button and say property
+position and I can adjust the Y so now
+in addition to the scale moving we get
+the
+Y right and I've got these things
+separated out and that's kind of Handy I
+mean what I could do is I could just go
+into Wiggly scale like this and add the
+position property to this so now you
+would have scale and position being
+affected but I kind of like having them
+separated out because now I could really
+easily you know if I wanted if I wanted
+to have a little bit less of sort of um
+you know an insync animation I could
+just move these key frames over a little
+bit and so now the position isn't so in
+sync with the scale right you can play
+with that you could have uh or you you
+know you could have the
+position twitch even a little bit after
+the uh after the scale is is done
+animating so it's kind of nice to have
+everything separate out so there you go
+so now you have this cool little glitchy
+animation right and you know I'm not
+really loving where that t is ending up
+right so what I could
+do let's see so that is happening
+because of this position key frame here
+so I'm just going to change the random
+seat on that key
+frame there we go so now we'll get a
+different result cool
+I kind of dig that right so that's cool
+that that shows you how you can use the
+wiggly um the wiggly you know little
+selector to get kind of random stuff and
+now of course like you get the same
+benefits here you can you can literally
+type in whatever you want and you've got
+this cool glitchy kind of animation and
+you don't have to do anything else and
+you can make a hundred of these in in
+like a few minutes now um so again I
+want to keep reinforcing these are very
+powerful and you don't have to just
+think of them as oh there's these canned
+type animations that ship with After
+Effects and yes they are cheesy and yes
+they a lot of them really you know they
+look like um I don't know like a bad
+video toaster preset or something but
+you can make your own um so I'll show
+you um let me just kind of show you
+another one I did this one here this
+slide one right this is similar to the
+bounce one I did except H you know
+what we're doing these you know you guys
+understand that my videos can be long so
+why don't I just do this let's let me
+stop talking about it and actually do it
+um this slide one the way I did this one
+was um so first thing I did was I I um I
+set the initial you know Anchor Point so
+I did the same thing like uh I set the
+Anchor Point now before I before I do
+that actually what I want to do is I
+want to enable per character 3D so right
+now uh you know this is a 2d type layer
+you can actually animate each of the
+letters using the text animators as if
+they're 3D object so if you say enable
+per character 3D you get this neat
+little icon in your 3D checkbox and now
+any of your position scale rotation
+transforms you do are going to have X Y
+and Z so what I want to do is I'm going
+to set my Anchor Point first I want the
+uh I want the Anchor Point in the middle
+again but then I want the Anchor Point
+actually
+back like 100 pixels in zspace now it's
+not really GNA in here just I'll make it
+really obvious let make it 200 pixels
+and this is just going to be our initial
+setup right and so again this isn't
+animated it's just setting up what we're
+about to do next and the next thing I'm
+going to do is I'm going to animate the
+rotation okay and actually I need to
+make sure I don't have this selected
+when I do that so it'll give me a new
+text animator so this is going to be
+rotation
+and what's cool is because I've moved
+the Anchor Point if I rotate these now
+you can see they actually rotate around
+the Anchor Point so you can move them
+you can get these kind of complex
+movements right so what I did was I had
+them start you know back here somewhere
+okay so this is going to be my initial
+oops oopsie
+Daisy let me open this back up so I have
+my initial setup and this is going to be
+my initial
+rotation and this doesn't need to be
+animated and then I'm just going to
+duplicate this and I'm going to call
+this
+rotation 01 so this will be my first
+sort of move and what I'm going to do is
+go back to my y rotation and just make
+this plus
+142.5 oh sorry there we
+go
+142.5 there we go and because remember
+these are relative values and so since
+we set the initial rotation to - 142 .5
+to get it back here I need it to go to
+142.5 and then I can just use my range
+selector and we'll animate the offset
+again uh and first let's go to the
+advaned tab and remember the the default
+square shape isn't very nice uh so we're
+going to use ramp down and let's set the
+ease High let's just set that to 50 and
+set the ease low to 50 as a start and
+now we animate the offset so the
+offset's going to start at negative 100
+let's put a key frame there uh go
+forward to one
+second and 100 and we play that and
+there you go now you've got kind of a
+nice little easing slide now at the
+beginning of this you don't want to see
+these letters you kind of and and so you
+can decide how you want them to appear
+um an easy thing to do is to just
+animate their opacity and so what I'm
+going to do is uh I'm going to duplicate
+this right here and I'm going to call
+this
+opacity and let me open this up and I
+need to um I need to you know delete
+this rotation stuff because this this
+text animator I'm only going to be
+dealing with opacity and the first thing
+I'm going to do is in the initial setup
+I'm going to add a property of opacity
+so now in addition to changing the
+Anchor Point I'm going to set the
+opacity to
+zero and now in the uh in this opacity
+uh effector here what I'm going to do I
+just called it an affector that's how
+much this this sort of works like Cinema
+4D
+uh I'm going to I'm going to add the
+property of
+opacity to this and set the opacity to
+100% And now for the range
+selector right the range selector
+already has the animation on there and
+so what's happening is it's moving
+through the letters one by one and
+fading them on as they rotate
+up pretty
+nifty
+right and so I didn't really have to do
+much more than that if you want you know
+let's say that you don't actually want
+the letters to start appearing until
+they're you know here you can just
+offset these key frames a little bit
+right and so now they look like they're
+kind of sliding in but there's kind of
+this interesting rotation to them um all
+right now I kind of liked it better the
+way it was
+initially all right and so if we look at
+the one that I created the only other
+thing I did was I also added um some Z
+rotation right so I had them kind of
+lean in as they
+were as they're kind of animated on but
+again it's the same concept we're just
+starting with an initial setup and just
+stacking these type animators and then
+once you get some animation going you
+can just offset the animated ones by a
+little bit all right so the last thing I
+want to show you is how I
+made this one just because I want to
+just demonstrate and this is not really
+going to this isn't going to be that
+useful for you unless you already know
+some Expressions but I want to show you
+just how powerful these things can be
+this it's it's pretty crazy the power
+built into uh these text animators and
+you know I think the more people that
+play around with them um and and sort of
+try to really crack them open and figure
+them out uh the better all of us are
+going to be at understanding the power
+of them um you really can do a lot of
+stuff with them so what I what I thought
+was wouldn't it be cool if I could sort
+of have them alternate you know some
+come from the top some come from the
+bottom and have them um you know sort of
+work like a slot machine or something so
+the way you know let's let's just sort
+of dive in and start talking about how
+to do that so I'm going to animate the
+position all right now here's the tricky
+thing I need every other letter to go in
+a different direction right so I can't
+just say you know the there's there's
+not there's not really an obvious way to
+do it like using just a range selector
+you know I could I could you know I
+could like do this right and then just
+make sure that only that first letter is
+selected and then add another one and
+make sure only the second letter is
+selected I could do that that would be a
+huge pain um but I I was sort of
+thinking about how to approach this and
+I looked at the selectors and I noticed
+there was an expression
+selector okay so you click on this and
+it adds another selector expression
+selector and if you click on this Arrow
+by amount there's an ression in here all
+right and so you know looking at these
+variables here I'm I'm thinking okay
+well the selector value that's probably
+you know the amount of uh selection
+that's going to end up on each letter
+and the text index well I'm guessing
+that's you know like this is the first
+letter so that has an index of one and
+this is the second letter so that has an
+an index of two and text total must be
+the total amount of numbers so I fig
+figured out that there's these variables
+that you can work with um and so what
+what you want to do and what you can do
+which is awesome is you can make a
+little if then
+expression uh using these variables so
+you've got selector value and text index
+and text total so here's what we're
+going to do um we are going to first
+write a little if then okay so we're
+going to say if and what we want to
+check here's what we want to check we
+want to see if you know cuz these these
+text animators they're evaluating each
+letter on its own so letter by letter
+it's going to evaluate and it's so we
+want to say okay well if if this is an
+odd sorry if this is a an odd numbered
+text Index right so if this is the first
+letter or the third letter or the fifth
+letter I want you to move that letter by
+whatever this position is but if it's an
+even letter if it's number two or four
+or six or eight or whatever I want you
+to do basically the opposite of what
+this position is set to so I need to be
+able to check if each letter is an odd
+or an even you know index and there's an
+easy way to do that with uh a little
+programming trick and I'll teach it to
+you guys and I don't want to get too
+deep into the into the programming side
+of this but here's the way it works so
+if the text index and remember this text
+index variable is going to be whatever
+letter is being looked at right and I'm
+going to use a cent sign here and say
+two okay now what this is okay and let
+me put this whole thing in parentheses
+so we've got if open parenthesis and
+then another open parenthesis text index
+percent sign two now what the heck is
+that percent sign well that is actually
+um an it's an operator it's called an
+operator but what what it does is it
+basically takes this number divides it
+by two and then gives you the remainder
+so if if you remember learning long
+division in school uh the remainder is
+whatever's left over after you divide
+something and so if you have um an even
+numbered letter right so 2 4 six you
+divide it by two you're going to have no
+remainder so that's going to equal zero
+okay so if the text index percent sign
+two and then equal zero and when you're
+checking something in an after effects
+expression you need two equal signs this
+is basically saying is this an even
+numbered letter okay so if it is then I
+want you to use the selector value right
+and the selector value is remember the
+amount of selection that gets assigned
+to each letter so if it's 100% selected
+it will be affected by this if it's
+negative 100% selected it's going to be
+negatively affected by whatever my
+position set to okay so you know I'm
+going to cop and paste this and put this
+on the site so you can just copy and
+paste this you don't have to type this
+in but if you want to learn Expressions
+you need to type it in because that's
+how your brain's going to remember this
+and look at the make sure you get the
+syntax right if this equals zero Open
+Bracket the next line is what will
+happen if this is true then on the next
+line I close the bracket and now I'm
+going to add another little piece to
+this I'm going to say else and open
+another bracket what this lets you do is
+it lets you check if this is true if it
+is this this happens if not something
+else happens negative selector value
+okay there you go so now we've got this
+expression on there and watch what
+happens when I animate the position now
+Boom the odd numbered ones right they
+move in the opposite direction because
+they have a negative selector value but
+the even ones have a positive selector
+value Okay so there you go now you've
+got that set up um and so let's rename
+this let's just call this initial value
+again right and duplicate it and call
+this position
+01 and now set this to negative 100
+remember this is a relative value so the
+initial value is 100 to move it back to
+zero we need to make it negative 100
+let's go to the range selector Advanced
+let's do a nice ramp down
+East High let's set that to 100% And
+then we'll animate the offset so it
+starts here right go forward 1
+second there you
+go right and here's this
+animation and you can see that there's
+no easing out of the position it just
+shoots in right and let's actually let's
+make this uh a little bit more Amplified
+here let's have it start at
+300 and then set this to3 300 cool all
+right and so now you could do the the
+exact same thing we did with the um with
+the slide where you add an opacity
+animation too so so that the letters are
+not visible when they're up here and
+down here but as they start moving they
+get visible right so initial value just
+add the opacity property to it set it to
+zero ah now this is this is going to be
+interesting okay so because because this
+initial value has this um expression
+selector on
+it the odd numbered letters are not
+going to be set to zero because um you
+know it's it's basically saying - 100%
+of zero it's it's basically not going to
+work so what we're going to have to do
+is set an initial opacity uh we're going
+to have to make this a separate text
+animator so we'll just say animate
+opacity and we'll move this up here and
+we'll call this initial opacity we'll
+set the opacity to
+zero and then we can just um we could
+just duplicate this and call this
+opacity change and now on the OPAC see
+on the position we need that uh
+expression selector but on the opacity
+we don't we can just delete that
+expression selector and let's make sure
+that that we get rid of this position
+and on opacity change We'll add the
+opacity property we'll set it to 100%
+And then in the range
+selector it's already got um key frames
+on it and so there you
+go right so now we're stacking and we're
+getting you know a more elaborate kind
+of animation and again I want to just
+point out that why this is useful and
+really powerful is because now you can
+type in anything you want and get that
+crazy motion and you can just stretch
+out your key frames to make it take
+longer if it's a longer piece of typ
+there you go um and all of these by the
+way work with motion blur so if you have
+you know some neat kind of overlapping
+animation you can use motion blur and
+and get a nice little result
+there and there you go uh so what I hope
+the takeaway okay there's always a
+takeaway with my videos what I hope that
+that that you take away from this is
+that um you know text animators if you
+break each little bit of Animation down
+this is the first position position the
+initial position then you got the second
+position then the third position then
+the fourth position and all of those
+positions just have offset key frames
+you can build some really complex moves
+I mean you can you could have these
+things have 20 different things happen
+and you know and really make it
+intricate and then all you have to do is
+copy the layer and type in something
+else and it's done so these are
+extremely powerful they do take some
+getting used to and I'm still sort of
+figuring them out I mean you sort of saw
+me stumble through through it a little
+bit um but super useful when you're
+doing long form pieces that have a ton
+of type and you just want to get you
+know you want to make something that
+looks nice that looks custom but you
+don't want to have to do 10 minutes of
+work every single time there's new piece
+of type so I hope you guys dug this I
+hope you find it useful thank you guys
+so much I will see you next time thank
+you so much for watching I hope you
+learned something new today about text
+animators which are one of those things
+that a lot of Pros don't use that often
+because the stereo type is that they
+look very canned and they look cheesy
+but they don't have to if you build your
+own from scratch and you use animation
+principles and you really take the time
+to make them look good they can be very
+very useful timesavers for you if you
+have any questions or thoughts about
+this lesson definitely let us know and
+if you learn something valuable from
+this video please share it around it
+really helps us spread the word about
+school emotion and we will owe you a
+beer also don't forget to sign up for a
+free student account to Access Project
+files from the lesson you just watched
+thanks again for watching and I'll see
+you on the next one
+[Music]
