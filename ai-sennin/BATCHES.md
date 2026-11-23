@@ -1,7 +1,7 @@
 # AI仙人 全91本 バッチリスト
 
 Geminiに投げる用。1バッチ5本ずつ、プロンプト（~/workspace/summary-handoff-prompt.md）と一緒にリンクを貼る。
-調査済み：31本（Museが深く調査16本＋Geminiまとめを検証して蓄積13本＋Claude/ChatGPTまとめを検証して蓄積2本）／ 未処理：60本
+調査済み：36本（Museが深く調査16本＋Geminiまとめを検証して蓄積18本＋Claude/ChatGPTまとめを検証して蓄積2本）／ 未処理：55本
 
 ## 調査済み（投げなくてよい）
 - 【速報】Geminiが超進化！Astra6.2も出たし課金オススメ最強AIはどこか体験ベースで教えるで！（https://youtu.be/5UKQ1hC1OkU）
@@ -68,7 +68,7 @@ Geminiに投げる用。1バッチ5本ずつ、プロンプト（~/workspace/sum
   https://youtu.be/ZKIEEbx4200
   （Geminiまとめを検証し、transcript.txt / method.md を蓄積済み。2026-11-23 20:52の実行で、19:59の上限が20:47にリセットされたことを確認してから送信。Googleドキュメント「AI仙人 バッチ3 まとめ 2026-11-23」に全5本を収録。ただしドキュメント内の3・4本目はGeminiがチャット履歴を参照できずURLから再作成した要約のため、検証の正とするのは各動画フォルダの gemini-*-raw.md）
 
-### バッチ4
+### バッチ4 ✅ 完了（2026-11-24：Geminiまとめを検証し、各動画フォルダに transcript.txt / method.md を蓄積済み。調査はバッチ4で終了）
 - 【100年に一度】今、我々は「シンギュラリティ」のど真ん中にいる
   https://youtu.be/KXDUvNggpgw
 - 【二極化】一番ありえる「未来の社会」ではAIを支配する人と超低賃金で働く人に分かれる
