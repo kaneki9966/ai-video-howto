@@ -1,0 +1,236 @@
+If you're editing videos manually in
+2026, you're already behind. Ask any
+creator what's slowing them down right
+now, and it's not coming up with ideas
+or capturing the shot. It's the hours of
+editing between filming a clip and
+posting it. For the last 2 years, AI has
+been able to generate great footage, but
+it still struggles to edit and stitch
+all of it together. And everything that
+actually makes a video watchable, like
+your captions and motion graphics, are
+still a manual job. Until now.
+I've tested 14 different premium
+headphones this year. These are the only
+ones I haven't taken off in 2 weeks. 40
+hours of battery,
+&gt;&gt; [music]
+&gt;&gt; active noise cancellation, and they fold
+flat into a bag the size of a paperback.
+The crazy part? They cost half what I
+expected. Because this entire clip was
+edited by AI. All I did was describe the
+edit I wanted in plain English, and
+Claude Code handled the entire process
+for me. The brand new tool that made all
+of this possible is called HyperFrames.
+And with my four-step workflow, you'll
+be able to take a raw clip and turn it
+into a finished, polished video, all
+without touching a timeline or dragging
+a clip. Plus, we're going to take it a
+step further. In the final step, we're
+going to do something no other editing
+tool on the planet can do. So, let's get
+into it. Before we can start, we need
+two things: footage and the tools to
+actually edit it. Let's start with the
+visuals, which we'll be generating
+inside Higgs Field for step one. All we
+need is a 15-second influencer review
+for a fictional pair of premium
+headphones. So, we'll head to create
+video and pick Seedance 2.0 as our
+model. We want native audio baked into
+the clip, so we'll write a short prompt
+describing the host, the environment,
+and the exact line we want her to
+deliver. All prompts are linked in the
+description. And just like that, our raw
+clip is ready. I've tested 14 different
+premium headphones this year. These are
+the only ones I haven't taken off in 2
+weeks.
+40 hours of battery, active noise
+cancellation, and they fold flat into a
+bag the size of a paperback. The crazy
+part? They cost half what I expected.
+But a raw clip alone won't carry a
+video. It still needs production layers
+like kinetic captions, lower thirds,
+stat cards, all of it. So, let's move on
+to the tools we we to fix that. As I
+mentioned, the whole editing workflow
+runs through Claude code and
+Hyperframes. The setup [music] takes 10
+minutes and we only have to do it once.
+First, we'll install Node and Claude
+code on our machine, then run one
+command that installs the Hyperframes
+skills directly into Claude code. And I
+know what you're thinking, this all
+sounds technical, but don't worry
+because from this point on, we won't
+have to stress about writing code again.
+Now, with the setup out of the way, all
+we need to do is drop our raw footage
+into the project folder. And what
+happens next is something most editors
+won't believe until they see it. Instead
+of creating every overlay one at a time,
+we're going to describe the entire edit
+to Claude code in a single prompt. So,
+in step two, Claude will take that
+prompt and use Hyperframes to build
+everything at once. It'll transcribe the
+audio of our clip word by word, write
+the actual composition, and run a
+quality check to make sure everything's
+working. In only a couple of minutes,
+our first preview is ready.
+&gt;&gt; I've tested 14 different premium
+headphones this year. These are the only
+ones I haven't taken off in 2 weeks. 40
+hours of battery, active noise
+cancellation, and [music] they fold flat
+into a bag the size of a paper bag. The
+crazy part? They cost half what I
+expected.
+&gt;&gt; comes back is genuinely impressive. It's
+got captions, lower thirds, stat cards,
+all from one prompt and all synced to
+our host's audio perfectly. But here's
+the thing, Claude isn't dragging actual
+clips onto a timeline. It's writing an
+HTML composition where each piece of the
+edit is a styled element with timing
+data. Hyperframes then takes that code
+and renders it into our final video,
+which means every edit we make is
+reproducible. Every iteration is saved
+as a separate file and every element of
+the edit can be tweaked in plain English
+at any time. Now, Hyperframes does have
+a library of pre-built blocks for things
+like captions and lower thirds, and if
+we're just getting started, using them
+is a perfectly good option. But for the
+level of control we want, having Claude
+write each element from scratch is what
+I always come back to. But let's see
+what happens when we hand Claude more
+footage and ask it to cut the videos
+together. For step three, we'll generate
+two extra B-roll clips of the premium
+headphones. One slow hero rotation shot
+and one quick shot of the headphones
+being folded. Both came from C Dance
+2.0, using the same workflow as our main
+clip. Now, it's time to head back to
+Claude Code and describe what we want.
+We'll tell it to cut to the hero shot
+when our host starts talking about the
+specs, then cut to the folding shot when
+she mentions the size.
+&gt;&gt; I've tested 14 different premium
+headphones this year. These are the only
+ones I haven't taken off in 2 weeks. 40
+hours of battery, active noise
+cancellation, and they fold flat into a
+bag the size of a paperback. The crazy
+part? They cost half what I expected.
+&gt;&gt; That's all it takes. After one simple
+instruction, the edit has rhythm. Plus,
+we can iterate on any element of the
+video in seconds. For example, right
+now, our captions are bold and snappy,
+with the active words highlighted in
+yellow. But, what if we want to test a
+different style? For most AI editing
+tools, this would mean rebuilding the
+whole edit from scratch. With this
+workflow, it's a single sentence. We'll
+tell Claude to generate two new caption
+styles, while keeping everything else in
+the video identical. A bold style of
+large white text and full sentences at a
+time. editorial style in elegant
+lowercase serif, fading in fewer words
+at a time. This is the real shift. Every
+other AI editor gives us a fixed set of
+caption templates. But, here, the only
+limit is what we can describe. Once
+we've got our style dialed in, we can
+even schedule the whole workflow by
+dropping new footage in the same folder.
+Then, Claude edits it automatically
+using the same style every single time.
+That's how creators are publishing daily
+content with zero manual editing. There
+is one exception, though. For these
+types of 2D motion graphics, Claude
+handles the whole thing. But, the moment
+we want serious 3D animations or complex
+physics-based moves, we'd still need a
+human to step in and tweak the timing.
+Even so, this workflow still has a
+feature that no other editing tool can
+match. See, Claude wrote every part of
+this edit as code. And because of that,
+we can ask it to do something genuinely
+insane. In step four, we'll ask it to
+watch the edit back like a senior editor
+reviewing the final cut and tell us
+everything that's wrong with it. And
+what comes back reads like notes from an
+actual editor. The main feedback is
+about a stat card that's firing while
+the caption is still on screen and a
+B-roll cutback that's landing
+mid-sentence. So, we'll tell it to apply
+the fixes and watch the magic happen.
+The stat card now waits for the caption
+to clear before firing and the host face
+returns at the rhetorical pivot, not in
+the middle of a setup line. These notes
+were small, but the workflow doesn't get
+less critical on bigger projects. It
+gets more critical because there's more
+to find. What's even sharper is that
+Claude is also making comments on what
+it's choosing not to change. It's
+choosing to keep the hard cuts in and
+out of the B-roll and that one second
+beat where we land back on our host and
+it actually explains itself. Hard cuts
+are correct for a fast-paced product
+review and dissolves would slow it down.
+It defends decisions like an editor
+protecting their cut from a producer's
+notes. That's what puts this workflow
+ahead of 99% of people still editing
+manually. So, let's recap what we built.
+We generated our raw clips using
+Seedance 2.0 inside Higgsfield. We built
+the entire first edit, which included
+captions, lower thirds, a stat card,
+plus an intro and outro all in a single
+prompt. We iterated in plain English,
+added B-roll cuts, and swapped caption
+styles all without ever touching a
+timeline. And we got Claude to critique
+its own edit and apply all the fixes
+itself. Now, we know exactly how to edit
+a video end to end with AI, but
+everything we did here was on a single
+15-second clip. The moment we want to
+build something bigger, like a cinematic
+short film with multiple shots and
+locations, the rules change completely.
+I broke the whole thing down in another
+video covering the exact six-step
+[music] framework for building cinematic
+AI short films from scratch using
+Seedance 2.0 inside Higgsfield. Click
+the video on screen now.

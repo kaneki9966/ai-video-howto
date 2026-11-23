@@ -1,0 +1,282 @@
+Did you know that AI can now edit your
+videos for you even your long form
+training and education videos,
+workshops, webinars, courses,
+presentations, anything. You know you
+want to get them edited, right? You want
+to cut out the bits where you did ums
+and ahs, you want to cut out the word
+gaps, you want to add captions, you want
+to add in maybe even some blurs if
+you've got or shared any kind of private
+information, if you've been doing screen
+sharing, maybe you want little pop-ups
+or text to show little arrows to display
+or point out important parts. This is so
+important when you're doing educational
+content of some kind, especially if it's
+paid content for courses or if you're
+using YouTube as a method to get more
+business works a treat. This is so easy
+to do today. In the past we had to learn
+video editing software and pay a fortune
+for extra tools. It would take us weeks,
+months and for some of us even years to
+learn how to edit these tools or pay
+somebody else a fortune to do it. Now
+you can get AI to do it. Now this works
+whether you're using ChatGPT, Claude or
+Grokbot. I personally am currently using
+Grokbot for this particular task and
+this really comes down to simply having
+some good connectors in place. Now first
+of all, if you're just doing short
+videos, videos that are like social
+media content and they're maybe under
+three minutes long, your Claude ChatGPT
+Grokbot can actually natively edit those
+now really, really well and if you've
+got a B-roll folder of you know pictures
+of you or videos of you typing on your
+laptop, walking around on stage,
+whatever it is, you can also store all
+of those B-roll footage pieces that
+you're happy for your AI to use as
+B-roll on your main teaching videos.
+Chuck it in a Google Drive, these B-roll
+photos and just give that Google Drive
+access to your AI. So I just have this
+folder on my Google Drive called B-roll
+videos and photos of Sarah. All you got
+to do is give that share link to your AI
+that you're using and say if you ever
+make videos for me, please draw B-roll
+from this folder. Everything in here is
+safe to use. That's a really cool way to
+give it initial content. But short
+videos, you can just upload that short
+video to ChatGPT Claude or Grokbot and
+say, please go and edit this, add the
+captions, cut out any word gaps, cut out
+any filler words, and any other
+instructions that you want to add to
+your particular video. But for longer
+videos at the moment, these AI's can't
+really handle massive videos. For
+someone like me who's creating 30
+minute, 60 minute, 90 minute, three or
+four hour long half day workshops and
+training, I need to have a better system
+for that. So what I do is I actually
+have a video editing software called
+Descript. I've had it for years. I think
+I'm on the legacy plan where I only pay
+about $10 a month or something small,
+but even on the current plan, it's a
+very very small fee. Now the cool thing
+about connecting a cheaper video editing
+software like Descript that still comes
+with the full suite of functionality is
+that when your AI is editing with it, it
+uses up less credits than if it was
+editing natively. If it's editing
+natively, it uses up a lot more credit.
+If it's using another tool, you're using
+the editing tool that has that
+subscription attached to it. I hope that
+makes sense. Of course, it's still going
+to use credits, but it uses less when
+it's using another tool. So I simply
+have inside my Grokbot, again, you can
+do this with Claude or ChatGPT as well,
+I simply have a agent that I've created
+called Video Editor. Now I could try and
+go all the way back up to the beginning
+of this chat, but I won't. At the
+beginning of this chat, I simply said,
+please create a video editor. I want you
+to access my video editing tools,
+Descript. I also by the way have a
+Haygen account. I also have a HeyGen
+Field account. So you can connect up
+CapCut or any other video editing tools
+that you might use and it will just ask
+you to log in to each one so that it has
+access and it will walk you through how
+to connect those things. It will
+literally say, here's the button to log
+in, please click on the log in, or it
+will say, this one needs an API key,
+here's how to do it and just follow the
+instructions. If you say, I don't know
+where to find it, and you don't know, it
+will tell you. You can take a screenshot
+and say, what button do I press now? And
+it will tell you. You don't have to
+learn how to use software anymore. Ask
+AI what to click next, and it will tell
+you to connect those connectors. So once
+you've got your main connectors
+connected, then this is all you do.
+First of all, I want to tell you, I
+still record all of my training videos
+inside Zoom. I still use that main tool
+because I like the fact that Zoom's
+connected to all of my things. So I
+record my videos in Zoom. I record them
+raw. I don't stop and start. I just go
+for it, share my screen, teach what I
+want to teach, leave in all of the
+mistakes and just let it roll and
+record. When I'm done, I press stop
+recording. Now all I have to do is
+literally come in to my Grokbot account,
+go into video editor and just say, I've
+just recorded a new training video
+inside Zoom on how to create a CEO
+command center using any AI. It's now
+loading in my Zoom account. Please can
+you monitor it and check when it's
+finished buffering and loading. When it
+is loaded, please can you go into
+Descript and use the Zoom import button
+to pull the Zoom recording directly into
+Descript, and I'd like you to
+professionally edit it for me. Please
+remove any mistakes, word gaps, filler
+words. Please make sure that you add
+captions. Add the title for the first
+eight seconds called how to create a CEO
+command center using AI. And
+importantly, please can you make sure
+that you blur out all confidential
+information. In this video, I did a
+detailed screen share that showed a lot
+of my financial information and numbers.
+I'd like you to make sure that every
+single number or piece of financial
+information or anything that might be
+considered private company information
+is blurred out. And at the end, last
+eight seconds, can you put a call to
+action on the screen saying join the
+Legends Lab to get all of my training
+and include the link
+saracordner.com/legends
+on on as well.
+Once you've done that,
+can you upload it to my YouTube channel
+by sending it to the YouTube manager and
+making sure the YouTube manager includes
+all of the descriptions.
+And I also have a free prompt that I'm
+going to give away with this particular
+video. I would like you to tell the web
+manager to go into my Tech Matic's
+account, create the opt-in form,
+and also a opt-in funnel in my branding
+that gives away the prompt. Make it a
+really small opt-in page. It only needs
+to be a two-step with the opt-in on the
+front page and then the thank you
+confirmation page. And on the thank you
+confirmation page, please can you upsell
+the Legends Lab with the direct link to
+it. I'll leave it to you to pass on
+those jobs to everybody else once you've
+done the video edit because that needs
+to come first. Make sure that YouTube
+manager knows that that opt-in URL needs
+to go inside the YouTube description.
+Once all of that's done, then can you
+pass it to marketing manager to create a
+bunch of social media posts that need to
+be scheduled across all of my social
+media for me. And let's also write an
+email campaign to go out to my list and
+a full blog post that embeds the YouTube
+video as well. Thank you. I'm a big
+prompter. This is why I voice type,
+okay? So I actually use a tool called
+Whisper Flow to do voice typing. I just
+find it easier. Now, by the way, all of
+those other agents that I mentioned do
+actually already know how to do all of
+this. I just verbally reiterate the
+tasks that I need. So this is it. Now
+it's going to go off and do its job. But
+I want to show you inside my descript
+account. This was actually a full
+tutorial video that was created for me.
+It did take a while. It probably took
+about 20 minutes, but I mean, if a human
+being was doing that, it probably would
+have taken longer. So this is it. It
+literally pulled this in from Zoom into
+my descript account for me. It did all
+of the editing. It did all of the screen
+blurring. It did all of the captions. It
+added little pop-ups and everything into
+it. So guys, when I say that you really
+don't need to be learning how to edit
+software, use software, use tools,
+learn, I think you really don't. All you
+have to do is talk to it and tell it
+what you want. And it will ask you
+questions, it will ask you to add
+connectors, it will guide you rather
+than you having to learn how to do the
+stuff to provide instructions. It does
+it for you. This is absolutely insane.
+So if you want to learn how to make your
+job easier, faster, more efficient, get
+more done than you've ever done before
+and love your business again, quite
+frankly, when you see how more
+productive you can be, I now get to
+spend most of my time doing the bits
+that I love, the teaching, the speaking,
+the putting training together, the being
+creative, voice typing my thoughts and
+my ideas into my Grok, and it goes off
+and turns those ideas and those voice
+notes on my transcripts into content
+that multiplies. It could be to run ads
+as well. So this is absolutely insane.
+I'll actually just show you again how
+now we can get this to run ads for us
+for that opt-in that's being now built
+for me, completely built for me. I'm
+going to go into my little Grok over
+here. I'm going to just tell the video
+editor, I'm just going to say, also once
+everything is completely set up and the
+web manager has confirmed that all of
+the funnels are in place, the automated
+fulfillment workflows in place and the
+tracking pixels are on all of the funnel
+steps, then can you tell marketing
+manager to also create some Facebook ads
+for this opt-in as well. Thanks. That's
+it. So when the job is done, it's now
+going to go off and tell the marketing
+manager to go and create the ad copy for
+me and it's done.
+This is it. Now we just have to have the
+ideas and our personal voice. I just get
+to make videos now and all of the other
+admin that comes from me doing my work
+gets done for me. So if you want to
+learn how to change your life with this
+kind of AI and just be able to talk to
+run your business, then come and join my
+Legends Lab. This is where I provide all
+of all prompts, all of this training.
+You have a WhatsApp group chat where I'm
+personally in every single day. You have
+a monthly live mastermind with me, a
+monthly live Q&A call, and all of my
+tips that I'm dropping in there almost
+daily to help you do your job faster.
+I'll see you in there. And as always, my
+friends, happy teching.

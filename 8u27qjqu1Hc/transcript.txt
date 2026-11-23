@@ -1,0 +1,80 @@
+Today, we're talking about how to use AI to speed up your editing workflow. Let's jump in. So, I
+thought it'd be fine as an editor of 20 years to take a look at some of the tools that I use to
+speed up my editing workflow on a day-to-day basis. And one of the services that I like to use is
+called VEED, v e e d. I'll also put a link in the description, so you can click on there and go into
+that. But, I just want to talk specifically about the the types of things that I use AI for to help
+speed up the workflow. And one of the first ones that I lean on is subtitle generating. In VEED,
+they have a AI version of subtitles. And I don't think that I need to tell you that subtitles just
+add an extra layer of usability to your videos, but also a lot of people watching videos online are
+watching them muted or their volume's down, so you want to be able to add that in there. So, I just
+have a video here in my timeline that from another project that I was working on, but you can upload
+any video that you're you're working with in there. And when you click on the AI tools up here on
+the top, you can see you scroll down through here and you see subtitles. Now, on the free plan, it
+goes up to 2 minutes. So, again, if you want to do more than that, you'll need to upgrade. So, what
+I'm going to do, I'm just going to shrink this video down below 2 minutes just so that we can get an
+idea of what this this looks like. And then all you need to do is you just click auto subtitle in
+English. And you can even change translation or change if you have multiple speakers like on a
+podcast or something like that. But, just for example, we're going to show you auto subtitle. And it
+really just takes a few seconds, depending on the the length of your video, to generate those
+subtitles. Then you have options for what you want that to look like. So, let's just say we want
+something like this, and these are more stylized. These aren't necessarily just closed caption.
+These actually have a little bit more of a a look and feel. And, you know, I kind of like that one.
+And then when you go back, you could see what that looks like here. And there you go. And then you
+can see the titles and the text that comes right up there on the screen is pretty handy. So, just
+that easy. I mean, I cut out cost of having somebody do it and the time to do it. I remember having
+to send videos to a a a VA, and and, you know, on a good day I might get it by the end of the day.
+Or, you know, if I paid extra, I could get it expedited. But, this is just literally a couple of
+clicks of the button, and boom, I got it. It's done. So, that's a great tool to use with AI. The
+next AI tool that I'm going to talk about is clean audio. Here on Veed, you can go in the AI tools
+again, and clean audio, all you need to do is click that dial, and it's going to clean up this whole
+audio, and it's going to be automatically detecting background noise or things that you don't want
+there in there, and you don't need to be a sound engineer. It's literally just flicking that switch
+to say, "Hey, can you clean up this audio for me?" And it takes care of the rest. The next tool that
+I use pretty frequently is to remove a background. And you can go in here, and when you're in the
+video editing feature, we're just going to scroll down through here, and we're looking for remove
+background, right there, and you click that, and again, it just takes a little bit of time to
+process this, and it will cut out the background so that you could put your image on other things.
+And there you go. With that, we've now cut the background out. Now, we could add a different
+background. Let's say we just want a a color back there, whatever you want. And it's pretty good.
+It's pretty clean. I mean, you go through here, skip around, look at different frames. It's got a
+nice clean cut right around there. And again, something that's very time-consuming, but now there's
+AI tools like Veed to do that for you. Now, the next tool that I use is to use AI to generate images
+or audio or screenshots, photos. So, let's say I'm looking for a very specific photo, you know,
+somebody walking a dog in the country. Built right within Veed is ask AI to create a very specific
+element for you that maybe you need as B-roll or as a background or something like that. So, to do
+that, we're just going to jump in here to AI tools. We're going to go down here to generate. We're
+going to go to images. We're going to click on that. You add your prompt in here, exactly what
+you're looking for, all the details. You can change the aspect ratio you want, and then you just
+click on generate. It just takes a few moments, and there you go. Now, you have this specific video
+that you can now download. It's now yours to use, and we'll just drop it into the video here, and
+there you go. Now, you got this this video. And along those lines, you can also generate voice-over.
+So, let's say you you have a product, you don't want to have to record, you know, I record a lot of
+voice-overs, but again, it's time-consuming. I have to sit down and read through the script, and you
+know, every mistake I have to re-record, not to mention the editing part of it. So, you can actually
+create an AI voice-over. So, again, in the AI tools, go to AI voice, and then you can type in
+exactly what you want. And then you could go down here and pick the voice. Maybe I want a female
+voice to say that rather than my own. And so, you just that easy type in the text that you want, and
+you can play it back and hear what it sounds like. Here is a new lipstick called lemon yellow.
+Pretty good. And then, just that easy, I could have hired a voice actor, I could have had them
+record it, I I have edited in there, or I could just use the text-to-speech and get a quick
+voiceover without much effort. And again, all generated through AI. Incredibly useful. The next tool
+that I want to talk about is something that's fairly new to to Veed, and there's certainly some
+other services out there that offer this, but this is really kind of cool. If you have a
+teleprompter, you'll be able to look directly into the lens and read your script, and it looks like
+you're making eye contact with the lens. If you don't have a teleprompter, sometimes you have to put
+the script beside your camera, and you're talking into the the script, and then you have to keep
+darting your eyes back so that it looks like you're connecting and looking directly into the lens.
+But now, with AI, there is actually a tool in here called eye contact, right here under the AI
+tools, you see eye contact, where I can turn this on, and it'll shift my eyes so that it looks like
+I'm looking at the camera. So right now you see my eyes are looking to the right of the frame here,
+and now it's going to go through and analyze this footage and actually move my eyes so that it's
+looking into the camera. Let's see how this works. And just like that, now my eyes are looking at
+the camera. Kind of a cool feature, and you look through the video, and it continues to kind of look
+at the the camera. Kind of neat, especially in this day and age with with Zoom, where our camera is
+actually above our head and we're looking at the monitor where we're looking at, you know, who's
+talking to us and that sort of thing. Now our eyes lift right within there. Really cool. These are
+the kind of tools that I never would have thought about 20 years ago, but now that they're here,
+it's an incredibly useful tool. I encourage you to click the link in the description to get Veed for
+yourself, and take a look at it. Play around with some of these tools. They're really powerful, and
+they're really going to help speed up your editing workflow. I hope you found this video helpful,
+and I'll see you in the next one.

@@ -1,0 +1,395 @@
+Claude Opus 5.5 cannot watch a video. It
+cannot hear one either, and it can still
+edit yours. Captions, zooms, animated
+titles, music, and a finished file ready
+to upload. You will not drag a single
+clip. You will not write a single line
+of code. You will just type what you
+want in plain English. That sounds
+impossible. So, let me show you step by
+step. If you make videos, you know where
+the time goes. Recording is the quick
+part.
+Editing is what eats your day. Learning
+a professional editing program can take
+months, and hiring an editor costs money
+on every single video. So, this is a
+complete beginner tutorial. We start
+from zero. Even if you have never opened
+a terminal in your life, you will be
+able to follow. Stay till the end
+because I'm going to show you five
+things.
+>> [music]
+>> How an AI that cannot see or hear a
+video manages to edit one. The exact
+setup, including the five short commands
+that create your project. The one
+request that ruins a beginner's first
+edit. The simple trick that lets Claude
+catch its own mistakes.
+And why your second video will be so
+much easier than your first.
+I will also tell you honestly what this
+costs and where it is weak.
+First, the secret. Because once you
+understand this, everything else becomes
+easy. Claude Opus 5.5 was released by
+Anthropic in September 2026.
+And according to Anthropic's own
+documentation, it takes in two [music]
+things, text and images. Not video,
+not sound. So, how can it edit?
+Think of a composer. A composer does not
+play every instrument in the orchestra.
+The composer writes the sheet music. The
+orchestra plays [music] it.
+Claude is the composer. Your computer is
+the orchestra. Claude does not cut your
+video by hand. It writes instructions.
+Your computer follows those instructions
+and builds the video. The tool that
+makes this possible is called Remotion.
+With Remotion, a video is made from code
+instead of a timeline. Its documentation
+explains the idea in one line. A video
+is a function of images over time. In
+simple words, a video is a long row of
+pictures, [music] usually 25 or 30
+pictures for every second, and the code
+decides what goes into each picture,
+where the text sits,
+>> [music]
+>> when the title slides in, how far the
+camera zooms. Now, you may ask, [music]
+"If Claude cannot hear me, how does it
+know what I said?"
+It uses a helper, a free speech
+recognition tool called Whisper, which
+can run on your own computer. Whisper
+listens to your video and writes down
+what you said, together with the moment
+you said it. So, for Claude, your video
+becomes a document. At second 12, you
+said this. At second 40, you said that.
+And reading a document is exactly what
+Claude is good at.
+>> [music]
+>> One more thing. Claude cannot watch a
+video, but it can look at a picture.
+Remember that. It is going to save your
+edit later. And why this model? Because
+Anthropic presents Opus 5.5 as a model
+for long-running coding and knowledge
+work.
+In simple words, long jobs with many
+steps, [music]
+reading files, writing code, running it,
+fixing its own errors. And that is
+exactly what editing with code is. So,
+that is the secret.
+>> [music]
+>> Claude writes the instructions. Your
+computer does the work.
+Now, let us set it up. This is the part
+that scares beginners, so I will make it
+painless. You need four things.
+One, a computer, Windows, [music] Mac,
+or Linux.
+Two, a paid Claude plan. I have to be
+honest with you here. The free plan does
+not include Claude code, and Claude code
+is the tool we need. The pro plan does
+include it.
+>> [music]
+>> On Anthropic's pricing page, pro is $20
+a month when you pay monthly before tax.
+Three, Node.js. This is a free program
+that lets your computer run Remotion.
+You download it from the Node.js website
+and you install it like any other app.
+Four, Claude Code itself. We will
+install it in a moment. [music] Now,
+open your terminal. Do not be afraid of
+that word. A terminal is just a window
+where you type instructions to your
+computer instead of clicking. On
+Windows, it is [music] called
+PowerShell. On a Mac, it is called
+Terminal. Every command I mention is in
+the description below and on the screen.
+So, do not try to memorize anything.
+Just copy [music] and paste.
+First, install Claude Code. Anthropic
+[music] gives you one line for Mac and
+one line for Windows. Paste the line for
+your computer and press enter. [music]
+Next come the five commands from
+Remotion's own guide. Command one
+creates a blank video project in a new
+folder called my video. Command two
+moves you inside that folder.
+Command three adds the Remotion agent
+skills. These are instructions [music]
+written by the Remotion team that teach
+an AI like Claude the right way to work
+inside a Remotion project. Command four
+starts the preview. A page opens in your
+browser. This is Remotion Studio.
+>> [music]
+>> It is where you will watch your video
+come to life. Leave that window running.
+Now, open a second terminal window, go
+into the same folder, and type one word,
+Claude. That was command five.
+The first time, [music] it asks you to
+log in through your browser. After that,
+you see an empty box waiting for your
+message. Check one thing. Type /model.
+On paid plans, Claude Code starts
+[music] on Opus 5.5 by default.
+If you see a different model, choose
+Opus here. And if the terminal still
+worries you, there is another door. The
+Claude desktop app has a tab called
+code. It is the same Claude Code with
+[music] buttons instead of a black
+window. You pick your project folder,
+you pick the model, and you start
+typing. There, you can even ask Claude
+to run the setup commands for you.
+Remotion still needs Node.js [music]
+either way. That is the setup. The
+installing part, you only do once. Now,
+your first edit.
+Take your raw video.
+>> [music]
+>> Inside your project, there is a folder
+named public. If you do not see one,
+create it.
+Copy your video into that folder. That
+is where Remotion looks for your files.
+Give the file a simple name, for
+example, raw. And now, the request that
+ruins a beginner's first edit. It sounds
+like this. "Edit my video and make it go
+viral." Why does it [music] fail?
+Because that one sentence hides dozens
+of decisions, and you made none of them.
+Which font? Which color? Where do
+[music] the captions sit? How fast are
+the cuts?
+Claude has to guess every [music] one.
+And when the result looks wrong, you
+cannot tell which guess was the bad one.
+So, here is the rule that fixes it. One
+layer at a time.
+>> [music]
+>> Think of building a house. First, the
+foundation, then the walls, then the
+paint.
+Nobody does all three in one afternoon.
+Layer one is the footage.
+Type this. "My video is in the public
+folder. It is called raw."
+Put it on the timeline at full length
+and original size. Add nothing else.
+Sometimes Claude will stop and ask your
+permission before it runs a command or
+changes a file. Read what it wants to
+do, and then allow it. Now, look at the
+preview in your browser. Your video
+plays. Good.
+>> [music]
+>> That is your foundation. Layer two is
+captions. Type this. "Transcribe the
+audio with Whisper on this computer.
+Then add captions [music] near the
+bottom of the screen. Show three words
+at a time. White, bold text. Turn the
+word I'm speaking yellow." The first
+time, your computer has to download the
+speech model. So, be patient.
+And now,
+>> [music]
+>> the twist. Your captions appear. And one
+of them is sitting right across your
+face.
+Claude did not notice.
+How could it?
+It cannot watch the video. It wrote the
+instructions, but it never saw the
+result.
+This is the moment where people decide
+that editing with AI does not work.
+But remember what I told you.
+Claude cannot watch a video. It can look
+at a picture. So, type this. Render
+still pictures at 5 seconds, at 30
+seconds, and at 1 minute.
+Look at them yourself. Tell me if any
+text covers my face or goes outside the
+frame. Then fix it.
+And now something remarkable happens.
+Claude pulls single frames out of your
+video. It looks at them. It sees its own
+mistake. And it corrects it.
+The editor that cannot watch your video
+has just checked its own work.
+Make this a habit. After every layer,
+ask Claude to look at a few frames. And
+look at the preview yourself.
+So, now you have the two rules. One
+layer at a time. And always make it
+look.
+Let us finish the edit.
+Layer three is graphic. And here is a
+trick I really like.
+Claude has your words and the time you
+said them. So, you do not have to hunt
+for timestamps.
+You can point with your own words.
+[music] Type this. When I say the words
+$20 a month, show that number big on the
+screen for 2 seconds with a quick pop
+animation. You can do the same with
+titles, lists, arrows, [music] and
+simple charts.
+Describe what should appear and say
+which words it belongs to. Layer four is
+movement.
+A talking head that never moves is
+tiring to watch.
+So, type [music] this. Zoom in slowly by
+10% during my first sentence. Then cut
+back to normal. Do the same each time I
+start a new section. Layer five is
+sound. Put your music and your sound
+effects into the same public [music]
+folder. Use music you have the right to
+use. Then type this.
+Play the music under the whole video at
+10% volume, so my voice stays clear. Add
+the whoosh sound each time a title
+Layer six is the export. Watch the whole
+video once in the preview.
+Then type this. Render the final video
+as an MP4. Your computer builds the
+video picture by picture. When it
+finishes, by default, the file is
+waiting in a folder named out inside
+your project.
+>> [music]
+>> You can also press the render button
+inside Remotion Studio. That is a
+complete edit.
+Footage, captions, graphics, movement,
+sound, export. Six layers, six short
+requests. But here is the part that
+changes everything. [music]
+What you just made is not only a video.
+Open your project folder. Your whole
+edit is sitting there [music] as text.
+Your caption style, your title
+animation, your zoom, your sound levels.
+In a normal editor, a new video means
+doing much of that work again
+>> [music]
+>> by hand.
+Here, you type this. Save this style as
+a template that I can reuse. And there
+is one thing you must know. Every new
+Cloud Code session begins with a clean
+page. [music]
+What it does read every single time is a
+project instructions file. So type this
+as well. Write my style rules into the
+project instructions file, so you
+remember them next time. Then next week,
+you drop a new recording into the public
+folder, and you type this. Use my
+template on this new video. Transcribe
+[music] it, add the captions, and
+suggest where the titles should go. The
+decisions you made today are already
+made. You did not just edit a video. You
+built your own editor.
+>> [music]
+>> One that knows your style. That is why
+the second video is so much easier than
+the first. The first video teaches the
+machine your taste.
+>> [music]
+>> Every video after that reuses it.
+Now the honest part, because I do not
+want you to be disappointed. [music]
+First, this is not free. You need that
+paid Cloud plan. And paid plans have
+usage limits.
+A long editing session can reach the
+limit, and then you have to wait until
+it resets.
+Second, Remotion has its own license.
+>> [music]
+>> It is free for individuals, for
+nonprofits, and for companies with up to
+three employees. Bigger companies must
+buy a company license. Third,
+>> [music]
+>> your own computer does the rendering. On
+an old laptop, a long video can take a
+long time.
+>> [music]
+>> Fourth, Claude makes mistakes.
+Whisper can hear a name wrong. An
+animation can arrive a little late.
+>> [music]
+>> You are still the director. So, watch
+the final video from start to finish
+before you upload [music] it, every
+time. And fifth, this is not the best
+tool for every job. If you only want to
+trim the start and the end of one clip,
+a normal editing app is faster. [music]
+This method wins when the work repeats.
+Captions,
+titles, numbers, [music]
+one consistent style across many videos.
+Four quick tips before you go. [music]
+Describe problems with a time and a
+place. Do not say, "The title looks
+bad." Say, [music]
+"At 15 seconds, the title is too small
+and too close to the top."
+If you already [music] have your script
+as text, give it to Claude. It helps fix
+the words that Whisper heard wrong. If
+the preview shows an error, copy the
+error text, paste it to Claude, and ask
+it to fix it. [music]
+And when a conversation gets long and
+confused, type {slash} clear and start
+fresh. Your project files [music] stay
+where they are.
+So, let us go back to where we started.
+Claude Opus 5.5 cannot [music] watch a
+video. That is still true. It is not
+watched 1 second of yours. But now you
+know it does not need to. It [music]
+reads your words, it writes the
+instructions, it checks the pictures,
+and your computer builds the video.
+Editing used to mean learning software.
+Now [music] it means knowing what you
+want and saying it clearly.
+So, here is your homework. Take one
+short video. 1 minute is enough. Do
+layer one and layer two today. Just the
+footage and the captions.
+Then tell me in the the which layer you
+want a full tutorial on next. Captions,
+motion graphics, or sound design. And
+subscribe to this channel where we make
+AI simple enough to actually [music]
+use. Because your next editor may never
+watch a single second of your video.

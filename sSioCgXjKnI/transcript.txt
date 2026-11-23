@@ -1,0 +1,166 @@
+All of my past 30 videos and the video
+you're watching right now were edited
+entirely by AI. Every cut, caption,
+animation, motion graphics, sound
+effects, everything was done entirely by
+AI. In this video, I'm going to teach
+you everything that I know about AI
+video editing completely for free. By
+the time you finish editing this video,
+you'll know what it takes to hand clawed
+a raw video and get back a finished
+product that looks like it was edited by
+a professional video editor. We are at a
+point where if you're not editing videos
+with AI, you're already falling behind.
+You can hand claw your video and go do
+other works such as research, learn, or
+even sleep if you want and come back to
+a completely finished edited video. This
+system that I've built to edit my videos
+completely autonomously has taken me
+hundreds of hours and billions of tokens
+and I'm giving it all away for free in
+this video. So whether you're a content
+creator yourself, a video editor, or
+someone who's looking to post their
+first video, this video here is going to
+save you a ton of time and money. So
+basically how the whole system works
+here is just a bunch of files in your
+computer that would do what a normal
+editing team would usually do and I'll
+break it down in six jobs. The most
+important tool is the director. It's the
+person who's going to watch the entire
+video and make every single decision
+that will be passed down to other
+people. So he will decide whether to cut
+something, whether to keep something,
+where the motion graphics go, where the
+sound effects go, everything is done by
+the director. And this is why most AI
+video editing tools out there suck
+because they know how to do this stuff,
+they know how to make the motion
+graphics, they know how to add sound,
+but they don't know where to put it or
+how or why to put it there. You need a
+director that understands content
+psychology, that understands retention,
+that understands why a YouTube video
+works to make those decisions for you
+instead of just blindly creating stuff.
+So without director, most of your edits
+would come out looking like AI slop.
+This is why my director was fed
+thousands of hours of YouTube footage
+and reels to understand what a good
+video looks like so it can take
+decisions that an professional video
+editor would take. It took months to get
+my director to this level, but if you
+watch until the end, I have a surprise
+for you. But since Claude can't edit the
+hairier videos, the next tool you need
+is a transcriber. This is what's
+actually going to listen to your video
+and put the words with the timestamps so
+the director can make decisions based on
+those. There are two free tools that can
+do this, WhisperX and Parakeet. I
+personally recommend WhisperX because it
+gave me the best results in my testing,
+but feel free to try them out yourself.
+This is how you're going to cut out the
+mistakes, silences, and bad takes. The
+next job is the animator. This is the
+guy who's going to be responsible for
+making basically anything that moves on
+screen, text, animation, motion
+graphics. In old times, this was done in
+After Effects, but nowadays we have
+Hyperframe, which is a tool that can
+write your code into a browser and turn
+it into a video. It's just code that's
+going to be turned into an overlay and
+placed on top of your video to make the
+motion graphics. However, sometimes you
+don't want animation for everything. For
+example, if I'm talking about a bakery,
+I might want a B-roll of a bakery shot
+coming in instead of an animation. And
+for this, I recommend Get B-Rolls, which
+is a free tool on GitHub that will tell
+Claude where to find the best footage.
+And I paired that with a researcher that
+can take Chrome screenshots to grab
+articles and tweets and everything. Up
+until now, we've only been talking about
+the visuals of the video, but the truth
+is a video is completely empty without
+great sound. That's where the sound
+designer comes in. It will decide on the
+music, the sound effects, and make sure
+that they actually make sense for the
+video that you are creating. For this, I
+recommend you connecting to Epidemic
+Sounds. So this is not a free tool, but
+I highly recommend it because there's no
+way to get the same result with free
+tools. This isn't sponsored, but
+Epidemic Sounds can connect directly to
+Claude and give him access to a huge
+library of sounds to search and choose
+from. However, if you don't want to pay
+for this tool, you can also go with free
+alternatives like synthesizing your own
+SFX based on code, but this doesn't come
+out as good. Obviously, the sound
+effects has its own set of rules to
+follow. The last tool is what's going to
+bring everything together. It's the
+FFMPEG. It's free and it's what's going
+to make sure there are no black frames,
+audio sync issues in your video before
+Claude actually renders it and shows it
+to you. So, I'm going to show you
+exactly how to set this up. You don't
+need to know any coding or video editing
+to get this working. If you want to use
+my system that is already built with
+everything, the link is in the
+description. And I've customized the
+file you get to actually ask you
+questions about your brand like colors,
+fonts, the creators you're inspired by.
+It will be tailored specifically for you
+so your edits can look like they are
+yours instead of a templates. But if you
+don't want to get my tool, that's fine.
+I'll show you how to set this up
+completely for free as well. The prompts
+to set it up are in the description. But
+the only caveat to this is that training
+the director on how to make good
+decisions for your videos is what takes
+a lot of time and a lot of tokens. I had
+to put hundreds of YouTube videos for
+the director to actually learn and this
+is very consuming for Claude. So, if you
+don't want to spend hours and a bunch of
+session limits doing that, I recommend
+you get my tool because it's totally
+worth it. But if you want to set it up
+for free, what you have to do is
+download Claude, the desktop version and
+begin setting it up with the prompts I
+left in the description for you. And
+then you need to train the directors on
+how to make the right decisions. So, you
+should download a bunch of videos as a
+reference and feed it to Claude to learn
+from those videos. I hope you enjoyed
+this video. Please give me a subscribe
+if you liked it or go get my tool and
+start making your own video.

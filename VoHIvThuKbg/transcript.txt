@@ -1,0 +1,247 @@
+You shot a video on your phone.
+Now it's sitting there, unedited,
+because editing feels like a second job.
+Here's the good news. CapCut's AI tools
+can do most of the boring work for you.
+Captions, cutting the silences, even the
+voiceover, in minutes, not hours.
+this video, I will show you five
+beginner workflows that actually save
+time.
+No editing experience needed.
+Let us start with the tool that changes
+everything.
+CapCut is a free video editor from the
+makers of TikTok, and it works on your
+phone, on your computer, and in your
+browser.
+The AI part is the point. Instead of
+doing every small job by hand, you press
+one button and the AI does it for you.
+That matters because editing is mostly
+small jobs. Adding captions word by
+word, cutting out the pauses where you
+say um, removing a messy background.
+Each job is small, but together they
+take hours.
+CapCut automates the repetitive ones, so
+you spend your time on the decisions
+that actually matter.
+What to keep and in what order.
+One honest warning before we start.
+The free plan covers everything in this
+video, but free limits change and some
+advanced features ask you to upgrade.
+Check what is free on the day you open
+the app.
+Everything I show you today works on the
+free plan as I describe it.
+Let us go through the five workflows one
+by one.
+Workflow one, auto captions.
+Most people watch videos on mute,
+especially on their phones. If your
+video has no captions, they scroll past.
+Adding captions by hand takes forever.
+CapCut does it in about 30 seconds.
+Here's how it works. Import your clip
+into a new project, tap text, then auto
+captions.
+Pick your language and press generate.
+CapCut listens to your audio and types
+out every word, time to match what you
+say.
+Then comes the part most beginners skip.
+Check it. AI captions are good, but they
+get names and unusual words wrong.
+Read through them once, fix the
+mistakes, and pick a bold style with a
+big font.
+Yellow text a dark background works
+well.
+Keep captions to one or two lines at a
+time and split long lines so they never
+flash by too fast.
+Captions are the single highest impact
+edit you can make and they take less
+than a minute. Do them first every time.
+Workflow two, remove the background. You
+filmed in your bedroom or your kitchen
+and the background is a mess. You do not
+need a green screen and you do not need
+to re-film.
+CapCut can cut you out of the background
+automatically.
+Select your clip, open the effects or
+background tools and choose remove
+background, then auto removal.
+CapCut finds the person in the frame and
+removes everything behind them.
+Then you can drop in a clean background,
+a solid color, a blurred version of your
+room, or a photo that fits your topic.
+Two things to get right. First, good
+lighting helps a lot.
+If you are lit from the front and the
+background is darker, the cut will be
+clean.
+If the lighting is bad, the edges will
+look rough, especially around hair.
+Second, zoom in and check your outline.
+If you see flickering or a strange halo,
+try background blur instead of full
+removal.
+A soft blur hides a messy room just as
+well and it is much more forgiving.
+Use this when the background distracts
+from you and skip it when the background
+is already fine.
+Workflow three, AI voiceover.
+Sometimes you do not want to record your
+own voice. Maybe your room is noisy,
+maybe you're shy, or maybe you just want
+to fix one line without re-recording the
+whole video.
+CapCut can read your script out loud for
+you. Go to text, then text to speech.
+Type or paste your script, pick a voice,
+and generate.
+Listen to the result before you keep it.
+Some voices sound natural, some sound
+flat.
+Try two or three and pick the one that
+fits your video.
+Then adjust the speed if it feels rushed
+and place the voiceover on the timeline
+so it lines up with your visuals.
+Here's the honest part.
+An AI voice will never sound exactly
+like a real person and viewers can tell.
+So use it for the right jobs, fixing a
+line, narrating a tutorial step, or
+making a faceless video like this
+channel.
+Do not use it to fake a real person
+speaking. And always listen to the full
+voiceover once before you export.
+The AI sometimes mispronounces names and
+numbers, and a wrong pronunciation in a
+finished video is embarrassing.
+Workflow four, templates. This is the
+fastest way to make a video that looks
+professional.
+A template is a ready-made edit. The
+cuts, the transitions, the music, and
+the text style are already done.
+You just replace the clips with your
+own.
+Open the template section, pick one that
+fits your video, a product showcase, a
+travel recap, a before and after, and
+add your photos or clips.
+CapCut fits them into the template
+automatically, timed to the music.
+In two minutes, you have a video that
+would take a beginner an hour to build
+from scratch.
+But there is a trap.
+If you use the most popular template
+exactly as it is, your video will look
+like everyone else's. So change one
+thing. Swap the music, change the text
+color to match your channel, or use the
+template as a starting point. Then move
+a few clips around so the order tells
+your story, not the template story.
+Templates are a shortcut, not a finished
+video.
+The best use of them is for short
+videos, the kind you post every day,
+while your longer videos get a custom
+edit.
+Workflow five, Smart Cut.
+This is the one that saves the most time
+on talking videos.
+When you record yourself talking, you
+pause, you say um, you restart a
+sentence.
+Cutting all of that by hand is tedious.
+Smart Cut does it automatically.
+Look for the Smart Cut or Silence
+Removal tool, depending on your version
+of CapCut.
+It scans your audio, finds the sequences
+and the filler words, and cuts them out.
+Your video gets shorter, tighter, and
+easier to watch without you touching the
+timeline.
+But do not accept everything it
+suggests. A pause is not always a
+mistake.
+Sometimes a pause is where the viewer
+thinks or where a joke lands.
+After the smart cut, watch the video
+once through.
+If a cut feels rushed or a sentence
+starts too abruptly, put a tiny gap
+back.
+The goal is not the shortest video. The
+goal is a video that feels natural, just
+without the dead air.
+Combine this with auto captions and you
+have a complete workflow. Smart cut
+first, then captions, then a quick
+check.
+That is how you edit a 10-minute talking
+video in under 30 minutes.
+Before we finish, three tips and three
+mistakes.
+Tip one,
+edit in the same order every time.
+Smart cut, then captions, then
+background, then music.
+A fixed order stops you from redoing
+work.
+Tip two,
+save a project preset.
+Your caption style, your colors, your
+export settings, save them once, reuse
+them forever.
+Tip three, export a short test first.
+Export 30 seconds, watch it on your
+phone, and check the captions and the
+sound.
+Fix problems before you export the full
+video.
+Now the mistakes. Mistake one, too many
+effects. One transition style is enough.
+Five different transitions in one video
+look messy.
+Mistake two, music too loud. Your voice
+should always be louder than the music.
+If you have to strain to hear the words,
+turn the music down.
+Mistake three, exporting at the wrong
+settings.
+For YouTube, export in 1080p, 30 frames
+per second.
+Higher settings make the file huge
+without making the video look better on
+most screens.
+So here is the recap. Auto captions so
+people can watch on mute. Remove
+background so a messy room does not ruin
+your video.
+AI voiceover for when you cannot or do
+not want to record.
+Templates for fast short videos. And
+smart cut to remove the dead air.
+Five tools, one app, and none of them
+need editing experience.
+If you want more AI news and tutorials
+like this, watch our AI News November
+2026 video right here on the channel. It
+covers GPT-6, Gemini 4, and what
+actually matters this month.
+Subscribe to AI Tool Lab and I will see
+you in the next one.

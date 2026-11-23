@@ -1,0 +1,757 @@
+A few days ago, I was doing the final
+check on one of my videos. Then I
+noticed that my editor kept putting in
+these kind of disturbing images. So, I
+texted him, like, "My hairline isn't
+that bad." But, he just sent me more
+images mugging my appearance, which made
+me wonder, "Do I even need this guy now
+that we got GPT Astra?" So, I did some
+research and I found six methods of how
+you can start using AI to edit [music]
+your videos. In fact, everything you've
+just seen was all made using AI.
+Okay, before we dive into this, I just
+want to get one thing clear. The goal is
+not to replace my editor. This is just a
+joke intro. The idea is, if editing
+takes less time, a human can spend more
+time on creativity and edit their videos
+even better. And that's why in this
+video I'll be breaking down all of the
+different techniques that go into AI
+video editing. I'll show you how you can
+easily trim and cut down your video.
+Then I'll show you how you can make
+multiple different camera angles just
+from your A-roll. We will go over
+cool-looking motion graphics that are
+now easier than ever to create. And I
+will even cover a bit of VFX.
+Now, last but not least, AI can do a lot
+when it comes to sound design. So, make
+sure you watch this entire video to the
+end, and let's get started.
+There are five things that you're going
+to need if you want to follow along with
+this AI video editing tutorial. The
+first one is the obvious one, which is
+ChatGPT. We're using Astra as the brain
+for all of our projects. The second one
+is Higgsfield MCP. This is used for all
+of our generations. They're also the
+sponsor of this video, but even if they
+didn't, this is the best MCP out there,
+and they also have an API now, which
+we're using for all of the generations
+that are about to come that are being
+done through GPT Astra together with
+Higgsfield. The third thing that you're
+going to need, if you're editing through
+DaVinci Resolve, you're going to need
+the DaVinci MCP. Don't worry, if you're
+editing through Premiere Pro, then you
+just need Premiere Pro. Same with After
+Effects, if you want to do things
+through After Effects, you just need to
+have that app on your computer. If
+you're missing one of the three editing
+softwares, as long as you have one of
+them, this can still work.
+Okay, let's start with basic editing.
+We're going to be trimming dead spaces.
+For this, you want to download the
+ChatGPT desktop app or the Codex app.
+The reason why is because the cloud
+version, if you're using this cloud, you
+have a limit of the file size that you
+can attach to this. If you're using this
+on your PC, you can click to on your
+computer. And now you can upload really
+big files that are already on your
+computer and it can use it directly from
+that and work directly from that. In the
+cloud, as you can see, you're limited up
+to but my camera files are way bigger
+than that. So, make sure you switch to
+on your computer, then you drop in the
+video that you want to edit. And here
+you can select GPT Astra. I'm using
+medium most of the times
+because it's already expensive enough.
+You could go high, but only if you're
+rich. Then, we need to start prompting
+it. And I have a very detailed prompt
+that anyone can use. It's a universal
+prompt. I'll explain to you right now.
+So, you upload your video and then
+you're going to add in this exact
+prompt. And this is a super long prompt.
+So, I'm going to break it down for you.
+Basically, what this prompt does is it
+first instructs ChatGPT to trim the raw
+footage. Then, it will ask it to
+transcribe that footage and trim out the
+dead spaces. After that, it will add in
+editor instructions as adjustment
+layers. Then, it will figure out
+potential spaces in your video where you
+can have or add in B-cam or even C-cam
+and it uses that with the markers. And
+lastly, it will give you the finished
+version in Premiere
+Pro or DaVinci Resolve. I'm using
+Premiere Pro right here because we are
+using that for most of the editing that
+we do on this channel. And this is what
+my team is also using. But this also
+works with DaVinci. I will show you an
+example later. You might get some things
+that you need to allow. So, I'm just
+going to do always allow for now. This
+might cost you more slow. You can
+literally see it take over your PC and
+clicking on things for you. Still, some
+of these things annoy me as it took like
+14 minutes to do some of these trims.
+So, I would only do this while you're
+working on something else and while you
+don't want to do the trimming yourself
+because you still got to sometimes
+monitor if it's doing everything
+correctly. So, it's literally taking
+over your PC and it's doing everything
+for you. As you can see, we now have a
+new version where it's marking potential
+B-roll. It is adding some adjustment
+layers. It is doing everything for me.
+Like it's now even rendering. Now, as
+you can see, ChatGPT has run all of
+these commands using my Premiere Pro and
+it made this version. I actually stopped
+this because I already had this version
+to begin with and that's the one I want
+to show you. Because here it just
+basically has done the same thing. We're
+just one step ahead, which I'm going to
+explain to you in a second. But, I
+always start my videos with a clap to
+sync the audio. Okay, this is the intro.
+A few days ago, I was doing the and
+using these adjustment layers, it says
+intro start here. Then other notes that
+I have, like for example here I say
+something about I want to add in some V
+effects here and then like it mentions
+it. Trying to do this, I'm not sure if
+this works. I'm trying to think like
+what if we can Like this is not the part
+that I want to have in the video. These
+are just instructions for me and my team
+to go over later. So, we can manually
+trim these out or you can even ask
+ChatGPT to do that for you. The other
+thing that it has done is that has
+marked these potential B cam positions
+and the potential or optional C cam
+positions and here again optional C cam.
+Let me explain to you what I mean by B
+cam and C cam. So, this what you're
+watching right now is the A cam.
+Then this is a B cam. It's a secondary
+side angle. I don't have a camera there.
+Like there's no camera there. I wish
+there was a camera there. If you have
+like three different cameras, like
+that's expensive. It's a lot of storage.
+Storage these days is expensive. But, we
+can use AI. So, this clip is entirely
+generated with AI, and I literally asked
+Astra to do that for me. Now, the other
+thing that we can do is we can also
+create C cam. That's another angle. You
+can literally create as many different
+angles as you want. So, how do you add
+in multiple camera angles? Well, the
+first thing you need is you need to have
+a reference that you can feed ChatGPT to
+what your surrounding looks like. So, I
+gave it this image. It's with all of the
+studio lights turned off. It's a bit of
+a behind-the-scenes. It's It's not the
+most clean-looking setup. Like, what the
+hell's happening here? I'm not going to
+I'm I'm renting this place, okay? I
+cannot do too much to the place. But, I
+then use the same ChatGPT text. But,
+this time we're going to use this entire
+prompt. What it does is we're going to
+ask it to add in the B-roll on specific
+segments. So, I'm just going to copy
+this prompt. We're going to go back to
+ChatGPT, and now we're going to enter it
+in there. And now, it you can just ask
+it, and it will start up Premiere Pro
+again, and it will start generating all
+of these things if you have the
+Higxfield MCP connected. That's the main
+thing you need to do. So, you're
+basically going to start up this new
+chat by pasting in that prompt. Then,
+you're going to add in that extra
+reference of your room, of the space, of
+the side angle. And then, you're going
+to say, "Use the Higxfield MCP." Make
+sure you have the Higxfield MCP
+connected. Basically, what you can ask
+ChatGPT to do, I will show you right
+now. Install Higxfield MCP. Install
+DaVinci MCP. While you're at it, you
+might as well install Blender MCP. And
+literally, by just sending this, it will
+install all of these things for you if
+you have a subscription. If you don't
+have a subscription, get a subscription
+first. If you want to support my
+channel, use my link. Basically, this is
+the task that you need to do. Okay, once
+you've done that, you can hit send. And
+now, it will get to work using that
+prompt. Again, this process might take
+some time as it's still quite slow, and
+we don't have an actual Premiere Pro
+plugin [music] yet. With DaVinci, this
+might be a lot quicker. But, now it's
+also like generating these videos using
+Seedance 2.5. And again, like that's a
+lengthy process regardless. Now, you can
+see it working here right now. So, you
+can see it use these Higfield MCPs. And
+if you then go over to Higfield itself
+and you go to the video tab, you can
+literally see it prompt this. And it is
+using Seedance 2.5. It's asking it to
+replace video one using this as a
+reference. Pretty sick, right? I'm just
+going to tell you like it might stop
+occasionally because right here it's for
+example, waiting on the video to
+confirm. But, this is the B-roll that it
+made for that video. Then I noticed that
+my editor kept putting in these kind of
+disturbing images. Keep in mind, this is
+entirely like AI-generated. I didn't
+record this myself. It's just using it
+based on this reference. And it made up
+itself what I look like from the side.
+And looking at everything, it's done
+quite an amazing job. Like we can even
+see like you don't see it, but I see
+there a shadow on my wall, like this
+shadow. Then if we look at the C-cam,
+even this one. It's time a human can
+spend more time on creativity. Like it's
+really, really good. Like this thing
+there,
+&gt;&gt; [music]
+&gt;&gt; that light,
+actually is positioned like that. The
+light behind me is positioned like that.
+Just this mouse mat thing is not
+positioned like I don't have that. But,
+overall, it's quite good. The only thing
+is this is if you want to have C-cam. I
+don't think this this angle is
+flattering on me. So, I just want to use
+the B-cam and the A-cam. You can also do
+this in DaVinci because it is much, much
+quicker as someone has created a MCP for
+DaVinci. So, basically, by just
+prompting it, use the DaVinci MCP,
+within a heartbeat, you would have a
+trimmed version of your timeline. So, if
+you are a DaVinci editor, or if you are
+trying to get into editing yourself, you
+might actually want to try out DaVinci.
+Keep in mind, you need to use the paid
+version for this as the free version
+doesn't have the MCP to my knowledge.
+But, this is to show you how you can
+generate multiple different angles of
+your main A-roll. All right. So, you now
+understand how you can trim up your
+video and how you can create multiple
+different angles of the person that's
+talking on the screen. But, the next
+thing that I'm going to show you is
+B-rolls. B-rolls are a great way to
+spice up your videos. The problem,
+however, is that generic stock footage
+B-roll looks boring and might not fit
+your vibe. The solution is generating
+those B-rolls yourself using AI. You can
+completely customize them based on the
+prompt you put in. Anything is possible,
+really. The other thing is is that you
+can get exactly what you want in like 10
+minutes. You can save credits by using
+cost-efficient models like Kling and
+they still do the job quite well.
+Cool. So, how do you generate the
+B-rolls like I've just shown you? The
+first thing you're going to need is you
+need to have multiple different
+references of the character that you
+want to have B-rolls from. In this case,
+it's me. So, what I did is I used my
+iPhone and then I made these three
+images to get a full picture of my face.
+But, if you have something a bit more
+complex, then you might want to use a
+character sheet like this one or this
+one. This one is like 100% accurate like
+I literally scanned my body and this is
+actually how muscled I am. I'm just
+trying to make a joke here cuz I'm not
+that muscled. But, as you can see, this
+is super simple. I used my face as a
+reference, then I just added in a prompt
+explaining what I want to have on the
+screen. If you want to see all of the
+prompts that I'm using in this video,
+then make sure you're joining the free
+School community. Here, for every video
+that I make, I'm uploading all of the
+assets, all of the prompts, sharing them
+with you so you can go through that at
+your own pace. To create your B-roll, I
+will just give you a quick run down what
+I did is I uploaded the three images of
+me, then I used this skill MD file that
+explains how to make a character sheet,
+and then I just gave it a simple prompt
+like this. Using the skill and my three
+reference images, can you help me
+generate a character sheet in
+Higgsfield? You also want to might add
+in Higgsfield like this and then explain
+what you want it to look like. So now
+you hit generate. After it's done
+generating, it will give you the
+character sheet that would look
+something like this. You now are ready
+to generate your video. But first, you
+need to have a video that needs B-roll.
+So I recorded this segment for that.
+&gt;&gt; [snorts]
+&gt;&gt; So the sentence is, if you're stuck for
+ideas on what to generate next, go for a
+walk or take a shower. Sometimes the
+best ideas come when you stop trying so
+hard. If you're stuck for ideas and you
+don't know what to generate next, the
+best thing that you could do is you can
+either go for a walk or take a shower
+because sometimes the best ideas come
+when you stop trying so hard.
+Okay.
+So at the part of go for a walk, I want
+to have B-roll and at the part of taking
+a shower, I want to have B-roll just for
+visual context. So at the part where I
+say you go for a walk, I want to
+generate a B-roll for that. So I'm
+basically asking it to generate me with
+this character sheet, a Cidence 2.5
+video of me walking in the park. Then I
+describe what my shot looks like. I do
+the same for the shower part. Then
+literally what it does is it uses
+Hicksfield again to generate the video
+and it will give you the video right
+here. And then if you combine that, you
+get something like this. If you're stuck
+for ideas and you don't know what to
+generate next, the best thing that you
+could do is you can either go for a walk
+or take a shower because sometimes the
+best ideas come when you stop trying so
+hard. Okay, let's go a little bit more
+advanced. Let's talk about motion
+graphics. Here's an example of the
+motion graphics that AI made for me.
+Video editors need to start using GPT
+Astra ASAP. Not only does it create
+small motion graphic elements like this,
+it can also create a full range
+animations that used to take hours in
+After Effects. All of that on autopilot.
+If you want to learn how to use GPT
+Astra, then check out the full tutorial
+that is in my free school community
+linked down below. Here's the entire
+timeline that AI helped me make for all
+of these. And I'm naming this a bit more
+advanced because the misconception is AI
+is this magical thing that will do
+everything for you and it will look
+amazing. You won't get these results by
+just prompting it. You need to combine a
+bit of your own skill together with AI
+and that's why I'm saying like editors
+are not replaced. Like me and my editor
+actually collab on this. So we're trying
+to figure out what can be done and what
+cannot be done with AI. And we have used
+of AI. It was also a bit of a painful
+process sometimes to figure out how to
+do these different style of motion
+graphics. I'm going to show you three
+different workflows. The first one is
+this basic animation workflow. What I
+did is I uploaded references of what my
+community looks like because I would
+love to have some cool looking motion
+graphics of that community. Here's the
+banner of that community. Still need to
+update this. Then I also added in some
+style inspiration. So I found these
+different type of motion graphic
+inspiration. And this is kind of like
+what I screenshot it and then I asked it
+to help me. Then I basically used
+whisper flow to give me these motion
+graphics and it just went to work. Like
+it just used After Effects and it made
+all of these things for me. And after
+going a bit of back and forth, it
+finished the After Effects motion
+graphic for me. It even gave me the
+complete project file so I can go in
+there and I can edit it myself and I
+have the finished video. So again, I am
+not an After Effects user myself, but my
+editor is. So I can now give this to my
+editor to tweak little things. The next
+one is more of an advanced workflow and
+this is quite hard to explain because
+there are so many different prompts that
+went into this, but I will try my best
+to give you a summary. First, we're
+talking about this kind of motion
+graphics and this is cool because we're
+trying to create a new style that would
+add to my videos where we have custom
+animated images of me that we can use in
+different situations. The way I made
+this is I added in a bunch of different
+references of styles that I liked and
+then again, I just started talking using
+Whisper flow about the kind of
+animations and things that I want to
+see. So then it started to create these
+references of me first, and then
+eventually it made these images of GPT-
+3 6 and me again, and then we got this
+generation. So it made like all of these
+different images and it kept me updated,
+and then it gave me the prompts of what
+it wanted to use. And then I manually
+used these prompts inside of Higgsfield
+because I didn't trust Astra and I
+didn't want to waste too many credits.
+Keep in mind, if you're doing this and
+you have the approve for me or full
+access available, it might cost you a
+lot of credits if you go into the wrong
+direction. If you have money, you're
+good. If you don't have money, please
+don't do it. Like I'm not doing this
+either. Like this is risky. Like I
+always want to approve because you will
+burn through tokens so [music]
+quickly using this method. So then I got
+like all of these different prompts. I
+manually created them inside of
+Higgsfield, and then I tweaked like all
+of the different settings. So this is me
+going back and forth before I did the
+final generation. And then eventually
+like this is the whole chat. Like you
+can see how long it is. Eventually like
+it made like all of these different
+things for me, and then I imported them
+into my timeline and I added like a
+small little things like this white
+transition right here. But all of this
+is done hand in hand with Astra. Okay,
+so there's one motion graphic, which is
+this pixel version of me, and I'm going
+to share with you how I made this
+because I think this is awesome for
+adding in this into your video. So I
+just uploaded an image of me and I just
+told him like this is a screenshot of me
+and I asked it to create a pixel version
+of me. So it made like these three
+different versions using Higgsfield MCP.
+Then I basically asked it if it can now
+give me a Cidens 2.5 prompt and I wanted
+to do this part manually again. [music]
+So now it gave me the prompt where I
+basically asked it what I wanted to have
+happen. So in this case, I wanted it to
+walk into the frame and say don't forget
+to subscribe. So now if you upload the
+part where you want to have that in your
+video together with your asset and then
+you ask it to replace it, and we get
+this cool-looking result where I walk
+into the frame and say, "Don't forget to
+to subscribe." and I jump out of it. Not
+only does it create small motion graphic
+elements like this,
+so now I can use this asset over and
+over and over again in all of my videos.
+One of my favorite things to do with AI
+is making VFX. So now I'm going to show
+you how you can do an effect like this.
+So you want to learn how to do VFX.
+Well, let me actually
+Let me show you. Wait.
+What the hell is that thing behind me?
+Okay, and for my next trick, let me
+actually move back a little bit.
+So, now we're going to do this.
+Oopsy.
+So there are a couple steps that go into
+making a video like that. First of all,
+it starts with your recording. Now this
+was my raw recording, and I already
+envisioned what I wanted to do. So I
+wanted to have something like there.
+Then I wanted to use some kind of like
+magic wand. In my case, it's actually a
+pen that I hold in my hand. And then
+something needed to happen at the end.
+Let me actually move back a little
+[music] bit.
+So, now we're going to do this.
+Okay, I hope that works.
+Yeah, so I I hope that works. So I've
+identified three points. First point
+being is when I look over my shoulder.
+So I'm going to leave a mark right here.
+An important thing I want you to do
+right now is if you're using Premiere or
+if you're using DaVinci and your
+timeline looks like this where you can
+just see like normal time of how many
+seconds it's into the video, change this
+to the view. I do that with command and
+then clicking on this. Probably would be
+control if you're on Windows. And then
+you can see the exact frames. So at the
+107 frame, I'm going to leave a mark,
+and remember that frame for when you're
+prompting. Then the next thing is here
+when the pen arrives in my hands, so I'm
+just going to leave a mark right here at
+279. So, I'm just going to add in a
+mark, and then I'm going to do the same
+when I'm clapping into my hands. So,
+right here I want something to happen
+with like a car going through the wall.
+That is the first things that you need
+to do. So, now you have identified these
+three points of where the effects need
+to happen. Then we're going to walk
+through them step by step. So, the first
+thing we need is a creature. My first
+version of the creature was this. I made
+a mistake here where this didn't really
+look photorealistic. Until after a few
+generations, I finally landed on
+something like this. This looks a lot
+more creepy, bit more realistic, and
+then this ended up being the creature
+that I wanted to use. The second thing
+that we need to generate is the magic
+wand. So, here I made a magic [music]
+wand like this. Again, the prompt is
+simple. I'm just describing like what I
+want to make, what the background looks
+like, the lighting, the style, and I'm
+using Seedring 5.0 Pro for this. So, now
+we already have two over things. Then
+the last thing is the car. And here I
+have this guy. I call him Bruiser, and I
+wanted him to be in a Tesla. Bruiser is
+going to run into me, and this is the
+reference that we're going to use for
+it. So, we now have created the three of
+our references. Then what you can do is
+you can take all three of these
+references, put them inside of ChatGPT
+or Claude, then you add in your video,
+and then you're going to precisely
+describe what you want to have happen
+per frame. So, as we remembered, I have
+here frame 107, then I have frame 279,
+and then I have frame 567. So, that is
+what we're going to prompt, and if we do
+that correctly, then it will give you a
+very detailed prompt of everything
+that's happening precisely on the
+timestamp. Like it will come up with
+that timestamp, and it will tell you
+exactly where that thing needs to go,
+and it will reference these images. Like
+this deserves like a a video on its own,
+but I just want to show you like what's
+possible. After doing that, you can look
+at it side by side, and then you have a
+result like this. So, you want to learn
+how to do VFX? Well, let me actually
+Let me show you. Wait.
+What the hell is that thing behind me?
+Okay, and for my next trick, let me
+actually move back a little bit.
+So, now we're going to do this.
+&gt;&gt; Oopsie.
+&gt;&gt; So, that is exactly how you can generate
+these VFX. If I went too fast, please
+let me know. I can make a separate video
+about this if you want to.
+Moving on, I will show you how you can
+use Astra 6 to color grade your footage.
+You can do this both through ChatGPT
+itself, and also through DaVinci. Let's
+first start by doing this in Astra 6.
+Basically, what you can do is I have
+this footage. This was shot while I was
+in Malaysia. This is S-Log footage. I'm
+using the official Sony conversion LUT
+that I found online for my camera. And
+then basically, I'm giving it a simple
+prompt where I'm saying that the
+uploaded MP4 file is my S-Log 3 footage.
+And the other file is the official Sony
+recording 709 conversion LUT. I want to
+use this to color grade my MP4 by using
+the conversion LUT. And please, for the
+deliverables, can you put this in a
+Premiere Pro timeline so I can manually
+edit it further if I need. That's all I
+do. So, now you hit send, and then it
+will do everything for you. So, it has
+now given me this folder, and if we look
+at these side by side, then you can see
+that we now have a color graded video.
+This is the super simple way. Again,
+sometimes this might take a while. In
+this case, you don't want it. I
+specifically told it, "Don't use my
+Premiere Pro directly, because that's
+the slow version." Like for more tasks
+like these, you might not have to use
+AI. If you have more advanced ones, then
+I would definitely use AI, but keep in
+mind like it can still be quite slow.
+The other thing you can do is you can
+use the DaVinci MCP. If you have the
+premium version of DaVinci, then you can
+ask it to color grade directly in
+DaVinci. It is much quicker and it will
+also give you much more customization
+options because DaVinci is best for
+color grading. You can even ask it to be
+creative when it comes to color grading
+your work. The last segment, which is
+also a very important segment, is sound
+design. Sound design is what sells your
+videos. If you're doing sound design
+manually, you can now use AI to do sound
+design for you. There are various
+different ways. And again, this also
+might deserve a video on its own because
+you can literally have Astra 6 control
+your sound design software, which is
+crazy on itself. But I'm going to show
+you a simple version. Remember when we
+had this video?
+&gt;&gt; [music]
+&gt;&gt; I personally don't really like the
+sounds that [music] Cedance made for
+this one. So, what we can do is we can
+upload this into Astra, and then we can
+just give it a super simple prompt. I
+want you to craft a Cedance 2.5 prompt
+to generate an audible synchronized
+sound effects track for this 8-second UI
+animation. The reference is the video,
+so you need to analyze it frame by frame
+and understand what sound effects. Keep
+in mind, you can do this for any type of
+video. In this case, I used this
+animation, but you can also literally do
+this for a intro video. That's how we do
+it sometimes. Then you just going to ask
+it to make a prompt. In this case, I'm
+going to make the prompt because I want
+to save some credits before it does this
+in Hixfield and I get a version that I'm
+not happy with because I always want to
+check the prompts that it's going to
+use. So, as you can see, it wrote a
+super detailed prompt of the audio. And
+now you want to go through this and see
+if you agree with this. If you disagree,
+then go back, reiterate, change a few
+things. Always do that with your
+prompts. Just don't blindly trust
+ChatGPT for everything, because that's
+how you're going to burn a lot of money.
+Like, trust me. I've been there. If you
+have any changes, change them.
+Otherwise, copy this, go into Hix Field,
+upload your original track in Cines 2.5,
+then paste in the prompt right here.
+Make sure you add in video one to refer
+to that video. Then match the length of
+the video, choose your settings. You
+could do this in low settings. You don't
+need to do this in high settings,
+because I'm going to show you why. Here
+I have the finished result of that
+prompt.
+Like, it sounds a bit better, but the
+video quality has noticeably gotten
+worse. So, you just want to download
+that video, then you want to separate
+those audio tracks, and then you want to
+replace that with the original video.
+Literally, you could even drop in that
+video in there, and you can just use
+like Whisper Flow, and you can say
+something like, "I want you to replace
+this audio of the file that I just
+uploaded, and replace it with the
+original file that I gave you, and make
+it match." Then, Astra will do the work
+for you, and you will have [music]
+your original high-quality clip with the
+new audio that you just generated. All
+right, that is the complete guide of how
+you can edit your videos using AI. In
+particularly, we're using Astra 6 as the
+brains of this. If you want to try this
+out yourself, I would recommend using
+Hix Field for that. I will leave the
+link in the description down below. And,
+if you have any questions on this video,
+you want to see more things in depth.
+Lastly, make sure to click the video on
+the screen right now if you want to
+learn what else you can do with Astra 6
+and Cines.

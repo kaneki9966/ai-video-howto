@@ -1,0 +1,343 @@
+[music]
+[screaming]
+[crying]
+[singing]
+[sighs]
+>> The ad you just watched was entirely AI
+generated. This kind of production could
+cost traditional studios over $300,000
+[music] and take months to make. But I
+built the whole thing in just a couple
+of days on my laptop. If you're new
+here, I'm Jack. I've spent over a decade
+creating visual effects for many of the
+biggest brands [music] on the planet,
+and now I'm using AI to reinvent
+creative workflows. In today's video,
+I'll teach you [music] every step of the
+process so you can produce your own
+cinematic AI commercials in stunning 4K
+resolution. Whether you're a business
+owner who wants to create professional
+ads for your brand [music] or a solo
+creator looking to offer this service to
+paying clients, I'll cover everything,
+including character design, animation,
+and [music] the edit. And I'll even give
+you free access to my AI skill, which
+handles the complicated [music]
+prompting so you don't have to. If you
+enjoyed today's content, be sure to
+whack a like on there for me and
+consider subscribing. All right, let's
+get into it. So how do we actually put
+something like this together? Well,
+there are a few key stages to the
+process. We'll start with image
+generation where we'll design all of our
+characters, locations, and branding.
+Next, we'll look at video generation to
+bring our scenes to life. And finally,
+how to piece everything together in the
+edit. And unlike other creators, I'm
+actually going to show you when things
+go wrong and how to fix them. Of course,
+it all begins with an idea and the best
+ones don't come from ChatGPT or Claude.
+They come from you. Before you touch any
+AI, think about the story you want to
+tell as well as the characters, props,
+and locations that will be featured. I'd
+suggest writing some kind of script that
+includes details like performance,
+lighting, and camera angles. This is
+going to encourage you to start thinking
+like a director. And by imagining each
+scene, [music] you'll actually start
+problem solving before you spent any
+credits. The truth is if your idea sucks
+or the story doesn't make any sense,
+you're guaranteed to make AI slop. But
+putting real thought behind your concept
+is what will separate you from the
+competition. Let's start with building
+our cast. I've opened a new Claude chat
+and uploaded my custom skill. [music]
+This is an MD file, meaning it's also
+compatible with ChatGPT, Gemini, and
+Grok. And I'll let you know how you can
+get this downloaded for completely free
+at the end of the video. I've also
+uploaded some reference images of myself
+and I'm asking Claude to write me a
+prompt for a character sheet where I'm
+wearing winter clothing. So I can go
+ahead and get this copied and then I'm
+going to move over to Highfield, which
+is where I'll generate all of the assets
+for this project. If you did want to
+follow along, find a link in the
+description and a big thank you to them
+for sponsoring today's video. To start,
+I'm going to head up to the top left
+hand corner, hover over the image tab
+and select create image. For the model,
+I'm going to be using SeaDream 5.5,
+which is my favorite image generator on
+the market right now. I'll go ahead and
+select those same images of myself to
+act as references and I'll [music] paste
+in the prompt from Claude, increase the
+batch size to two, and hit generate.
+Okay, this option is looking great.
+First of all, it genuinely looks like me
+[music] thanks to those references, but
+there's also a really nice level of
+textural detail, particularly with the
+close-up on the right hand side. So when
+we come to generating our videos, this
+will give the AI a lot to work with. I'm
+also going to need an alternate version
+of my character sheet where I look a bit
+more disheveled after the chaos of the
+supermarket. I'm going to give Claude
+that first generation and ask it to
+write me an edit prompt that will make
+me look a little bit worse for wear. So
+I'll get this copied and back on
+Higgsfield, I can drag and drop in that
+first generation to act as our
+reference, paste in the Claude prompt,
+and hit generate. And SeaDream 5.5 has
+done a great [music] job here. It's
+preserved all of that textural detail,
+but made me look a bit of a wreck. We're
+going to use this for the final scene of
+the ad. I'm now going to rinse and
+repeat the same process for building out
+the rest of the cast. That's the shop
+staff as well as the frenzied shoppers.
+I've also built out a couple of location
+references, including the entrance and
+then this three-quarter view of the shop
+as well as some very clean, simple
+branding assets, including this app
+design which we're actually going to put
+onto my character's phone screen when we
+generate our videos. So with that, the
+cast, location, and branding are all
+set. Everything you see is entirely
+built from Claude prompts, thanks to my
+custom skill. Think about this as the
+pre-production stage. You really want to
+take your time here to get everything
+just right so that your characters and
+your world feel authentic. We can now
+move on to our video generation. To do
+this, I'm back in the same Claude chat.
+I've uploaded any relevant image
+references to provide context, and I'm
+asking the AI to write me a 30-second
+long video prompt for the first scene,
+which I just copy and pasted from my
+script. Claude is going to take my scene
+and convert it into a prompt packed with
+useful detail for the AI video model. We
+can go ahead and get this copied, and
+back on Hixfield, I'm going to head up
+to the video tab and select Seedance
+2.5. I'm going to start by adding those
+same image references for my characters
+and location, then pasting in [music]
+the Claude prompt. Now, let me share a
+method with you guys for massively
+reducing credit cost and speeding up
+your workflow. And that's selecting
+Seedance 2.5 draft mode as the model.
+This allows us to spend way less credits
+by generating at a low resolution first,
+and only once we're happy with our
+results do we spend those extra credits
+to generate in 4K. We want to increase
+the duration to 30 seconds. For the
+aspect ratio, I'm going to go for 16 by
+9. [music] And with that, we can go
+ahead and hit generate and take a look
+at the result.
+>> I will not have you making
+>> So, straight away, we have a few [music]
+problems. The doors are sliding open
+even though they have handles, so this
+doesn't make any sense. Now, instead of
+fighting the AI and wasting a ton of
+credits trying to get the doors to swing
+open, I'm just going to make my life
+easier. Back on the image tab and using
+the location still as a reference, I'm
+going to ask C Dream 5.5 to remove the
+handles, and we'll use this in the next
+generation as our new location
+reference. However, there are a couple
+more tweaks we need to make as well. For
+one, I want the crowd in the opening
+shot to be really exaggerated with a
+queue of hundreds, if not thousands, of
+people. We also want to remove the snow
+from the shop worker's shoes because if
+he's been indoors preparing the shop for
+opening, why would there be snow on
+them? I want to remove the branding and
+name tag from his uniform as well
+because I know that C Dance 2.5 really
+struggles with text. So, again, I want
+to make my life easier by removing this
+variable. I don't want to show the
+cigarette counter either because this
+would never make it onto TV and it would
+likely struggle online as well. There
+are all sorts of rules that forbid
+showing anything to do with cigarettes,
+so we want to lose this. And I've had a
+bit of a brainwave. I really like the
+idea of having the shoppers kind of
+banging against [music] the doors like
+zombies. I'm thinking we'll have a bunch
+of zombie and war film references
+throughout this ad just for the fun of
+it. Back in the claw chat, I've written
+up all of the tweaks that I want to make
+to the prompt, and the AI is going to
+get to work. Okay, we can get this
+copied and run a generation with this
+new prompt alongside that refined
+location still where we removed the
+handles. Let's take a look.
+Okay, this is working great now. All of
+those tweaks have been applied really
+successfully, including that great shot
+inspired by zombie movies. The doors are
+still sliding open, but that's now fine
+because we removed the handles from our
+location still, and everything else is
+working as I want and making total
+sense. We can now go ahead and spend
+those extra credits to run our
+generation at 4K. And with that, we're
+going to get a ton more textural detail
+and realism that's going to make the ad
+feel a lot more premium. Now it's just a
+case of using the same process to
+generate the rest of the videos and
+build up the story. Each time we're
+running our generations through SeaArt
+draft mode and heading back to Claude if
+we want to make any tweaks to the
+prompt. And we're always giving the AI
+as much context as we possibly can
+rather than leaving things to chance.
+The final scene is a great example where
+I gave SeaArt the character sheet of
+myself, the app design to integrate onto
+the phone screen, and the branding to
+lay over the final shot. If I just tried
+to prompt for these results without
+references, [music]
+things would very likely go wrong and
+I'd waste a lot of credits. But this
+way, I'm showing the video model the
+exact [music] results I'm after. A lot
+of the time when we're using these AI
+tools, it's about working smarter, not
+harder. I mentioned earlier that
+Seedance really struggles with
+generating text, and you'll notice all
+of the branded products in the
+supermarket are either really out of
+focus or so far from the camera that we
+can't see any detail. This is a very
+deliberate choice I made so that
+Seedance doesn't have to generate any
+text. Again, I'm always thinking about
+problem solving in ways that don't
+negatively impact the story. With
+everything generated, we can now move on
+to the edit. At this stage is all about
+refinement. I find that Seedance
+generations, as great as they are, have
+a lot of dead space. The opening scene
+is a good example where we have this cut
+away to the second member of staff, and
+he just takes forever to react. But what
+we can do is cut into the shot a touch
+later so the action feels more natural
+rather than awkward. With that simple
+change, everything feels much tighter
+and more deliberate, and we can apply
+that same logic to the rest of the edit.
+[music] We also have to talk about the
+music because it plays a really
+important role. I've timed it to match
+the exact moment where the crowd rushes
+into the shot, and it doesn't just add a
+ton of humor to this montage of shots,
+but it also ties all of the visuals
+together. I decided to have the car door
+slam suddenly cut the music out. And I'm
+not only using this as a storytelling
+device, but I'm also avoiding any
+complex audio edits. So again, this idea
+of working smarter, not harder. We've
+also gone from complete overwhelming
+chaos to a sudden moment of calm. And
+there's a bit of advertising psychology
+here because the viewer is going to
+associate the app we're promoting with
+that sense of calm. I also noticed that
+this early shot doesn't make complete
+sense. Here I'm at the very front of the
+queue close to the doors, and moments
+later, I'm further back in the crowd.
+So, what I did was export a screenshot
+of the frame that I liked and ran this
+through C Dream 5.5 to edit the image so
+my arms were folded instead. [music] I
+then had Claude write me a five second
+long video prompt, ran this through C
+Dance 2.5 and I now had a new shot which
+has perfect continuity with what we see
+later in [music] the scene. I was able
+to drop this in to quickly and easily
+solve the problem. As a finishing touch,
+I always add an adjustment layer on top
+of my timeline and this applies
+sharpening alongside some pretty heavy
+film grain. This just sells the idea
+that this was shot on a real camera
+rather than generated. I'll also unlink
+all of the audio tracks from each
+generation so I can overlap them and add
+these really nice fades to avoid any
+nasty pops or clicks. Now, I want to
+thank you guys for watching this far
+into the video. So, as promised, let me
+tell you exactly how to get your hands
+on the custom skill I used during this
+project for completely free. There'll be
+a link in the description to join my
+school community and in the prompts and
+materials section, you'll find a free
+download for the MD file that you can
+drop into any AI chatbot and use for
+your own projects. You could also join
+as a paid member to gain access to all
+of my courses, weekly live Q&As, and to
+be entered for giveaways. The paid
+membership is completely optional
+though. With that being said, we have
+reached the end of today's video. If
+you've enjoyed it, be sure to whack a
+like on there for me and consider
+subscribing. I'll go ahead and share
+some of my recent content if you wanted
+to continue watching and I'll catch you
+in the next one.

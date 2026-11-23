@@ -1,0 +1,574 @@
+Okay, so we are all business owners
+here. We don't have to go into the
+nitty-gritty and I I don't have to call
+out an ICP. If you're watching this, you
+already know who I am. You know what I
+do, right? With that being said, as a
+business owner who's doing 35 to 45k per
+month, we understand that business costs
+money. We have payroll. We have like all
+the team we have to hire costs a lot of
+money. We're paying out a lot in
+commissions. We have a lot of money
+being thrown into software. But as a
+business owner, especially you guys, you
+guys are bringing in leads. You guys are
+nurturing leads using YouTube. Okay,
+YouTube is easily the most powerful
+nurturing mechanism when it comes to
+bringing a lead from A to Zed, right?
+From being seen, seeing you to being
+closed by you, right? Getting them to be
+nurtured to understand who you are, what
+you do, and how you can help them.
+YouTube is there's no brainer on how
+that is the best possible uh way to get
+someone to know you and buy from you.
+Now, the thing with YouTube content is
+one, it's very difficult to go viral.
+you get. We're not really trying to go
+viral in the first place, but it's very
+difficult to do so. Number two, filming,
+scripting, and editing YouTube costs a
+lot of money and takes a lot of time.
+Now, in this video, I'm going to jump
+straight into it. I'm going to show you
+exactly how you can build your own AI
+YouTube editor. Now, this editor allowed
+me to completely fire my other YouTube
+editor who was charging about $750 per
+YouTube video. And if I want to do three
+per week, you can do the math on how
+much that's going to cost me. and
+they're bringing in like what 150 views
+per video max. So it's like is the ROI
+there? Yes, because people close. But
+can I save that to put into something
+else? 100%. Especially with AI now. So
+in this video, I'm going to show you
+guys how to take a raw video and turn it
+into a polished YouTube video that you
+can just throw out and do whatever you
+want with. Okay, so let's just jump head
+first into this. Now, building your AI
+video editor. So you can build your own
+AI video editor with Claude. As you guys
+may know this now, you could take a
+20-minute raw tech video, plug it in
+through Claude Code, and get a 13minute
+or just a chopped down YouTube video
+that you can use. It takes less than an
+hour to set up. Okay, it costs maybe 20
+bucks a month. If you're using Claude
+Code a lot, it'll cost a lot more. You
+can use like you can pay for the $100
+plan or like a $200 plan and just get
+unlimited. Um, which I would actually
+recommend, especially for those if
+you're doing 35 to 45K per month. Just
+pay for it. It's so much more worth it
+than an actual video editor. Um, and
+there's a lot more stuff that you can do
+with Claude after the fact other than
+this stuff. Um, and there's no editing
+skills that you need. Yeah, I know it
+takes time. Now, if you don't have the
+time to even do this with Claude, what I
+would recommend is you take this video
+that I'm making right now and send it to
+your editor. Say tell him you're you're
+basically just going to pay him less and
+he just does this for you. Or just send
+it to a VA, dude. Send it to an EA and
+have them do it for you. They could
+totally get this down. Now, the tools
+you're going to need are all right here.
+It looks complicated. It's very simple.
+Literally, it's going to cost you around
+20 bucks a month for this entire thing,
+unless you get the max plan of Claude.
+I'm [snorts] not lying. Okay. So, once
+you have an idea that you're going to
+make Claude your editor, the tools you
+need to understand are how you make
+Claude smarter to edit your videos
+better. So, if you just took Claude code
+regular without any skills, without any
+MCPS connected, it will spit out a
+shitty video. essentially you it'll spit
+out videos with the captions that aren't
+even accurate. The captions aren't
+accurate. It'll spit out videos that
+aren't cut properly. It'll put
+animations and motion graphics in that
+suck balls. It'll just suck, right? So,
+when you add tools in, you add in other
+connectors, you're making your brain,
+your editor smarter. I want you to think
+about it as like we're training up this
+like little mini editor, little mini
+junior editor, and we're we're literally
+going to be hands-on with him or her and
+uh make him good. Okay? So if you look
+at 11 Labs here, 11 Labs is the ears
+that we use. So this is what's going to
+actually listen and transcri transcribe
+every word with precise timing.
+Hyperframes is going to be the designer
+with motion graphics, animations,
+anything you want to do there. Um, and
+then all this other stuff that I'm not
+even going to bother to read. FFmpeg,
+whatever. This is all stuff that will do
+the rest of the work, right? This cuts,
+syncs, joins, and exports the video. The
+watch skill actually watches the video
+so you can tell it what to do. And then
+obviously you're going to make a folder
+and you're going to do a lot more other
+things. and I'll walk you through each
+step. Okay, so what you need the full
+kit and what it costs. Now, in total,
+it'll be like 20 to 100 bucks a month if
+that that really depends on the claude
+Mac or the Claude um subscription you
+decide with. But number one, you're
+going to need a Mac with space. Okay, 50
+gigs plus if you can. Um if you have an
+external hard drive, use that. If you
+don't have one, buy one. Um Cloud Pro or
+Cloud Max, whatever you choose. You're
+going to need an 11 Labs API key. This
+is going to cost you roughly 20 cents an
+hour. And if you go like I don't even
+want to do the math, but it it's it's
+literally pennies on the dollar compared
+to what you're getting in return. You're
+going to need Hyperframes, which is
+completely free. Uh Homebrew and the
+rest of these things are completely free
+as well. Camera and mic, obviously,
+you're going to need one of those. So,
+step number one is obviously install
+claude and open code. Okay, you're not
+going to use chat. You're not going to
+use co-work. Chat and co-work are
+together now, but you're going to use
+the code version. Obviously, get the
+desktop app. You're going to sign in,
+pick a plan if you haven't already done
+this, switch to code, and then open your
+project folder. From here, you're going
+to ask Claude to run all the setup
+commands for you. A few of them they
+might need, you know, you to go in and,
+you know, put your password in and
+accept something, but most of them
+Claude can literally do for you. So, go
+in, ask it to install FFmpeg. You can
+literally copy and paste this right now.
+And what I would recommend is follow me.
+follow along with me because you can
+pause this video, go and do each step.
+Just please because I know that a lot of
+you guys are going to click off of this
+video and be like, "Yeah, that didn't
+explain shit." I promise you, you follow
+with me after this, you're going to have
+a full-blown video editor. Mark
+my words. All right, so plug this in.
+After that's done, you're going to
+install all of the engines, the things
+it actually needs. So, to open terminal,
+you can click command plus space and
+type terminal, or you can literally just
+have Claude open the terminal for you.
+Uh, you're going to paste these in
+order. Okay. So, what I want you to do
+is actually stop, screenshot the page,
+and paste these in order. Now, again, if
+you need help with this, I know I didn't
+go very in-depth with the explanation
+here. Just ask Claude. Just ask it like,
+"What the hell am I doing? Can you help
+me do this?" And just it'll help you.
+It'll walk you through. So, just do
+that. Step number three is you need to
+connect 11 Labs. Now, this is the most
+important part. If you don't have 11
+Labs, you will see that the video will
+be not cut off at the right time. It'll
+cut off some of your words. Sometimes
+there'll be empty space. You need to
+connect 11 Labs so it can hear every
+word and transcribe it and know what ums
+and a's and dead space it needs to cut
+out. If you don't connect it, your video
+is going to be buns. All right, so
+connect 11 Labs. Um, what you're going
+to do is you're going to sign up at 11
+Labs. Do this with me. Create an API
+key. You'll see a button that literally
+says create API key. And you're going to
+only select speech to text. Everything
+will be dislected when you look at it.
+Only select speech to text. If you
+select any other ones, it's going to
+cost you more than 20 cents an hour.
+Okay? So only select speech to text. And
+then you're going to copy the key. Do
+not send it straight to your cloud. If
+goes down and your API key is
+there, you're kind of cooked. So take
+the AP take the key, right? It starts
+with SK. You're going to take that key
+and you're going to actually throw it
+into your terminal. Now, you can ask
+Claude, okay, give me the prompt to put
+into my terminal and give me like make
+it like a template so that I know
+exactly where to put my key. And it'll
+give you a prompt and it'll say, put
+your key here. You copy and put your
+paste put your key in the area where it
+told you to do and put it into your
+terminal. Once you have that set and you
+have 11 Labs set up, you're going to
+have to close Claude and reopen it, I
+believe. Yeah, reopen it and then ask it
+if uh the 11 Labs is connected. Okay.
+Now, once that's done, you need to add
+the designer and the eye. So, this is
+what's actually going to make your video
+pop out. So, if you look at this video
+again, like I showed you in the
+beginning, this video was completely
+edited with Claude. And if you look at
+this motion,
+>> exactly how I made $17.8,000 $8,000 in
+24 hours without running a single ad.
+And right, that was completely done by
+Claude. So was the cutting off my little
+rectangle with the rounded corners, all
+the other pop-ups that it makes here.
+Um, all these things are made by Claude
+because we plugged in hyperframes. Now,
+in order to actually get these into your
+Claude code, you're going to go into
+that same terminal and you're going to
+add in these to your terminal. Copy and
+paste these, screenshot it, copy and
+paste it, type it, whatever the you
+want to do. or you can ask Claude to
+give you a copy and paste and plug in
+hyperframes. It's so simple. Please just
+go do this right now. Um, now the watch
+skill is going to allow Claude to watch
+your video. So, it's going to watch your
+video. So, when you tell it to do
+something, it'll watch it. It'll know
+what to fix it. It'll it'll actually
+have eyes. If it doesn't have eyes, it's
+just going to be guessing. It's going to
+be screenshotting each frame. Not valid.
+So, plug these in as well. Okay. Simple
+simple simple stuff. Now, what you want
+to do is give your editor a workspace.
+So, you can actually ask it to make this
+for you. You can say, "Hey, go in. I
+want you to make a folder called video
+editor um with raw footage, B-roll,
+music, sound effects, inspiration,
+projects, and exports. And you can throw
+in all the B-roll that you currently
+have. Throw in the raw footage that you
+have. Throw in the music and
+instrumentals if you already have. And
+you can also pro move ask Claude to
+catalog your music by mood. It'll track
+the BPM and the energy, and it'll pick
+the right audio for each video. And it's
+pretty crazy that it can do
+that, but it really can. It's pretty
+sick. You can throw in sound effects.
+You can throw And a lot of you guys
+probably already have these assets. If
+you don't, go buy them or ask an editor
+to do this for you. Simple, simple
+stuff. And then for storage, uh the
+footage can live on the external hard
+drive. Just tell Claude where it is.
+Basically, we're giving Claude the the
+brain. It's going to give it access to
+all these assets that it can pick and
+choose from. It'll pull the raw footage.
+It'll pull the B-roll. It'll pull a L, a
+filter, a music. It can als it can
+actually color grade your videos for
+you, which is pretty wild. Um, anyway,
+that's step five. And I'm kind of just
+flying through this. You guys can pause
+it and walk go through this entire thing
+with me. Now, how the edit actually
+works, it's not a one-time kind of like
+you send one prompt and it's perfect. I
+would be lying to you if that was the
+case. The truth is, you're going to make
+a video, you're going to send it to
+Claude, and even if you're making two
+different videos, let's say I'm doing a
+Myro video like I'm doing right now. By
+the way, this video is edited by Claude.
+You're going to take the myboard video
+with audio and you're going to take a
+camera and it will sync it on its own.
+You don't have to do all this
+nitty-gritty editing anymore.
+It it will literally sync everything on
+its own. So, you're going to take the
+raw files or file, drop it into that uh
+the raw file folder, tell Claude that,
+"Hey, the raw files in there. I want you
+to make a YouTube video. I want you to
+cut everything out. Uh make sure you use
+11 Labs to transcribe the video. Cut the
+dead space. Cut the ums and os's. cut
+out the mistakes and tighten up this
+entire video to be a polished YouTube
+video ready for production. Then 11 Labs
+is going to transcribe everything. It'll
+cut everything, all the silences, the
+mistakes, whatever. And then also
+because you're making a, let's say
+you're making a Myro board video, my
+claw knows where my eyes are going. So
+if I'm looking at the camera like I am
+right now, it has me full screen. Now,
+if I look back at myro board, it will
+throw me back into the bottom corner
+while I'm talking about something. Okay?
+So, it'll look at your eyes and know
+what to do. Especially if you're looking
+at like a script, for example. It will
+know to cut that part out. All right.
+Now, also, you're going to have to tell
+it it's a YouTube video like 16x9 or
+9x6, whatever, if you're going to make
+like Instagram content, etc. Anyway,
+after that, you can have it throw in
+design. So, once it's all cut up, it'll
+already, if you told it to, it'll throw
+in some animations. If it didn't, you
+can tell it to. So, hey, I want a visual
+motion graphic here. I want sound
+effects here. I want all these things
+that I want to add and make it look
+nice, etc. Here. And you can take
+inspiration. What I recommend is take
+like two to two to like five videos and
+once it has the watch skill, you can
+take these videos on Instagram, copy the
+link, send it to Claude Code. It will
+watch those videos and it will take the
+inspiration from that editing style. You
+obviously don't want to rip it from one
+singular person cuz then you're copying
+somebody. Just rip it from like four or
+five guys that you like their style of
+editing and then give that to Claude as
+inspiration and it will actually use
+that as inspo to create its own motion
+graphics. You can get very very creative
+previewing the video. So, what you
+actually want to do, and this is sauce,
+right? Especially if you don't want to
+waste all of your credits, you want to
+ask Claude to literally make a frame.io
+style previewer for you so that it
+doesn't have to render the entire video.
+You can take exactly what I just said
+and send that to your claw. It'll know
+what it means. So, Frame.io io is
+essentially this editing tool that
+allows you to allows an editor to send
+you a rough draft and you can stop and
+pause at every time stamp at whatever
+time stamp and make a note. So you can
+make a note at 3 seconds, you can make a
+note at 0.6 seconds, you can make a note
+at 9 seconds and now this editor knows
+exactly where it needs to change instead
+of you just sending a voice note of
+like, yeah, I want to change the
+animation to look all this whatever.
+Making a frame.io IO previewer is going
+to allow you to actually save credits
+and be way more concise when you're
+editing with Claude because you you're
+you're making the changes at each time
+stamp. You copy all your notes and you
+send it to your Claude and it'll know
+exactly what needs to be done and this
+is going to make this process way
+faster. Okay. Finally, you're going to
+render the entire thing when you're
+comfortable with it. It can also create
+your thumbnail if you'd like. You have a
+YouTube video now completely done. And
+the more you actually work with this,
+the better your YouTube video and the
+your YouTube editor is going to be. So
+like I said, you want to talk to it like
+a human editor. You want to talk to it
+like a junior editor. And these are all
+the prompts you can actually take. So
+very very first cut, copy this.
+Transcribe raw footage. Take whatever
+file it is with 11 Labs. Remove every
+silence mistake and retake. Never clip a
+word. Keep it 16 by9. That's the very
+first cut. Number two is the brief. I
+want you to edit like a pro YouTube
+editor. I want you to write the captions
+white, three to five words max, no
+punctuation, b-roll from my bureau
+folder, calm music bed under the
+whatever, whatever you want to add in
+the prompt, you can go ahead and do that
+yourself. These are just prompts that
+I've used and you can just take these
+for yourself. Watch these three videos
+and merge their pacing and caption style
+into my own look. Don't copy any one of
+them. Like I said, you're referencing
+other audios or other creators. And then
+the feedback, this part is too late. Tie
+in every pause under 0.3 seconds. Slow
+6% zoom when I'm full screen. and show
+the real screenshot when I say a number.
+So, let's say for example, in this video
+I talked about frame.io. In that
+specific moment, Claude pulled up an
+actual screenshot of frame.io on its
+own. It went into Google and pulled this
+up. And I'm saying this before that even
+happened because I know it can do that.
+I did it with other videos. It pulled up
+Calendarly, like Calendarly style UI,
+um, you know, Google calendar looking
+things like it'll pull up actual logos
+and pull up real screenshots um of what
+you're talking about. And if you have a
+file or a folder that's titled results
+or some you can throw in all your
+results in there. And let's say you
+mention, you know, somebody, this my
+client made $40,000 this month. It will
+pull up that client if it has his name
+on it or it'll pull up a screenshot of
+someone making 40K a month, right? It
+will literally do this stuff for you.
+And it's so clutch. Now, the preview and
+notes final. Like I said, this is going
+to be what that frame.io style editor
+looks like. You're going to have a
+previewer here. You're going to be able
+to add in a note at any second, at any
+time point that you want. And then once
+you've got that done, you have your
+final. You're just going to copy all the
+notes and send it to Claude. You have a
+final video. Isn't this insane?
+This is crazy, right? Finally, what you
+need to do is turn this entire thing
+into a skill. If you don't turn it into
+a skill, Claude is not going to know
+what to do on the next time. When you
+turn it into a skill, you actually log
+everything that that Claude did into a
+memory file essentially. And the next
+time it makes another video, it'll use
+that skill. And every time you make an
+update, you tell it to update the skill.
+And let's say you make a video with
+motion graphics and the next video you
+learn how to prompt better motion
+graphics using I don't know like better
+glass morphism, use AI UI design stuff
+like or um Apple UI designs, whatever
+you want, right? You're making this
+editor better. And then you say, "Hey,
+with everything I just told you with the
+updates in the UI, etc., I want you to
+update the skill." So you're turning
+this into a skill, right? Right. So
+essentially the prompt you can take is
+say package everything we did into a
+skill called my business YouTube editor
+or my personal YouTube editor whatever
+you want to do and then use my brand my
+caption style B-roll music rules the
+preview step every fix I asked for and
+every design I asked for package it into
+a skill called whatever you want now
+it'll make that skill and then video
+every video after the fact you just tell
+it hey edit my new recording with the
+YouTube editor skill that's all it is
+it's so So, so stupidly simple. And now,
+like I said, you have an AI editor. You
+don't have to pay $750 per YouTube edit.
+You can pump out three, four, five
+YouTube videos a week if you're that
+guy. You really could. Now, you can also
+generate myro boards like this. Myro
+boards like this completely done within
+like 2 or 3 minutes. These are YouTube
+videos that I made and I know how hard
+it is to make myro boards. I used to
+have an executive assistant do that for
+me. AI does that as well. And I can show
+you guys exactly how we do that. I'll
+pop a link right here. You guys can
+watch this video. Um, I will show you
+exactly how you can generate myro boards
+for YouTube videos. This entire thing
+can now be automated with AI. Now, it
+can be a little bit difficult at times,
+okay? And I can I can really be honest
+there. It can be difficult, especially
+when you're a business owner. You
+already have one-on-one calls. You have
+group calls to attend to. You have a
+virtual assistant for things like this,
+but maybe they don't understand
+completely. That is what me and my
+brother are here for. If you want, we
+can help you set up this entire thing
+for you. We actually have our own
+skills. So, the skill that you guys are
+going to have to create and generate and
+take probably maybe like a day to make
+it. Um, we are already we have a skill
+that we've been referencing and using
+for the past couple weeks now and we
+keep making it better. If you guys just
+want that skill plugged into your thing
+for Instagram content, for YouTube
+content, for edit, for editing VSSLs as
+well, everything, we have those skills
+built up and we'll plug that into your
+offer as well as look at your offer and
+see where we can add in a software mode.
+Adding a software remote is our bread
+and butter. That's on top of our
+coaching. So, if you guys want to work
+with us, feel free. You guys can book
+the link below and actually book in a
+call with me and my brother. If not,
+ideally, this video actually helped you
+and right now you are starting to work
+with your video editor. So, hopefully
+this helped. Again, I appreciate you
+guys for watching and I'll see you guys
+in the next

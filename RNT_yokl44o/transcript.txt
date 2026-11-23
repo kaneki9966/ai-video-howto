@@ -1,0 +1,1337 @@
+Now, these two AI videos came from the
+exact same brief and the exact same
+reference images, but look at the
+difference. Which AI video model should
+you actually use? And most of all, which
+one should you actually pay for? In this
+video, I tested about eight of them. And
+the one that won the overall wasn't the
+best at everything. I made each model
+tackle four different types of videos: a
+horror film, a 2D animation, a motion
+graphic explainer, and a UGC skin care
+ad. 64 generations later and about $380
+worth of credits, you are going to see
+all eight compete in every single round.
+I want you to pick your winner, then
+I'll show you my scores, the moment that
+decided them, and what you can learn
+from the results. By the end of this
+video, you'll know which model I'll
+choose for different types of videos and
+what those results actually cost. And
+even if you've never used any AI model
+before or you're confused as to what to
+choose out of the plenty options, by the
+end of this video, you'll know which
+exact model to choose for the project
+that you are working on and what those
+results actually cost. If you haven't
+subscribed to this channel, please do
+that right now. Grab a notepad and let's
+get started. This is going to be fun.
+Now, the test is pretty simple. Each
+model gets the exact same crazy brief
+and the exact same reference images.
+Well, with the exception of the motion
+graphic round. For that round, we're
+going to use no reference images at all.
+And that was very intentional. Now, for
+the longer films, some models could
+produce a full sequence in one
+generation, and others needed shorter
+sections. For example, C down 75 can
+generate 30 seconds at a go, and C down
+2.0 can only generate 15 seconds. For
+those, I split the brief into sections
+and use the last frame of each one to
+start the next. Now, every result is
+going to be labeled, so you know whether
+you're watching one generation or
+several clips joined together. So, how
+exactly am I going to rank these films?
+Well, very simple. Every film gets five
+scores out of five different categories.
+Now, first we're going to judge it if it
+actually followed the brief. Second,
+we're going to judge the visual quality.
+Do the images and the movements hold up?
+Third, we're going to look at
+consistency. Do the characters and
+products and locations stay recognizable
+throughout the generation? Fourth,
+audio. Are the words and the sounds
+right? And the fifth, we're going to
+look at whether the scene works
+together. Is the horror very intense?
+Did the joke actually land? Is the
+explanatory video clear? Does the ad
+feel natural? Did Did the AI
+hallucinate? And if it did, did it
+benefit the entire story? Now, that's 25
+points per round and 100 in total. So,
+check the description for the rating
+template so you can rank them alongside
+me and pick your own winner as we go.
+Now, let's get started with the very
+first round, the horror film.
+Now, the first round is the horror film.
+And the story is very simple. It
+features a night guard who's doing his
+rounds in an abandoned old colonial
+building at the edge of a forest. Now,
+about him in the rafters is Sasabonsam.
+So, Sasabonsam, just for context, is a
+Ghanaian version of Count Dracula. Not
+the fun one from Transylvania, but like
+the very scary one that will catch you
+and kill you. So, Sasabonsam drops
+behind him and he turns around and he
+whispers its name, and then the raw
+comes in. The raw is where the whole
+thing happened.
+>> Now, this is the full prompt for all
+eight models. You can pause the video
+and have a closer look. From here, we're
+going to hop over into Higgs Field,
+paste in the prompt, add in our
+reference images. From here, we're going
+to select the model, select the
+duration,
+select the quality, and click enter.
+>> So, now let's watch all eight videos and
+judge.
+>> Sassa bones Sam.
+Now for prompt accuracy, I'm going to
+give C dance four out of five. Now the
+reason why I did not give it a five over
+five is because I actually asked for a
+whip pan instead of a slow turn. It was
+instead it just gave me a nice pushing
+shot as the guy turned around and not a
+whip pan like I asked for. For visual
+quality, I also gave it four out of 10
+because it looks really good. And one
+thing I love about the consistency right
+here is you can see as the light bulb
+swings across the face, you notice how
+it lights up the pieces of the areas
+inside its mouth. And that for me is a
+really good use of consistency right
+here in this model. I only gave it the
+text and references. But the way it put
+all the story together for me was really
+great so I gave it a five over five,
+especially because although it did not
+follow the prompt exactly, it came up
+with its own way to make it make sense.
+So that's the first clip which is C
+dance 2.5. Let's go over to the second
+clip.
+Sassa bones Sam.
+Now this second one just just blew me
+away. Like there's so many crazy things
+happening that like just doesn't make
+any sense. Okay, for prompt accuracy,
+I'm going to give it a three for very
+obvious reasons. Now one of the things
+is the fact that like when he starts by
+walking forward and then in clip he
+turns. Like what is that about? Like he
+had he doesn't have to turn. He's
+walking forward. So there's no turn. The
+next thing is like the creature just
+appears from nowhere. Like that What is
+that? And now he turns around when he
+was already facing the creature. That
+like this part for consistency and
+prompt accuracy just completely off. And
+finally, the saliva feels like water. It
+feels like he sprayed water on his face.
+So for this round, I gave it three on
+prompt accuracy, three on visual
+quality, two on consistency because you
+can see that it was so bad. You know, I
+was just going to give it a one for for
+consistency, but let's let's let's stick
+to a two. For audio delivery, I gave it
+a three because the audio was not bad.
+Like in the beginning you can hear the
+sound of the footsteps, the eerie music
+in the background, and
+you can hear the creature land softly.
+And as he turns around,
+the music is still there.
+>> Sasabonsam.
+>> By the way he says Sasabonsam is so sad.
+You know, I coming into this I
+intentionally used a tree word, right?
+Because I know that the AI is going to
+struggle with my local dialect. But I
+just wanted to see how well it was going
+to do. And it butchered it. It said
+Sasabonsam. That that that's so wrong.
+It's Sasabonsam. That's how we say it in
+Ghana. For visual quality, I gave it a
+three. It does look AI right from the
+beginning. This thing can work for a
+video game. And for creative effects and
+madness, I gave it a three. Like it
+didn't actually land for me because so
+many things that actually just took my
+attention away from the actual thing
+that is a horror. Now it feels like a
+comedy, right? But it didn't actually
+work for me. So that was it for the
+second video. Now let's watch the third
+video.
+>> Sasabonsam.
+>> The ending caught me off guard, but the
+beginning though, okay, so for this this
+is interesting. The beginning does look
+like a video game, but as it goes on it
+begins to look real. From accuracy I'd
+say it's weird because in the beginning
+this does not look like the reference
+footage that we gave it. Like it has two
+windows on both sides. So that's
+definitely not what I asked for.
+And when it opens this is the first cuz
+I opened from the back instead of the
+front. He has the light in the right
+hand. Again, in the next shot it looks
+like it's in his left hand. In the next
+shot it's now in his left hand instead
+of the right hand if you look at the
+first clip. And the way it says someone
+something descends from the ceiling is
+correct according to the prompt because
+he comes down with his legs up and his
+head down. But then as it spreads his
+wings the wings are spread upward. You
+know, when you're coming down from the
+from the ceiling and you spread your
+wings it's going to be inverted, but now
+the wings are not upside down. They're
+in the correct orientation, which is
+which is wrong. And the next shot
+it's gone. Like it was before it was
+behind him in this shot in the next shot
+it's it's gone. That that makes no
+sense. And now he turns around and it's
+in front of him. I mean and I must say
+the creature coming from from the front
+is scary. Like this this actually did
+scare me a little bit. So for this round
+I gave it two for prompt accuracy, four
+for visual quality because it did
+actually look real. I gave it two for
+consistency for obvious reasons, four
+for audio, and two for creative
+effectiveness. It tried to do some
+interesting things with the building and
+the way the creature comes down from the
+rafters and everything else, but it it
+failed really bad at keeping all of
+those things together. Let's watch the
+next video.
+>> Sasabonsam
+I don't know how I feel about this one.
+It's it's strange. Now, my ratings are
+are quite obvious. Like in the
+beginning, he's walking in the right
+reference space. I like that. This the
+the the torchlight is in his right hand.
+It makes sense. But then, something
+weird happens. Here, when Sasabonsam
+comes down, it comes down nicely. Right?
+Like this was my favorite part of this
+shot. It actually comes down very
+nicely. But then, look at what happens
+here. When he turns, there's a whip pan
+in the opposite direction. What is that
+about? And he's not even screaming. Like
+he's like he comes in and his mouth is
+just open and he's standing there. I
+mean, I just I like the way it ended
+because it got both feet correctly. And
+this perhaps is the most scariest part
+because we get a closer look at the feet
+of the creature. And that part is quite
+scary. For prompt accuracy, I'm going to
+give this a two. For visual quality, I'm
+going to give it a two. For consistency,
+I'm going to give it a three. Yeah, I'm
+going to give it a four for audio. And
+for creative effectiveness, I'm going to
+give it a three. Let's watch the next
+version.
+Sasabonsam
+If you're watching this with me, I'm
+sure you're making the exact same face
+like I am. What is going on here? For
+prompt accuracy and consistency, I'm
+going to give it a two. He starts
+looking like a different person. The
+face is all wrong. The Now, this part
+that there's a cut here because this
+model can only generate 15 seconds. So,
+we did two different versions using the
+end of the first version at the start of
+the second. So, that's why you see this
+weird cut over here. So, and when it
+screams, you can see the saliva coming
+from the teeth and not the mouth. Like,
+what is that about? And his face is
+dripping. This This part was so funny
+because it overdid the dripping, right?
+Like, his face is actually dripping. He
+screams and he falls to his back. Now,
+the creature is behind him and not in
+front of him.
+Hello. What is wrong with you, AI?
+And that's why I gave it the score I
+gave it. It was terrible, in my opinion,
+terrible, unusable. Let's watch the next
+one.
+>> Sasa bon sam.
+>> My mouth was open. This is the worst
+I've seen all day. I'm going to give it
+zero for prompt accuracy, like zero for
+prompt accuracy. I'm going to give it
+one for visual quality and two for audio
+delivery and zero for creative effective
+list. The quality looks so bad. Looks
+like a PlayStation 2 graphics. Terrible,
+terrible, terrible. Now, the next one
+was supposed to be Flux, but Flux got
+disqualified for this round because the
+prompt just won't run. It triggered some
+type of prompt violation. So, Flux was
+disqualified from this round. So, let's
+skip to the last one, which is Gemini.
+>> Sasa bon sang.
+Now because Gemini can only generate up
+to 10 seconds, we made three separate
+shots. Now the third one had a
+violation. That's the one that brings
+you face to face with a creature. I
+don't know what happened, but there was
+some prompt violation so it couldn't
+even generate at all because of the
+restrictions. However, if I'm going to
+rate this, I'm going to give it a zero
+for prompt accuracy. I'm going to give
+it a one for visual quality, one for
+consistency,
+three for audio and and two for creature
+effectiveness. The creature is
+butchered. Like it looks like a spider.
+What happened?
+That's so bad. That is so bad. Now
+before I show you my scores, I want you
+to pick the winner from your side if you
+had been doing it alongside me. Now my
+horror winner is SeaArt's 2.5 which came
+up with 21 points out of 25. The second
+goes to Kling. The third goes to One.
+The fourth, SeaArt's 2.0. However, I
+gave it to One because it came in at a
+much cheaper price than SeaArt's 2.0.
+The fifth place went to Minimax H3. The
+sixth place went to Google Gemini. The
+seventh place went to Grok. And the last
+place went to Flux. SeaArt's winning
+film came from one generation with no
+retries at an estimated credit value of
+$24 on Higgsfield.
+Now here is the very simple brief. There
+are three references that I created.
+Ama, Essy, and Oxford Street. Now with
+Oxford Street just around golden hour
+and this is Yao. So Yao has rehearsed
+his opening lines for when he finally
+meets a cool girl. So he meets Essy and
+Essy is standing at a coconut cart. And
+Essy has not agreed to participate in
+Yao's success. So the brief is very
+simple. It's a 2D cartoon with a comic
+exchange. And let's see which model gets
+all three. Let's start by watching the
+first model, SeaArt's 2.5.
+>> Hey.
+Do you come here often?
+>> And yes, I come here often.
+>> Okay, that is C Dance 2.5, the very
+first option. For prompt accuracy, I
+gave it a three. And the characters look
+the same way, but the streets look very
+out of proportion. All of every
+character here looks like a giant. For
+visual quality, I gave it a four. It
+looks really good. I mean, the animation
+style that I gave it was so well
+preserved, and the motion, the look on
+the characters' faces, the swag that he
+walks with. I gave it a two for
+consistency for obvious reason. I gave
+it a four for audio delivery, and I gave
+it a three for creative effectiveness.
+That wasn't That wasn't half bad. It
+actually did it quite well. But then,
+was it funny? I'm not so sure. It was
+almost there. Let's watch the next
+video.
+>> Hey.
+Do you come here often?
+>> And yes,
+I come here often.
+>> Well,
+Clank 4.0, I would say, did really well
+on visual quality. For prompt accuracy,
+not so much. Well, they start out
+looking like giants. The next thing we
+see is he's holding onto his collar the
+entire time. And that was not in my
+prompt. And as he's walking, he gets to
+the cart, and then all of a sudden, he
+becomes smaller from being a giant. So,
+for this, I gave it one on prompt
+accuracy, four for visual quality, two
+for consistency, three for audio and
+delivery, and two for creative
+effectiveness. But, for this round,
+aside how good it looked, it didn't
+impress me.
+>> Hey, do you come here often?
+>> And yes, I come here often.
+>> Well, you know, this that's a very weird
+option. It started with me getting very
+disappointed, and then within the next 2
+seconds, it caught my attention all over
+again. You can see AC standing there
+looking at him, and then the coconut
+falls, he runs away, and he quickly runs
+back in. At this point, he doesn't have
+a head, which is artifacted in a glitch
+from AI. That's very strange. But, I
+like the way it's sort of it seems
+seamless. He runs off camera, he runs
+back in camera, and appears right in
+front of AC. And that looks good to me.
+That's like that's really good
+animation. One out of two in prompt
+accuracy. I had a four in visual quality
+because it did look very good. Had three
+in consistency. Aside the beginning, the
+audio was so good, the afterbeat was
+nice. Three in creative effectiveness.
+Well, we're going to watch the next
+video by C Dance 2.0. Let's go.
+>> Hey, do you come here here often?
+>> And yes, I come here often.
+>> Hey!
+>> Okay, now I am very very surprised,
+right? And I'm very surprised for one
+reason, because the very first video we
+watched of this animation was made by C
+Dance 2.5. So, I had zero expectations
+for C Dance 2.0 to do any better. But
+now looking at them, I'm so surprised
+because like the quality, the
+consistency, the prompt accuracy, and
+the audio, everything comes together to
+really give it a very quality effective
+creative approach. Now, this video you
+are watching is actually two separate
+videos, because C Dance 2.0 can only
+make 15 seconds per generation. So, to
+make this 30-second clip, we had to
+generate two different versions.
+However, if you look at where he falls
+down right on the 15-second mark, that's
+where you can see the camera shift. So,
+for prompt accuracy, I'm going to give C
+Dance 2.0 4 over 5, for visual quality,
+4 over 5, for consistency, I'm going to
+give it three, and for creative
+effectiveness, I'm going to give it a
+five because of how it brought
+everything together. Although there were
+inconsistencies, if you actually don't
+pause to take a closer look, you may not
+even realize that there were certain
+inconsistencies with the shot. And
+that's what I mean by if an AI is able
+to pull something that may not have
+worked together in a way that may
+deceive the untrained eye or somebody
+who's not really paying attention. And I
+think C Dance 2.0 did a really good job
+at that. Now, let's watch the next video
+from the next model.
+>> Hey, do you come here often?
+>> And yes, I come here often.
+>> Well,
+I'm not really sure what I think about
+this To be To be frank, while Minimax H3
+started off really well, um except for
+like from the very first shot, what
+you're looking at is they look like
+giants once again. This has been a
+consistent issue across most of the
+models that we checked so far. Only C
+Down 2.0 got the proportions right to a
+to a large extent. And I would not even
+take away from Minimax right now cuz the
+quality looks amazing. But I am so
+impressed by the quality itself, and I
+think the sound was actually good. It
+got the Afrobeat background sound
+correct to a large extent. I'm going to
+give Minimax two for prompt accuracy.
+I'm going to give it three for visual
+quality. I'm going to give it three for
+consistency, and two for audio and
+delivery, and creative effectiveness.
+I'm going to Now, let's watch the next
+one, Grok. So far, since we started in
+the beginning, Grok has been having a
+really hard time, especially from the
+horror film comparison. I have so much
+hope in Grok because of what I've seen
+on Twitter.
+>> Hey, do you come here often?
+>> And yes,
+I come here often.
+>> I I I I I think my facial expressions
+tell it all. Grok, oh my goodness. This
+This was So far, this is the worst we've
+seen so far in this list. I mean, first
+of all, it starts with Yau almost
+looking like a small person. So, for
+prompt accuracy, I'm going to give it
+one out of five. Yes, one out of five.
+For visual quality, I'm going to give it
+a two. For consistency, I'm going to
+give it a one. I wish I could give it a
+zero, but it's I'm sure there's going to
+be worse models than this. I'm looking
+at Grok for this one. It's strange
+because it starts with with some type of
+disco sound when I clearly asked for
+Afrobeats. The sorry, Grok deserves a
+one for audio delivery. And for creative
+effectiveness, I'll give it a a two
+because it did try to
+make sense out of the entire chaos it
+was trying to create, but let's give it
+a two for now. Let's watch the next
+>> Hey.
+Do you come here often?
+>> And yes,
+I come here often.
+>> I had hopes for Flux, but from what I'm
+seeing, this is this makes no sense.
+Right? So, in the very first frame, we
+see y'all again bigger and taller than
+the coconut I'm cut. And then he falls
+down without even slipping. And I mean,
+also the animation looks very ugly
+because their heads are too large. Flux
+did terribly on this very round. I will
+I'm very disappointed in Flux. So, for
+prompt accuracy, I'm going to give Flux
+one out of five. For consistency, I'm
+going to give it one. For visual
+quality, I'm tempted to give it a two,
+but then it doesn't stay consistent.
+Like we move from good elongated
+characters to stunted characters. So,
+I'm going to give it a one in this area.
+For audio, I'm also going to give it a
+one. It's it's right up there with Grok.
+And then for also the last one for
+creative effectiveness, it's it's just
+not doing it for me. So, I'm going to
+give it a one. Now, let's
+>> Hey.
+Do you come here often?
+>> And yes, I come here often.
+>> Google Gemini just blew my mind. not in
+a good way. Look at this. The coconut
+has a face.
+In which part of the prompt did I ask
+the coconut to have a face?
+This makes no sense. I mean, okay, let's
+let's be fair. Let's start from the
+prompts, just the prompt accuracy. The
+way he walks in, well, he starts by
+propping his color, that did not come
+in. The way he struts towards the cart,
+weird. He's taller and bigger than the
+cart. Now, he falls without actually
+even interacting with the cart. The
+coconuts are weird. He gets up and now
+he's the same size as the girl.
+Meanwhile, in the very first shot, he
+was a giant. And now, the next part, he
+just switches from You know what?
+I'm just going to stop here. This
+doesn't even deserve our scrutiny. For
+visual quality, I'm going to give it a
+two. And for consistency, I'm going to
+give it a one. For audio, I'm going to
+give it a two. And for creative
+effectiveness, I'm going to give it a
+two. Only because this took three
+separate generations. Now, which one
+actually made a scene work for you? For
+me, Seed on 2.0 won this round, and I'm
+sure you've already seen why from the
+really impressive consistency that we
+got. Now, the final cost came in at an
+estimated credit value of $18 for this
+30-second clip. And believe it or not,
+that's the truth, and it sounds quite
+expensive. At the end of this round,
+Seed on 2.5 leads the leaderboard with
+around 37 points. Seed on 2.0 at 34
+points, and 1 3.0 at 29 points. The rest
+are listed up on the screen, so you can
+have a good look at this.
+This round is a motion graphic explainer
+about the concept of ikigai. It talks
+about what gives life a sense of
+meaning. Now, for this round, there
+around there no reference images, and
+that was very intentional. I wanted to
+see if the AI could come up with an
+accurate response to the prompt without
+any reference. So, now, let's watch the
+eight videos, and let's judge from
+there.
+>> On the islands of Okinawa, people have a
+word for the reason you get out of bed
+every morning.
+Ikigai.
+It lives where all four things meet.
+What you love,
+what you're good at,
+what the world needs, and what you can
+be paid for.
+Find the place where all four overlap,
+and work stops feeling like work.
+That's your ikigai.
+>> Again, C Dance Studio 5 has just
+delivered a really simple but effective
+video. For prompt accuracy, I'm going to
+give it a four. Four for visual quality.
+For consistency, I'm also going to give
+it a four for consistency, especially
+because I didn't give it any reference,
+but it kept everything seamless from the
+beginning to the end. And I'm also going
+to give it a four for audio. Like, the
+audio was so good in the beginning.
+Listen to the sound of the sea.
+>> islands of Okinawa, people have a word
+for the reason you get out of bed every
+morning.
+Ikigai.
+>> the way the pen writes. It's It's very
+interesting. A four for consistency
+because notice what happens here. The
+pen that writes ikigai is black, but the
+pen that writes
+Oh, I actually got it wrong. So, the pen
+that writes ikigai is black because the
+ink is black. Now, the pen that
+highlight ikigai, it's yellow because
+the ink is yellow.
+I did not catch that initially, so I
+think that that that's that's that's a
+thought on my part. But, I'm still going
+to give it a four because not everything
+was consistent as it should be. If you
+look at this scene, it says what what
+you're going I don't know if it says m o
+or m v o, and that's a typo. Remember I
+said that we should pay attention to the
+typo. For audio delivery, I'm going to
+give it four, and for creative
+effectiveness, I'm also going to give it
+a four. Now, let's go over to the next
+model to see what it did.
+>> On the islands of Okinawa, people have a
+word for the reason you get out of bed
+every morning.
+Ikigai.
+It lives where four things meet.
+What you love, what you're good at,
+what the world needs, and what you can
+be paid for.
+Find the place where all four overlap,
+and work stops feeling like work.
+That's your ikigai.
+>> The first thing that caught my attention
+was the audio. The audio was incredibly
+clean. However, the consistency in terms
+of prompt accuracy was a little strange.
+It looks like the fisherman is in the
+middle of the water, which is strange
+because I didn't exactly in the prompt
+say the fisherman should have a boat.
+It's The fisherman is on land, but it's
+fishing, right? The text that goes on
+the screen says mission, passion,
+profession, and profession. It should be
+vocation, not just profession. So, now
+there's another spelling mistake here.
+And again, like I said, AI still has
+that issue with getting the right tense
+correct. I'm going to give claim four
+points or three for prompt accuracy, and
+three for visual quality, two for
+consistency because of the spelling
+mistakes. I'm going to give it a three
+for audio delivery because the Foley
+just kept missing. And finally, for
+creative effectiveness, is I'm giving it
+a three because of how it pulled
+everything together. Next on the screen
+is 13.0.
+>> On the islands of Okinawa, people have a
+word for the reason you get out of bed
+every morning.
+Ikigai.
+It lives where all four things meet.
+What you love, what you're good at,
+what the world needs,
+and what you can be paid for.
+Find the place where all four overlap,
+and work stops feeling like work.
+That's your ikigai.
+>> Okay, right off the bat, I'll say that
+13.0 is okay. So far, 13.0 has neither
+been great, neither has it been bad or
+terrible. For instance, here it spells
+vocation as VCCA.
+That That's almost vacation. And then
+there's a correct spelling of vacation.
+And then there's another wrong spelling
+of vacation that says v o c t i o n. So,
+again, always pay attention to written
+text if you're using AI for animations
+because it's going to disgrace you. This
+reason, I'm going to give one 3.0 three
+in prompt accuracy, three in visual
+quality, three in consistency, three in
+audio. The audio, I think, was the best
+part of this. And I'm also going to give
+it a three in creative effectiveness.
+>> On the islands of Okinawa, people have a
+word for the reason you get out of bed
+every doing.
+Ikigai.
+It lives where four things meet. What
+you love, what you're good at, what the
+world needs, and what you can be paid
+for.
+Find the place where all four overlaps,
+and work stops feeling like work.
+That's your ikigai.
+>> So far, the the audio started off
+nicely, but then it just sort of went
+downhill from there. Because when ikigai
+comes in, the phonetic spelling is
+wrong. And before it's even done
+spelling the ikigai with the g u y, it's
+supposed to be the g u i. For this
+round, I'm going to give Seedans 2.0 two
+in prompt accuracy, two in visual
+quality cuz I'm going to give it a two
+for consistency. Look at the spelling on
+the screen. It's passion is spelled p o
+s s i o, almost like poison. And I'm
+going to give it a two for creative
+effectiveness. This was the worst round
+I've ever ever seen Seedans Super and
+Zero beat. Now, for the next round,
+let's watch Minimax H3.
+>> On the islands of Okinawa, people have a
+word for the reason you get out of bed
+every morning.
+It lives where four things meet.
+What you love,
+what you're good at,
+what the world needs,
+and what you can be paid for.
+Find the place where all four overlap,
+and work stops feeling like work.
+That's your ikigai.
+>> I think for the first time Mini Max did
+a really decent job. Although everything
+is good for prompt accuracy, I'll give
+it a two because this is kind of far
+from what I asked for. When it comes to
+visual quality, I'm also going to give
+it a two. Now for consistency, I'm also
+going to give it a two because it felt
+like the animation was rushing and it
+felt like things were were jumping. The
+text was accurate but the visual just
+looked very cheap and well, I guess it's
+also a cheap model but the best part is
+I'm going to give it a three for audio
+because it did well in audio and I'm
+also going to give it a two for creative
+effectiveness. I did not like the
+approach although it was trying to be
+creative, it just wasn't able to bring
+it together in a way that really uplifts
+the story. It just sort of ended. So,
+for that, that's my rating for Mini Max.
+Let's watch the next video. Next we are
+back at Grok. Grok, please look good
+this time. Like I've had so much hope in
+you. Do not let me down, Grok.
+>> On the islands of Okinawa, people have a
+word for the reason you get out of bed
+every morning, ikigai. It lives where
+four things meet, what you love, what
+you're good at,
+what the world needs,
+and what you can be paid for.
+Find the place where all four overlap
+and work stops feeling like work.
+That's your ikigai.
+>> You know, there's something about Grok.
+It starts off really well and then it
+just
+destroyed itself towards the end. Text
+of ikigai and different woman
+and then instead of the thing that says
+love, it says what the world needs, what
+you love is and then it goes downhill
+from here. I'm going to give it a two
+for prompt accuracy. I'm going to give
+it a two for visual quality and I'm
+going to give it a one for consistency.
+I'm going to give it a two for visual
+quality and and then I'm going to give
+it a three for creative effectiveness. I
+did really enjoy the opening scene. It
+looked really nice and I like how the
+transition just comes in. It also looks
+really nice. But then from the 12-second
+point going all the way to the 30-second
+point, it did disappoint me.
+Not good, Grok. Not good. Now next,
+Grok, Flux has been the really sketchy
+AI model so far. So let's see what it
+can do this time. Next up, Flux 3.0.
+>> On the islands of Okinawa, people have a
+word for the reason you get out of bed
+every morning.
+Ikigai.
+It lives where four things meet. What
+you love, what you're good at, what the
+world needs,
+and what you can be paid for.
+Find the place where all four overlap,
+and work stops feeling like work.
+That's your ikigai.
+>> At this stage, I can say Grok and Flux
+are best friends. The dude is sitting in
+the middle of the water. What is that
+about? Let's rate Flux. For prompt
+accuracy, I'm going to give it a one.
+Apples coming in and the textures. But
+up until the 11-second mark, everything
+from that point going was just garbage.
+So for that, I'm going to give it a two.
+For audio, I'm actually going to give it
+a one for audio. Audio delivery was not
+good. For ikigai, it's just ikigaya. I
+don't know if you heard it, but it's
+really said ikigaya.
+Oh, it says ikigai. It's And then for
+consistency, I'm going to give it a one.
+Right? Like look at the spelling of
+ikigai. Right? When it zooms out, it
+begins to change and look weird. And the
+love disappears. For creative
+effectiveness, I'm going to give it a
+one as well. You know what? Let's look
+at the very last model, Google Gemini
+Omni Flash.
+>> On the islands of Okinawa, people have a
+word for the reason you get out of bed
+every morning.
+Ikigai.
+It lives where four things meet.
+What you love, what you're good at,
+what the world needs,
+and what you can be paid for.
+Find the place where all four overlap,
+and work stops feeling like work.
+That's your ikigai.
+>> Well, Google Gemini only flash did much
+better than Grok and Flux in this case.
+And there's not much to say about it.
+It's It's um It's interesting. It did
+fairly well across board. I'm not so
+excited about anything, neither am I so
+distraught about anything. So, I'm going
+to give it a two for prompt accuracy, a
+two for visual quality, a two for
+consistency, especially because when it
+gets all over here, you notice that the
+text just sort of disappears and
+reappears again. And that was very
+strange to me. I'm also going to give it
+a two for for audio. The audio is so sad
+and so
+so It feels like ah. It just makes me
+want to sleep. And I'm going to give it
+a two for creative effectiveness. And
+that's it for this round.
+>> At the end of this, 2.5 is still leading
+by 20 points.
+It's doing surprisingly well with all
+the categories from prompt accuracy down
+to creative effectiveness.
+See that is 2.5 won with $24 as usual.
+Next contest, UGC.
+>> So, this is Enkwa. Enkwa means life in
+my native tongue, Twi. Enkwa is a
+fictional cleanser I created for this
+test. For this test, we're going to use
+a character I've already built to make a
+video where the creator talks about the
+Enkwa cleanser, uses the cleanser,
+reacts to it, and shows off her skin. We
+want something that feels very casual,
+like it's filmed on a phone. In this
+case, pay attention to the bottle and
+the label. Now, let's watch all eight
+rounds. This is only 10 seconds each, so
+it's going to go by very quickly. Let's
+pay attention.
+>> Okay, wait. I need to show you this.
+Mhm. It smells like shea and lemongrass.
+My skin is so soft right now. Inqua
+gentle cleanser, go get it.
+>> So, first of all,
+as usual, CeraVe 2.5 is giving a very
+realistic look. I mean, one of the first
+things I loved about it was the fact
+that if you look at the writing on the
+label, it's it's it's reflected.
+Initially, I thought this was wrong, so
+I took my phone and I pretended to take
+a selfie of a product and I noticed it
+was reflected, too. So, this is such a
+really interesting detail that CeraVe
+2.5 was able to put in the video. Now,
+my favorite part is the little dance
+that she does with the bottle. Now, this
+was not in the script, right? However,
+let's rank it. For prompt accuracy, I'm
+going to give it a four. It did stay
+mostly on prompt. For visual I'm going
+to give it a four. The idea was for it
+to look like it was shot on phone and
+this delivers that really, really well.
+For consistency, I'm going to give it a
+four. I mean, look at how the lady stays
+the same, the first unbuttoned neck
+stays the same, and she takes off her
+glasses when she's putting the cleanser
+on her face. Good consistency. For audio
+delivery, I'm going to give it a three.
+It's a really good attempt. So, let's
+watch the next video.
+>> Okay, wait. I need to show you this.
+Mhm.
+It smells like shea and lemongrass. My
+skin is so soft right now. Inqua gentle
+cleanser, go get it.
+>> Clink. You know, clink so far has been
+like one. It does good and it doesn't do
+so good and doesn't do so bad either.
+For this one, I can say that there's a
+few things that is wrong with it. It
+doesn't look like it was made by a
+phone. It looks too clean, looks too
+polished, the lighting looks too
+perfect. It's almost as if it was shot
+on a professional camera. So, for that,
+I'm going to rate it down. Now, on the
+next and the next part that I don't like
+was the sound. It sounded extremely AI.
+For prompt accuracy, I'm going to give
+it a three. For visual um quality, I'm
+going to give it a three because it
+looks too polished. Doesn't look UGC at
+all. For audio, I'm going to give it a
+three. It's it's okay, but it does sound
+a little bit white and it also does
+sound very AI. For consistency, I'm
+going to give it a three. It's not so
+great, it's not so bad. Everything sort
+of kind of stay the same, but the phone
+thing threw it off. And if it's supposed
+to be filmed with a phone, why is the
+phone in the film? And for creative
+effectiveness, I'm also going to give it
+a three. Let's look at the next video.
+>> Okay, wait. I need to show you this.
+Mhm. It smells like shea and lemongrass.
+My skin is so soft right now.
+Inqua gentle cleanser. Go get it.
+>> In the beginning, I was thinking that
+C-DANCE was going to win this round, but
+looking at one, it's incredible. And one
+is so cheap. So, first off, and and and
+the best part is it actually pronounced
+Inqua correctly. I tried to see
+>> so soft right now.
+Inqua gentle cleanser. Go get it.
+>> It actually got it. Like it actually
+said Inqua. Haha. This is the first AI
+model that has been able to say a
+keyword almost accurately. I mean, it
+could do better, but it's almost
+accurately done as compared to C-DANCE
+and the other models. That is really
+good. For prompt accuracy, I'm going to
+give it a four. For visual quality, I'm
+going to give it a five. I doubt a lot
+of people would think this was AI.
+Perhaps maybe I'm getting AI blindness,
+but I will try and show this to other
+people to see if I'm correct. But for
+visual quality, I'm going to give it a
+five. And it shows the thing. It's like
+It's like this quirk. He's like she
+doesn't know how to wink. It's like she
+tries to wink both eyes at the same
+time. It just It works in a really
+quirky way that I like. Also, I'm going
+to give it a four for audio. It actually
+got the right except this this little
+hint of AI-ness in the sound. So, that's
+what made me give it a four. And for
+creative effectiveness, I'm also going
+to give it a four. So far, this is the
+best version of seen yet for the UGC
+round. Let's watch the next version.
+>> Okay, wait. I need to show you this.
+Mhm.
+Smells like shea and lemongrass.
+My skin is so soft right now. Enqua
+gentle cleanser, go get it.
+>> C down 2.0 really disappointed me this
+time. Why is she wearing two different
+glasses? In this shot, she has the one
+glasses in the hair and one glasses on
+her eyes. That is so bad. And in this
+shot, you see the Well, let's just say
+in this shot, she's filming herself from
+the camera and you're getting another
+shot from the mirror. But now, when you
+look right in his shoulder, right next
+to your forearm, you see a third hand
+just coming out on the screen. That is
+hilarious and that's terrible. C down
+2.0 failed this round. Let's rank it.
+I'll give it a two for prompt accuracy.
+I'll give it a one for visual quality.
+I'll give it a two for consistency,
+especially because there are two
+glasses. It should It should It should
+It should even get a one. I'm going to
+give it a two. I'm going to give it a
+two for audio and a two for creative
+effectiveness.
+Let's move to the next one.
+>> Okay, wait.
+I need to show you this.
+Mhm, it smells like shea and lemongrass.
+My skin is so soft right now. Enqua
+gentle cleanser, go get it.
+>> I didn't have big expectations for Mini
+Max H3 so far. For visual quality, I'm
+going to give it a one. It looks 100%
+AI. Perhaps it looks 110% AI. It looks
+like those AI videos you see on
+Snapchat. For consistency, I'm going to
+give it a two. For audio, I'm going to
+give it a two. For audio and for
+creative effectiveness, I'm going to
+give it a two. Grok has been doing
+terribly the entire day. Let's hope that
+for UGC, Grok does well. So, I'm really
+looking forward. This is the last round.
+If Grok does not make me impressed in
+this round, it doesn't have any other
+chance to. So, let's look at Grok.
+>> Okay, wait. I need to show you this.
+Mhm.
+It smells like shea and lemongrass.
+My skin is so soft right now. Enqua
+gentle cleanser, go get it.
+>> For what it's worth, this perhaps is the
+only round where Grok has kind of showed
+some promise in terms of what it could
+do. In the previous rounds, Grok was
+just being Grok. But in this round, I'd
+say I'd say Grok did kind of well. It
+looks good. The visual quality is not so
+bad. The consistency, however, it's very
+lacking. In this version, she pumps the
+cleanser into the air and then the hand
+just appears.
+And all of a sudden, instead of us
+seeing hair, it's just she just appears
+out of nowhere. It's For prompt
+accuracy, I'm going to give Grok a two.
+For visual quality, however, I'm going
+to give Grok a five. This really looks
+real.
+Like it looks like a UGC content I'd see
+on Instagram or TikTok or Twitter. For
+consistency, I'm going to give it a two.
+And for audio and delivery, I'm going to
+give it a three. And for creative
+effectiveness, I'm going to give it a
+two. Now, let's look at the next one,
+which is Flaux. Flaux and Grok have been
+competing, but in this round, Grok has
+really showed its colors. Now, let's see
+if Flaux can also surprise me.
+>> Okay, wait. I need to show you this.
+Mhm, it smells like shea and lemongrass.
+My skin is so soft right now. Unkwa
+gentle cleanser. Go get it.
+>> Well, Flaux again let me down. The very
+first frame, Flaux is picking the
+reference image and using it as opening.
+Like who does that? And it looks nothing
+like the reference image I gave it. This
+is a completely different character.
+Completely different character. And even
+the difference between the first shot
+and the second shot, it's not the same
+person. Huh. Flaux. And Flaux is so
+expensive. Let's rate it. For prompt
+accuracy, Flaux gets a one. For visual
+quality, Flaux gets a two. For
+consistency, Flaux get a one again. For
+audio, the audio wasn't so bad, so I'm
+going to give Flaux a three. And for
+creative effectiveness, I'm going to
+give Flaux a one.
+>> Okay, wait. I need to show you this.
+Mhm.
+It smells like shea and lemongrass. My
+skin is so soft right now. Unqua gentle
+cleanser. Go get it.
+>> I think for this round all the models
+are really doing well in visual quality,
+but for consistency and prompt accuracy
+it's lacking. Let's pay closer attention
+to what Gorgor wrong. First of all, the
+character looks like the one we gave it
+closely, but she's wearing completely
+different clothes. That's really bad.
+Now the second one is in the bathroom a
+third hand just appears out of nowhere.
+And why does she have three hands? Well,
+maybe be fooled by this. So, let's rank
+it. For prompt accuracy I'm going to
+give it a three. For visual quality I'm
+going to give it a three. For
+consistency I'm going to give it a two
+for obvious reasons. For audio and
+delivery I'm going to give it a three.
+And for creative effectiveness I'm going
+to give it a three. My winner in this
+round is one 3.0 with 21 out of 25
+points. This is the first time that one
+has won and I think it did really really
+well. This is one for the books. No pun
+intended.
+I was waiting to do that one. One's
+winning came from one generation with no
+retries as an estimated credit value of
+$4.50.
+Let me say that again. $4.50.
+Now let's put all the scores together
+and let's see who won the overall best
+AI video model for this test. Each round
+was out of 25. And when I mention a
+single category like audio, I'm adding
+up across all four rounds and that's
+five points per round. Each category is
+out of 20. In the eighth place, eighth
+place loser is the Flaux 3 with 20
+points. It lost the whole round by
+refusing the horror prompt, but even
+without that it never really scored more
+than nine in a single round. In the
+seventh place was Grok Imagine 1.5.
+Sorry Elon Musk. With 34 points. Grok
+can make a beautiful frame. You saw the
+five in the UGC round. But consistency
+was its weakest category. Four out of 20
+across the entire test. In the sixth
+place was Gemini Omni Flash with 39
+points. Gemini's strength is its audio,
+12 out of 20. Its weakness is following
+the brief, five out of 20 in that
+category including two rounds where it
+scored absolutely zero. On the fifth is
+Minimax with 40 points, the most even
+model in the test. Nothing came above
+nine points and nothing went below seven
+points in any category. In the fourth
+place was Cenos 2.0 with 53 points. The
+most up and the most down model. It won
+animation with 20 points, then it scored
+10 and nine in the next two rounds. In
+the third place Plain 4.0 with 55
+points. Plain never won a round, but it
+finished in the top four in every single
+round. Now second, One 3.0 came up
+second with 65 points. It won the UGC
+round and never finished lower than
+third. Its visual tied for the best in
+the whole test, 16 out of 20. And its
+weak spot was following the brief. And
+the final winner, I'm sure you've
+guessed it by now, the first place with
+75 out of 100 points is SeaDance 2.5.
+It won the horror and the motion
+graphics. It came in second in animation
+and UGC and never finished lower than
+second across all the test. And it's the
+only model that led or tied for the lead
+in all five categories. Its lowest
+category was consistency at 14 out of 20
+points. But the total gives all four
+jobs equal weight. If you make skin care
+ads every day, the UGC round should
+matter more to you than the horror
+round. So let's split every score into
+five categories across all four points.
+In five categories, they are 20 points
+each and that's the same 100 just sliced
+in a different way. Now this is where it
+gets very useful. Across all eight
+categories, the strongest category was
+audio then the picture. The two weakest
+were consistency and following the
+brief. That tells you where AI video is
+right now. They can all make something
+that looks good and sounds good. What
+will really separate them is whether
+they do what you ask it to do and
+whether the character in the last shot
+is the exact same as the character from
+the very first shot. That's prompt
+consistency and accuracy. Runway Spiced
+Category is the picture. Its worst is
+the brief. Kling's best is the picture.
+Its weakest is consistency. And then I
+see audio is its best and it's also
+really stuck at following the rules.
+Grok has the best picture first and
+consistency is its worst. So, even the
+models at the bottom of the table are
+good at something. You just need to know
+what that is before you spend money on
+it. Now, here's how I will use these
+results. For the horror and cinematic
+storytelling, I'll use SeeDrones 2.5. It
+made the scene work and it kept the
+characters together. For 2D animation,
+I'm going to use SeeDrones 2.0. It
+nailed the comic timing, but it was weak
+in the other rounds, so use it for this
+and not anything else. For motion
+graphics, I'm going to stick to
+SeeDrones 2.5 for across-the-board, but
+still check your text. You can generate
+the visuals and add text in your editor
+later. For creator-style ads, One 3.0 is
+the best. It scored the highest in this
+round for less than half the cost of
+SeeDrones 2.5. Now, let's talk about
+cost and value. Um these are the credit
+values at about 5 cents a credit. For
+SeeDrones 2.5, we spent about $84. For
+SeeDrones 2.0, we spent about $63. For
+One, it spent $31.50 across all the
+generations. Flex spent $30. Grok and
+Gemini around $23 each and MiniMax about
+$11. Kling, $10.50 for all four films.
+So, let's do the point per dollar. Kling
+gets about five points for every dollar
+and SeeDrones 2.5 gets less than one.
+Kling scored 55 for $10.50. SeeDrones
+2.5 scored 75 for $84. That's 20 points
+more for eight times the price, and let
+that sink in. And one sits right in the
+middle, 10 points behind the winner for
+under 40% of the entire cost. So, my
+value pick for this test is actually
+Kling 4.0. It's not the best, but if
+you're generating a lot of videos, or
+you are testing ideas before you
+actually commit any money to it, Kling
+4.0 is the one that lets you keep going.
+Every film you saw came from the model's
+first attempt. All eight films add up to
+about $270.
+The rest of the $380 was on me,
+reference images, and about 15
+generations that I got wrong. Where
+would I spend my own money? So far, I'm
+going to bet my money on SeaArt 2.5 and
+one, because those two models gave me
+the best. And next, I'm going to put my
+money on Kling 4.0. So, if you're
+choosing a model, here's the test I'll
+run before buying a bigger plan. Take
+one scene you actually need, and write
+down what would make it useful and
+usable. Choose a small number of models,
+set a budget, and a retry limit. Then
+keep the failures as well as the
+successes, because you need that to
+separate the good from the bad models.
+That tells you what it really takes for
+you to get your work done, and use the
+checks we've covered so far. Clear
+action sequence, intentional reactions,
+accurate text, and consistent product
+and characters. So, after eight models,
+four jobs, 64 generations, and about
+$380
+worth of credit, the overall winner here
+is SeaArt 2.5. But the best choice for
+you depends on which of these jobs you
+needed to do, and what it takes to get a
+usable result. I hope you were ranking
+alongside me from the beginning, and I'm
+sure your answers will be different.
+What should be the next challenge that I
+should do? Real estate, fashion, music
+videos, food? Tell me what kind of work
+you make, and the hardest show that you
+need, and that will give me the next
+brief, and I'll see you in the next
+video. Catch you later. Bye.
