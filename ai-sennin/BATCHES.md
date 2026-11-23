@@ -1,7 +1,7 @@
 # AI仙人 全91本 バッチリスト
 
 Geminiに投げる用。1バッチ5本ずつ、プロンプト（~/workspace/summary-handoff-prompt.md）と一緒にリンクを貼る。
-調査済み：30本（Museが深く調査16本＋Geminiまとめを検証して蓄積12本＋Claude/ChatGPTまとめを検証して蓄積2本）／ 未処理：61本
+調査済み：31本（Museが深く調査16本＋Geminiまとめを検証して蓄積13本＋Claude/ChatGPTまとめを検証して蓄積2本）／ 未処理：60本
 
 ## 調査済み（投げなくてよい）
 - 【速報】Geminiが超進化！Astra6.2も出たし課金オススメ最強AIはどこか体験ベースで教えるで！（https://youtu.be/5UKQ1hC1OkU）
@@ -51,7 +51,7 @@ Geminiに投げる用。1バッチ5本ずつ、プロンプト（~/workspace/sum
   https://youtu.be/iahxsJLPlaA
   （Geminiまとめを検証し、transcript.txt / method.md を蓄積済み）
 
-### バッチ3（進行中：4/5、2026-11-23）
+### バッチ3（完了：5/5、2026-11-23）
 - ✅ 【上級者の日常】AI使うの上手い人はこの方法で音声入力している
   https://youtu.be/vVGYnI0SMYo
   （Geminiまとめを検証し、transcript.txt / method.md を蓄積済み）
@@ -64,9 +64,9 @@ Geminiに投げる用。1バッチ5本ずつ、プロンプト（~/workspace/sum
 - ✅ 【AIセキュリティのプロ】個人情報が簡単に奪われる現代で最強のセキュリティ対策は？
   https://youtu.be/K3DwuE_9bps
   （Geminiまとめを検証し、transcript.txt / method.md を蓄積済み）
-- 【休日で習得】AIエージェントをゼロから最速で使いこなせる基礎講義！ClaudeCode使って教えます！
+- ✅ 【休日で習得】AIエージェントをゼロから最速で使いこなせる基礎講義！ClaudeCode使って教えます！
   https://youtu.be/ZKIEEbx4200
-  （未処理：4本目完了直後にGeminiの上限に達し、リセット20:47待ち。次回は同じGeminiチャット https://gemini.google.com/app/af7c2ac2a2fecc85 でこの1本を送り、5本揃ってからGoogleドキュメント「AI仙人 バッチ3 まとめ 2026-11-23」を作成させる）
+  （Geminiまとめを検証し、transcript.txt / method.md を蓄積済み。2026-11-23 20:52の実行で、19:59の上限が20:47にリセットされたことを確認してから送信。Googleドキュメント「AI仙人 バッチ3 まとめ 2026-11-23」に全5本を収録。ただしドキュメント内の3・4本目はGeminiがチャット履歴を参照できずURLから再作成した要約のため、検証の正とするのは各動画フォルダの gemini-*-raw.md）
 
 ### バッチ4
 - 【100年に一度】今、我々は「シンギュラリティ」のど真ん中にいる
