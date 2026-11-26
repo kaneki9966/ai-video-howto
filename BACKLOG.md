@@ -30,6 +30,10 @@
 - [深掘り済み] web-remotion-interpolate-easing／Remotion公式ドキュメント interpolate() と Easing／Remotion・表現／目標1／P0／2026-11-26／選んだ理由：A2背景ドリフトで線形補間が実測（加速型の増分）と合わないことが判明し、補間の既定動作と区間別easingを公式仕様で裏取りするため。手順書：`web-remotion-interpolate-easing/method.md`
 - [深掘り済み] web-ffmpeg-scdet-frame-audit／FFmpeg scdet（フレーム間差分の全数測定）／検証・AI編集／目標1・両方／P0／2026-11-26／選んだ理由：全フレーム監査で2フレーム級の白フラッシュ・暗転を取りこぼさないため、FFmpeg標準の差分測定を公式文書で確認し、冒頭3秒で実機動作も確認したため。手順書：`web-ffmpeg-scdet-frame-audit/method.md`
 
+## 候補（2026-11-27発見分・Web題材）
+- [深掘り済み] web-ae-puppet-advanced-secondary／AEパペット（Advanced）でキャラの二次運動を作る／AE基礎・表現／目標1／P0／2026-11-27／選んだ理由：本編キャラはAE中心・Photoshopパーツ分けが確定し、勉強会第8弾のテーマに直結。髪のなびきはピンのキーフレームを根元→毛先へ階段状に遅らせる設計だと公式＋実作者で裏取り。手順書：`web-ae-puppet-advanced-secondary/method.md`
+- [深掘り済み] web-psd-to-ae-rig-prep／Photoshopパーツ分けをAEへ渡す準備／AE基礎・制作準備／目標1／P0／2026-11-27／選んだ理由：第9弾の事前承認テーマ「Photoshopパーツ分け」に直結。レイヤー構造は初回読み込み前に確定しないとMissing化することをAdobe公式で確認。手順書：`web-psd-to-ae-rig-prep/method.md`
+
 ## チャンネルウォッチ（2026-11-24 追加）
 - **3Dシミュ実験室**（YouTube、3Dシミュレーション検証系）：ゴール②の型研究の中心。概要欄にシミュレーションの決まり・試行回数・モデルの単純化まで明記する作り。発見時は分野「3DCG検証系・型研究」、対象ゴール「目標2」、優先度は制作直結度でP0〜P1。深掘りでは構成（お題→条件→実験→比較→結論と限界）とタイトル/サムネの型を抽出する。
 - **What If**（海外、もしも系最大手）：お題の立て方とタイトル/サムネの型の参考。フィクション寄り・チーム制作のため中身の検証方法は対象外。優先度P2。

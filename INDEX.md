@@ -152,6 +152,16 @@
 - フォルダ：`web-ffmpeg-scdet-frame-audit/`（手順書 `method.md`）
 - 要点：scdetは全フレームに mafd／score を付け、閾値は0〜100尺度（既定10、推奨8〜14）。select の scene（0〜1尺度、0.3〜0.5）と混同しない。全フレーム監査で短いフラッシュ・暗転の候補化に使える
 
+## 31. 【Web・AE表現】パペット（Advanced）でキャラの二次運動を作る
+- 出典：Adobe公式 Puppet tools解説＋無印かげひと note（髪を揺らす実例）
+- フォルダ：`web-ae-puppet-advanced-secondary/`（手順書 `method.md`）
+- 要点：ピンは少なく、硬さはStarch／重なりはOverlapで教える（AEは絵の中身を知らない）。髪のなびきは最高点のキーフレームを根元→毛先へ数フレームずつ階段状に遅らせる。AdvancedではDensity／Bendピン／Mesh Rotation RefinementがLegacyのTriangle／Extentと異なる
+
+## 32. 【Web・AE基礎】Photoshopパーツ分けをAEへ渡す準備
+- 出典：Adobe公式「Prepare Photoshop images for After Effects」（2026-10-10更新表示）
+- フォルダ：`web-psd-to-ae-rig-prep/`（手順書 `method.md`）
+- 要点：RGB＋Rec.709、命名は一意、レイヤー順＝コンポ順、互換性はAlways、色補正等は読み込み前に完了。読み込み後の改名・削除はMissingの原因になるためレイヤー構造は初回読み込み前に確定する
+
 ## 参考動画（スタイル分析）
 - EEDたくや「【リリックビデオ】怪物 / YOASOBI」（約25秒、サビ抜粋）
 - フォルダ：`9VyePwDFBuM/`（スタイル分析 `style-analysis.md`、動画本体 `video.mp4`、フレーム画像 `frames/`）
