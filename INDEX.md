@@ -132,6 +132,26 @@
 - フォルダ：`WLbqB24GKrY/`（手順書 `method.md`）
 - 要点：値グラフと速度グラフ、入る速度／出る速度と「影響」の組み合わせで緩急が決まる。単一な動きの型はA（Slow In & Slow Out）／B（速度を残して停止）／C（初速最大→減速）の3つ。連続した動きの引っ掛かりは入る・出るの速度の食い違いが原因で、キーフレーム速度（Ctrl+Shift+K）で数値を揃えるか連続ベジェで防ぐ
 
+## 27. 【AE基礎】After Effectsで作るリリックビデオ｜歌詞が踊る文字アニメーションの作り方
+- 動画：哲也商店街のAE Lab「初心者OK！After Effectsで作るリリックビデオ｜歌詞が踊る文字アニメーションの作り方」（26:35）
+- フォルダ：`BlkiOJg86Cc/`（手順書 `method.md`、Gemini一次まとめ `gemini-raw.md` は未検証）
+- 要点：無料スクリプト「GG分解」で文字を1文字ずつ／パーツごとにシェイプ化し、ラインアニメーション・コロラマの色相一周・反転フラッシュ・字送りを組み合わせる実演。イージングは終了速度を0にせず少し残す（WLbqB24GKrYの型Bと一致する独立出典）。転用判断：同原則を次の文字試作の設計論点として採用
+
+## 28. 【AI理解】How AI generates images and videos（画像・動画生成の仕組み）
+- 動画：東京大学 吉田塁 研究室「How AI generates images and videos」
+- フォルダ：`2fTDv2mz5C4/`（手順書 `method.md`、Gemini一次まとめ `gemini-raw.md` は未検証）
+- 要点：VAE→GAN→拡散モデル→Diffusion Transformerの系譜。拡散モデルはVAEの潜在空間で動き、動画は画像＋時間の3次元データとして同じ枠組みで扱う。IP4ZvWZJnZIの補完。転用判断：保留（知識の補完、新しい制作レバーなし）
+
+## 29. 【Web・Remotion】interpolate()とEasingで速度プロファイルを設計する
+- 出典：Remotion公式ドキュメント（interpolate／Easing）
+- フォルダ：`web-remotion-interpolate-easing/`（手順書 `method.md`）
+- 要点：既定は線形（等速）。easingは区間ごとに配列で指定でき、quad=t²／cubic=t³／bezierで速度の形を設計する。実測点列がある動きは点列をキーフレーム化するのが最も確実。A2ドリフトの点列方式が公式仕様と整合することを確認
+
+## 30. 【Web・検証】FFmpeg scdetでフレーム間差分を全数測定する
+- 出典：FFmpeg公式パッチ文書＋実務ガイド2件、ローカル実機確認済み
+- フォルダ：`web-ffmpeg-scdet-frame-audit/`（手順書 `method.md`）
+- 要点：scdetは全フレームに mafd／score を付け、閾値は0〜100尺度（既定10、推奨8〜14）。select の scene（0〜1尺度、0.3〜0.5）と混同しない。全フレーム監査で短いフラッシュ・暗転の候補化に使える
+
 ## 参考動画（スタイル分析）
 - EEDたくや「【リリックビデオ】怪物 / YOASOBI」（約25秒、サビ抜粋）
 - フォルダ：`9VyePwDFBuM/`（スタイル分析 `style-analysis.md`、動画本体 `video.mp4`、フレーム画像 `frames/`）
